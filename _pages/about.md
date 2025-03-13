@@ -48,7 +48,7 @@ Publications
 ------
 Journal articles
 
-J36 F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 [[PDF]](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2024.3411292)
+[J36] F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 [[PDF]](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2024.3411292)
 
 [J35] X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), 2024 [PDF | Arxiv]
 
