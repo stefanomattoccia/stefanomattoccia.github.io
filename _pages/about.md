@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received a PhD in Computer Science and Engineering from the University of Bologna in 2002 and currently I'm associate professor, with national scientific habilitation 09/H1 for the role of full professor, at the Department of Computer Science and Engineering, School of Engineering and Architecture, University of Bologna. My research focuses on scene perception to infer depth, optical flow, semantic segmentation, and so on from images — with monocular, stereo, and multi-view setups — and sensor fusion — using LiDARs/ToFs and cameras — for the same purposes, mostly using self-adaptive learning-based methodologies. I’m IEEE Senior member.
+I received a PhD in Computer Science and Engineering from the University of Bologna in 2002 and currently I'm associate professor at the Department of Computer Science and Engineering, School of Engineering and Architecture, University of Bologna. My research focuses on scene perception — with monocular, stereo, and multi-view setups — and sensor fusion between LiDARs/ToFs and cameras. I’m IEEE Senior member.
 
 A data-driven personal website
 ======
