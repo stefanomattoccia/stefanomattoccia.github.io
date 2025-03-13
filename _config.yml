@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home Page"
+title                    : "My personal home page"
 title_separator          : "-"
 name                     : &name "Stefano Mattoccia"
-description              : &description "personal description"
+description              : &description "Associate professor of Computer Science"
 url                      : https://stefanomattoccia.github.io/
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
