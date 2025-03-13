@@ -48,7 +48,7 @@ Publications
 ------
 Journal articles
 
-[J36] F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 [PDF | Arxiv]
+J36 F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 [PDF | Arxiv]
 
 [J35] X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), 2024 [PDF | Arxiv]
 
@@ -112,7 +112,7 @@ Journal articles
 
 [J5] L. Di Stefano, S. Mattoccia, F. Tombari, “ZNCC-based template matching using Bounded Partial Correlation", Pattern Recognition Letters (PRL), 16(14), pages 2129-2134 October 2005 [PDF | Bibtex]
 
-[J4] L. Di Stefano, M. Marchionni, S. Mattoccia, “A fast area-based stereo matching algorithm”, Image and Vision Computing (IVC), 22(12), pages 983-1005, October 2004 [PDF | Bibtex]
+4 L. Di Stefano, M. Marchionni, S. Mattoccia, “A fast area-based stereo matching algorithm”, Image and Vision Computing (IVC), 22(12), pages 983-1005, October 2004 [PDF | Bibtex]
 
 [J3] L. Di Stefano, M. Marchionni, S. Mattoccia, "A PC-based real-time stereo vision system", Machine Graphics & Vision, 13(3), pages 197-220, January 2004 [PDF | Bibtex]
 
