@@ -1,13 +1,13 @@
 ---
 permalink: /
-# title: "Short bio"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I received a PhD in Computer Science and Engineering from the University of Bologna in 2002 and currently I'm associate professor at the Department of Computer Science and Engineering, School of Engineering and Architecture, University of Bologna. My research focuses on scene perception — with monocular, stereo, and multi-view setups — and sensor fusion between LiDARs/ToFs and cameras. I’m IEEE Senior member.
+I am associate professor at the Department of Computer Science and Engineering, School of Engineering and Architecture, University of Bologna. My research activity concerns computer vision and mostly aims at scene perception with monocular, stereo, and multi-view setups and sensor fusion between LiDARs/ToFs and cameras. I’m IEEE Senior member.
 
 A data-driven personal website
 ======
