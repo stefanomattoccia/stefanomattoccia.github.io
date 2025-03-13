@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "My personal home page"
+title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Stefano Mattoccia"
 description              : &description "Associate professor of Computer Science"
