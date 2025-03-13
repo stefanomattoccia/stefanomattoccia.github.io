@@ -28,7 +28,7 @@ author:
   bio              : "Associate professor of Computer Science"
   location         : "Bologna, Italy"
   employer         : "University of Bologna"
-  uri              : "https://stefanomattoccia.github.io/"
+  uri              : # "https://stefanomattoccia.github.io/"
   email            : "stefano.mattoccia@unibo.it" 
 
   # Academic websites
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : s_matt
+  twitter          : # s_matt
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
