@@ -22,11 +22,11 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Crop_HR.JPG"
+  avatar           : "Crop_HR.JPG"
   name             : "Stefano Mattoccia"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Viale Risorgimento, 2 40136 Bologna, Italy"
+  location         : "Viale Risorgimento, 2 \\40136 Bologna, Italy"
   employer         : "University of Bologna"
   uri              : "https://www.unibo.it/sitoweb/stefano.mattoccia/en"
   email            : "stefano.mattoccia@unibo.it" 
