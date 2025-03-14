@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-List of publications 
+This is my complete list of publications and patents. Most documeents can be found through Google Scholar (https://scholar.google.com/citations?user=P954CG8AAAAJ&hl=en) or publisher's repositories.
 
 Journal papers
 ------
@@ -332,13 +332,14 @@ International Conference and Workshop papers
 [C1] P. Arcara, L. Di Stefano, S. Mattoccia, C. Melchiorri, G. Vassura, “Perception of depth information by means of a wire-actuated haptic interface”, IEEE International Conference on Robotics and Automation  (ICRA 2000), April 24-28, 2000, San Francisco, USA
 
 Letters
+-------
 
 [L2] S. Mattoccia, M. Casadio, I. Marchio, M. Borgatti, G. Neri, V. Gobbi, “An embedded 3D camera on FPGA", Multimedia Communications Technical Committee, IEEE Communication Society, E-Letter, Vol 8, No. 3, May 2013
 
 [L1] S. Mattoccia, L. De-Maeztu, “On the accuracy and performance of local stereo algorithms for stereo correspondence", Multimedia Communications Technical Committee, IEEE Communication Society, E-Letter, Vol 6, No. 6, June 2011
 
 Book chapters
-
+-------
 [B3]  S. Mattoccia, Book title: “Advances in Embedded Computer Vision”, Chapter "Stereo vision algorithms suited to constrained FPGA cameras", Edited by Branislav Kisacanin and Margrit Gelautz, 2014, Publisher: Springer
 
 [B2]  C. Dal Mutto, F. Dominio, P. Zanuttigh, S. Mattoccia, Book title: "Current advancements in stereo vision", Chapter "Stereo vision and scene segmentation", Edited by Asim Bhatti, July 2012, ISBN  978-953-51-0660-9, Publisher: I-Tech Education and Publishing Kirchengasse 43/3, A-1070, Vienna, Austria
@@ -346,7 +347,7 @@ Book chapters
 [B1]  F. Tombari, L. Di Stefano, S. Mattoccia, Book title: "Stereo vision", Chapter "Robust visual correspondence: theory and applications", Edited by Asim Bhatti, November 2008, ISBN  978-953-7619-22-0, Publisher: I-Tech Education and Publishing Kirchengasse 43/3, A-1070, Vienna, Austria
 
 Patents/Brevetti
-
+-------
 [P7] S. Mattoccia, L. Bartolomei, M.Poggi, F. Tosi, “Method for depth estimation”, 2023
 
 [P6] M.Poggi, F. Aleotti, F. Tosi, S. Mattoccia, V. Peluso, A. Cipolletta, A. Calimera, “Method for determining the depth from a single image and system thereof”, pending (102021000007175, March 24, 2021)
@@ -361,10 +362,10 @@ Patents/Brevetti
 
 [P1] S. Mattoccia, L. Di Stefano, “Apparecchio e metodo per il confronto di immagini digitali”, IT0001341200, September 25, 2007
 
-Ph.D. Thesis
-
-S. Mattoccia, "Real-time analysis of video sequences", Ph.D. Thesis in Electronic Engineering and Computer Science, Dipartimento di Elettronica, Informatica e Sistemistica (DEIS), Bologna, February 2002
-
 Other publications
-
+-------
 S. Mattoccia, M. Poggi, F. Tosi, F. Aleotti, “Deep learning e Computer vision: le tecnologie abilitanti del 3D", Sistemi&Impresa, ESTE - Edizioni Scientifiche Tecniche Europee Srl, pag 62-65, Febbraio 2020
+
+Ph.D. Thesis
+-------
+S. Mattoccia, "Real-time analysis of video sequences", Ph.D. Thesis in Electronic Engineering and Computer Science, Dipartimento di Elettronica, Informatica e Sistemistica (DEIS), Bologna, February 2002
