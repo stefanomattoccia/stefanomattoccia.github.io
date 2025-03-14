@@ -1,9 +1,5 @@
 ---
-# title: "Paper Title Number 1"
-# collection: publications
-# category: manuscripts
-# permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: 
+
 
 '[J36] F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 [PDF | Arxiv]
 
