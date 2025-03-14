@@ -363,17 +363,6 @@ Patents/Brevetti
 
 **[P1]** S. Mattoccia, L. Di Stefano, “Apparecchio e metodo per il confronto di immagini digitali”, IT0001341200, September 25, 2007
 
-Letters
--------
-**[L2]** S. Mattoccia, M. Casadio, I. Marchio, M. Borgatti, G. Neri, V. Gobbi, “An embedded 3D camera on FPGA", Multimedia Communications Technical Committee, IEEE Communication Society, E-Letter, Vol 8, No. 3, May 2013
-
-**[L1]** S. Mattoccia, L. De-Maeztu, “On the accuracy and performance of local stereo algorithms for stereo correspondence", Multimedia Communications Technical Committee, IEEE Communication Society, E-Letter, Vol 6, No. 6, June 2011
-
-
 Ph.D. Thesis
 -------
 S. Mattoccia, "Real-time analysis of video sequences", Ph.D. Thesis in Electronic Engineering and Computer Science, Dipartimento di Elettronica, Informatica e Sistemistica (DEIS), Bologna, February 2002
-
-Other publications
--------
-S. Mattoccia, M. Poggi, F. Tosi, F. Aleotti, “Deep learning e Computer vision: le tecnologie abilitanti del 3D", Sistemi&Impresa, ESTE - Edizioni Scientifiche Tecniche Europee Srl, pag 62-65, Febbraio 2020
