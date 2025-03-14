@@ -13,7 +13,7 @@ title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Stefano Mattoccia"
 description              : &description "Associate professor of Computer Science"
-url                      : https://stefanomattoccia.github.io/
+url                      : https://stefanomattoccia.github.io
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
