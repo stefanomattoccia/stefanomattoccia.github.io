@@ -87,6 +87,14 @@ Journal papers
 International Conference and Workshop papers
 ------
 
+[C126] L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), Nashville, USA, June 11 – 15, 2025
+
+[C125] Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA), Atlanta, Georgia, May 19 – 23, 2025
+ 
+[C124] E. Mannocci, M. Poggi, S. Mattoccia, “Drive with flow”, IEEE International Conference on Robotics & Automation (ICRA), Atlanta, Georgia, May 19 – 23, 2025
+
+[C123] U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), Tucson, Arizona, Feb. 28 – Mar. 4, 2025
+
 [C122] L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), Milano, Italy, Sep 29th - Oct 4th, 2024
 
 [C121] A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), Milano, Italy, Sep 29th - Oct 4th, 2024
