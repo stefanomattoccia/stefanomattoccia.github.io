@@ -9,12 +9,14 @@ redirect_from:
 
 My current teaching activity concerns:
 
-Sistemi Digitali M (Digital System M) 
+72943 - Sistemi Digitali M (Digital System M) 
 ------
+Details available [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/468006)
 
-Calcolatori Elettronici T (Computer Architectrures T)
+28012 - Calcolatori Elettronici T (Computer Architectures T) 
 ------
+Details available [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/434701)
 
-Fondamenti di Informatica P2 (Foundations of Computer Science P2)
+88146 - Fondamenti di Informatica P2 (Fundamentals of Computer Programming P2)
 ------
-
+Details available [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/498976)
