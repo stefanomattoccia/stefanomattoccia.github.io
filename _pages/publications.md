@@ -10,7 +10,7 @@ redirect_from:
 List of publications 
 
 Journal papers
-======
+------
 
 [J36] F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 [PDF](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2024.3411292)
 
