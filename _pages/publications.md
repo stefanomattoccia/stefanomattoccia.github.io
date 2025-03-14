@@ -16,17 +16,17 @@ Journal papers
 
 **[J36]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024
 
-[J35] X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), 2024
+**[J35]** X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), 2024
 
-[J34] M. Poggi, F. Arrigoni, A. Fusiello, S. Mattoccia, A. Bartoli, T. Sattler, T. Pajdla, “Guest Editorial: Special Issue on Traditional Computer Vision in the Age of Deep Learning”, International Journal of Computer Vision (IJCV), 2024 
+**[J34]** M. Poggi, F. Arrigoni, A. Fusiello, S. Mattoccia, A. Bartoli, T. Sattler, T. Pajdla, “Guest Editorial: Special Issue on Traditional Computer Vision in the Age of Deep Learning”, International Journal of Computer Vision (IJCV), 2024 
 
-[J33] P. Zama Ramirez, A. Costanzino, F. Tosi, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Booster: a Benchmark for Depth from Images of Specular and Transparent Surfaces”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume: 46, Issue 1, pages: 85-102, January 2024
+**[J33]** P. Zama Ramirez, A. Costanzino, F. Tosi, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Booster: a Benchmark for Depth from Images of Specular and Transparent Surfaces”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume: 46, Issue 1, pages: 85-102, January 2024
 
-[J32] X. Qiao, C. Ge, Y. Zhang, Y. Zhou, F. Tosi, M. Poggi, S. Mattoccia, “Depth Super-Resolution from Explicit and Implicit High-Frequency Features”, Computer Vision and Image Understanding (CVIU), Volume 237, December 2023, 103841
+**[J32]** X. Qiao, C. Ge, Y. Zhang, Y. Zhou, F. Tosi, M. Poggi, S. Mattoccia, “Depth Super-Resolution from Explicit and Implicit High-Frequency Features”, Computer Vision and Image Understanding (CVIU), Volume 237, December 2023, 103841
 
-[J31] X. Qiao, C. Ge, C. Zhao, F. Tosi, M. Poggi, S. Mattoccia, “Self-supervised Depth Super-resolution with Contrastive Multiview Pre-training”, Neural Networks (NN), Volume 168, November 2023, Pages 223-236
+**[J31]** X. Qiao, C. Ge, C. Zhao, F. Tosi, M. Poggi, S. Mattoccia, “Self-supervised Depth Super-resolution with Contrastive Multiview Pre-training”, Neural Networks (NN), Volume 168, November 2023, Pages 223-236
 
-[J30] X. Qiao, C. Ge, P. Deng, H. Wei, M. Poggi, S. Mattoccia, “Depth Restoration in Under-Display Time-of-Flight Imaging”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume 45, Issue 5, pages: 5668 - 5683, May 2023 
+**[J30]** X. Qiao, C. Ge, P. Deng, H. Wei, M. Poggi, S. Mattoccia, “Depth Restoration in Under-Display Time-of-Flight Imaging”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume 45, Issue 5, pages: 5668 - 5683, May 2023 
 
 [J29] P. Kaniewski, M. Pasternak, S. Mattoccia, “Special issue on Multi-Sensor Systems and Data Fusion in Remote Sensing", Remote Sensing, March 2023
 
