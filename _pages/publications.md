@@ -7,8 +7,8 @@ redirect_from:
   - /publications.html
 ---
 
-This is the complete list of my publications and patents.
-Most documents are available through Google Scholar or publisher's repositories.
+List of publications and patents. 
+Most documents are available through Google Scholar.
 
 Journal papers
 ------
@@ -77,7 +77,7 @@ Journal papers
 
 [J5] L. Di Stefano, S. Mattoccia, F. Tombari, “ZNCC-based template matching using Bounded Partial Correlation", Pattern Recognition Letters (PRL), 16(14), pages 2129-2134 October 2005
 
-4 L. Di Stefano, M. Marchionni, S. Mattoccia, “A fast area-based stereo matching algorithm”, Image and Vision Computing (IVC), 22(12), pages 983-1005, October 2004
+[J4] L. Di Stefano, M. Marchionni, S. Mattoccia, “A fast area-based stereo matching algorithm”, Image and Vision Computing (IVC), 22(12), pages 983-1005, October 2004
 
 [J3] L. Di Stefano, M. Marchionni, S. Mattoccia, "A PC-based real-time stereo vision system", Machine Graphics & Vision, 13(3), pages 197-220, January 2004
 
