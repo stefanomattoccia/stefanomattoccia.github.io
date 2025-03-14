@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-This is my complete list of publications and patents. Most documeents can be found through Google Scholar (https://scholar.google.com/citations?user=P954CG8AAAAJ&hl=en) or publisher's repositories.
+This is my complete list of publications and patents. Most documeents can be found through Google Scholar(https://scholar.google.com/citations?user=P954CG8AAAAJ&hl=en) or publisher's repositories.
 
 Journal papers
 ------
