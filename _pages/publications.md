@@ -87,25 +87,25 @@ Journal papers
 International Conference and Workshop papers
 ------
 
-**[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), Nashville, Tennessee, USA, June 11 – 15, 2025
+**[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), Nashville, Tennessee, USA, June 11–15, 2025
 
-**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA), Atlanta, Georgia, USA May 19 – 23, 2025
+**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA), Atlanta, Georgia, USA May 19–23, 2025
  
-**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with flow”, IEEE International Conference on Robotics & Automation (ICRA), Atlanta, Georgia, USA, May 19 – 23, 2025
+**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with flow”, IEEE International Conference on Robotics & Automation (ICRA), Atlanta, Georgia, USA, May 19–23, 2025
 
-**[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), Tucson, Arizona, USA, Feb. 28 – Mar. 4, 2025
+**[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), Tucson, Arizona, USA, Feb. 28–Mar. 4, 2025
 
 **[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), Milano, Italy, Sep 29th-Oct 4th, 2024
 
 **[C121]** A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), Milano, Italy, Sep 29th-Oct 4th, 2024
 
-**[C120]** R. Fan, M. Poggi, S. Mattoccia, “Exploring Few-Beam LiDAR Assistance in Self-Supervised Multi-Frame Depth Estimation”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), October 14 – 18, 2024, Abu Dhabi, UAE
+**[C120]** R. Fan, M. Poggi, S. Mattoccia, “Exploring Few-Beam LiDAR Assistance in Self-Supervised Multi-Frame Depth Estimation”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), October 14–18, 2024, Abu Dhabi, UAE
 
 **[C119]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, Y. Zhang, C. Wu, Z. He, S. Yin, J. Dong, Y. Liu, H. Jiang, J. Shi, Y. A, Y. Jin, D. Li, B. Ke, A. Obukhov, T. Wang, N. Metzger, S. Huang, K. Schindler, Y. Huang, J. Li, J. Zhang, Y. Wang, Z. Huang, T. Liu, Z. Cao, P. Li, J. Wang, W. Zhu, H. Geng, Y. Zhang, L. Lan, K. Xu, T. Sun, Q. Xu, S. Saini, A. Gupta, S. K. Mistry, A. Shukla, V. Jakhetiya, S. Jaiswal, Y. Sun, Z. Zheng, Y. Ning, J. Cheng, H. Liu, H. Huang, C. Yang, Z. Jiang, Y. Peng, A. Huang, J. Hwang, “NTIRE 2024 Challenge on HR Depth from Images of Specular and Transparent Surfaces”, New Trends in Image Restoration and Enhancement (NTIRE 2924), CVPR Workshop
 
-**[C118]** L. Bartolomei, M. Poggi, A. Conti, F. Tosi, S. Mattoccia, “Revisiting depth completion from a stereo matching perspective for cross-domain generalization”, International Conference on 3D Vision 2024 (3DV 2024), Davos, Switzerland, March 18 – 21, 2024
+**[C118]** L. Bartolomei, M. Poggi, A. Conti, F. Tosi, S. Mattoccia, “Revisiting depth completion from a stereo matching perspective for cross-domain generalization”, International Conference on 3D Vision 2024 (3DV 2024), Davos, Switzerland, March 18–21, 2024
 
-**[C117]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Range-agnostic multi-view depth estimation with keyframe selection”, International Conference on 3D Vision 2024 (3DV 2024), Davos, Switzerland, March 18 – 21, 2024
+**[C117]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Range-agnostic multi-view depth estimation with keyframe selection”, International Conference on 3D Vision 2024 (3DV 2024), Davos, Switzerland, March 18–21, 2024
 
 **[C116]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “On-Site Adaptation for Monocular Depth Estimation with a Static Camera”, oral presentation at The 34th British Machine Vision Conference (BMVC2023), Aberdeen, UK, November 20-24, 2023
 
