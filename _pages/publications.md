@@ -52,7 +52,7 @@ Journal papers
 
 **[J17]** A. Tonioni, M. Poggi, S. Mattoccia, L. Di Stefano, “Unsupervised domain adaptation for depth prediction from images”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 42(10), pages 2396 - 2409, October 1, 2020, 10.1109/TPAMI.2019.2940948
 
-**[J16]** M. Poggi, F. Tosi, S. Mattoccia, “Good cues to learn from scratch a confidence measure for passive depth sensors”, IEEE Sensors Journal, 20(22), pages 13533-13541, November 15, 2020, DOI: https://doi.org/10.1109/JSEN.2020.3004629
+**[J16]** M. Poggi, F. Tosi, S. Mattoccia, “Good cues to learn from scratch a confidence measure for passive depth sensors”, IEEE Sensors Journal, 20(22), pages 13533-13541, November 15, 2020
 
 **[J15]** F. Tosi, M. Rocca, F. Aleotti, M. Poggi, S. Mattoccia, F. Tauro, E. Toth, S. Grimaldi, “Enabling image-based streamflow monitoring at the edge”, Remote Sensing, 2020, 12(12), 2047
 
