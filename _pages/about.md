@@ -9,4 +9,4 @@ redirect_from:
 
 I am associate professor at the Department of Computer Science and Engineering, School of Engineering and Architecture, University of Bologna. My research concerns computer vision, primarily focusing on scene perception with monocular, stereo, and multi-view setups and sensor fusion between depth sensors and cameras. I’m IEEE Senior member. A more detailed summary of my academic activity is available in this [CV](/files/CV_ENG.pdf).
 
-# In this area, I supervised 14 PhD students, 7 visiting PhD students and about 300 thesis works. I served as area chair for top international conferences in computer vision and AI. 
+// In this area, I supervised 14 PhD students, 7 visiting PhD students and about 300 thesis works. I served as area chair for top international conferences in computer vision and AI. 
