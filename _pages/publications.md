@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 List of publications and patents. 
-Most documents are available through Google Scholar.
+
+Most of these documents are available through Google Scholar.
 
 Journal papers
 ------
