@@ -1,6 +1,6 @@
 ---
 # permalink: /
-title: "Teaching"
+# title: "Teaching"
 # author_profile: true
 redirect_from: 
   - /teaching/
