@@ -1,7 +1,7 @@
 ---
-permalink: /
+# permalink: /
 title: "Publications"
-author_profile: true
+# author_profile: true
 redirect_from: 
   - /publications/
   - /publications.html
