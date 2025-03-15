@@ -38,8 +38,8 @@ author:
   orcid            : "https://orcid.org/0000-0002-3681-7704"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Stefano-Mattoccia-2"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=6505990778"
+  researchgate     : # "https://www.researchgate.net/profile/Stefano-Mattoccia-2"
+  scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=6505990778"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
