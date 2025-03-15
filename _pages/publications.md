@@ -107,7 +107,7 @@ International Conference and Workshop papers
 
 **[C117]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Range-agnostic multi-view depth estimation with keyframe selection”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland [[PDF](https://arxiv.org/pdf/2401.14401)] [[Project](https://andreaconti.github.io/projects/range_agnostic_multi_view_depth/)] [[Code](https://github.com/andreaconti/ramdepth)]
 
-**[C116]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “On-Site Adaptation for Monocular Depth Estimation with a Static Camera”, oral presentation at The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK 
+**[C116]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “On-Site Adaptation for Monocular Depth Estimation with a Static Camera”, oral presentation at The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK [[PDF](https://papers.bmvc2023.org/0901.pdf)]
 
 **[C115]** R. Fan, F. Tosi, M. Poggi, S. Mattoccia, “Lightweight Self-Supervised Depth Estimation with few-beams LiDAR Data”, The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK
 
