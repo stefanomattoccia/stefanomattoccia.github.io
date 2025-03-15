@@ -87,67 +87,67 @@ Journal papers
 International Conference and Workshop papers
 ------
 
-**[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), Nashville, Tennessee, USA, June 11–15, 2025
+**[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), June 11–15, 2025, Nashville, Tennessee, USA 
 
-**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA), Atlanta, Georgia, USA May 19–23, 2025
+**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA), May 19–23, 2025, Atlanta, Georgia, USA
  
-**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with flow”, IEEE International Conference on Robotics & Automation (ICRA), Atlanta, Georgia, USA, May 19–23, 2025
+**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with flow”, IEEE International Conference on Robotics & Automation (ICRA), USA, May 19–23, 2025, Atlanta, Georgia
 
-**[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), Tucson, Arizona, USA, Feb. 28–Mar. 4, 2025
+**[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), February 28–March 4, 2025, Tucson, Arizona, USA
 
-**[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), Milano, Italy, Sep 29th-Oct 4th, 2024
+**[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy 
 
-**[C121]** A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), Milano, Italy, Sep 29th-Oct 4th, 2024
+**[C121]** A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy 
 
 **[C120]** R. Fan, M. Poggi, S. Mattoccia, “Exploring Few-Beam LiDAR Assistance in Self-Supervised Multi-Frame Depth Estimation”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), October 14–18, 2024, Abu Dhabi, UAE
 
-**[C119]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, Y. Zhang, C. Wu, Z. He, S. Yin, J. Dong, Y. Liu, H. Jiang, J. Shi, Y. A, Y. Jin, D. Li, B. Ke, A. Obukhov, T. Wang, N. Metzger, S. Huang, K. Schindler, Y. Huang, J. Li, J. Zhang, Y. Wang, Z. Huang, T. Liu, Z. Cao, P. Li, J. Wang, W. Zhu, H. Geng, Y. Zhang, L. Lan, K. Xu, T. Sun, Q. Xu, S. Saini, A. Gupta, S. K. Mistry, A. Shukla, V. Jakhetiya, S. Jaiswal, Y. Sun, Z. Zheng, Y. Ning, J. Cheng, H. Liu, H. Huang, C. Yang, Z. Jiang, Y. Peng, A. Huang, J. Hwang, “NTIRE 2024 Challenge on HR Depth from Images of Specular and Transparent Surfaces”, New Trends in Image Restoration and Enhancement (NTIRE 2924), CVPR Workshop
+**[C119]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, Y. Zhang, C. Wu, Z. He, S. Yin, J. Dong, Y. Liu, H. Jiang, J. Shi, Y. A, Y. Jin, D. Li, B. Ke, A. Obukhov, T. Wang, N. Metzger, S. Huang, K. Schindler, Y. Huang, J. Li, J. Zhang, Y. Wang, Z. Huang, T. Liu, Z. Cao, P. Li, J. Wang, W. Zhu, H. Geng, Y. Zhang, L. Lan, K. Xu, T. Sun, Q. Xu, S. Saini, A. Gupta, S. K. Mistry, A. Shukla, V. Jakhetiya, S. Jaiswal, Y. Sun, Z. Zheng, Y. Ning, J. Cheng, H. Liu, H. Huang, C. Yang, Z. Jiang, Y. Peng, A. Huang, J. Hwang, “NTIRE 2024 Challenge on HR Depth from Images of Specular and Transparent Surfaces”, New Trends in Image Restoration and Enhancement (NTIRE 2024), CVPR Workshop, June 17, 2024, Seattle, Washington, USA
 
-**[C118]** L. Bartolomei, M. Poggi, A. Conti, F. Tosi, S. Mattoccia, “Revisiting depth completion from a stereo matching perspective for cross-domain generalization”, International Conference on 3D Vision 2024 (3DV 2024), Davos, Switzerland, March 18–21, 2024
+**[C118]** L. Bartolomei, M. Poggi, A. Conti, F. Tosi, S. Mattoccia, “Revisiting depth completion from a stereo matching perspective for cross-domain generalization”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland
 
-**[C117]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Range-agnostic multi-view depth estimation with keyframe selection”, International Conference on 3D Vision 2024 (3DV 2024), Davos, Switzerland, March 18–21, 2024
+**[C117]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Range-agnostic multi-view depth estimation with keyframe selection”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland 
 
-**[C116]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “On-Site Adaptation for Monocular Depth Estimation with a Static Camera”, oral presentation at The 34th British Machine Vision Conference (BMVC2023), Aberdeen, UK, November 20-24, 2023
+**[C116]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “On-Site Adaptation for Monocular Depth Estimation with a Static Camera”, oral presentation at The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK 
 
-**[C115]** R. Fan, F. Tosi, M. Poggi, S. Mattoccia, “Lightweight Self-Supervised Depth Estimation with few-beams LiDAR Data”, The 34th British Machine Vision Conference (BMVC2023), Aberdeen, UK, November 20-24, 2023
+**[C115]** R. Fan, F. Tosi, M. Poggi, S. Mattoccia, “Lightweight Self-Supervised Depth Estimation with few-beams LiDAR Data”, The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK
 
-**[C114]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo Without Pattern Projector”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), Paris, France, October 4-6, 2023
+**[C114]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo Without Pattern Projector”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France 
 
-**[C113]** Y. Zhang, F. Tosi, S. Mattoccia, M. Poggi, “GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), Paris, France, October 4-6, 2023
+**[C113]** Y. Zhang, F. Tosi, S. Mattoccia, M. Poggi, “GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France
 
-**[C112]** C. Zhao, M. Poggi, F. Tosi, l. Zhou, Q. Sun, Y. Tang,  S. Mattoccia, “GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), Paris, France, October 4-6, 2023
+**[C112]** C. Zhao, M. Poggi, F. Tosi, l. Zhou, Q. Sun, Y. Tang,  S. Mattoccia, “GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France 
 
-**[C111]** A. Costanzino, P. Zama Ramirez, M. Poggi, F. Tosi, S. Mattoccia, L. Di Stefano, “Learning Depth Estimation for Transparent and Mirror Surfaces”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), Paris, France, October 4-6, 2023
+**[C111]** A. Costanzino, P. Zama Ramirez, M. Poggi, F. Tosi, S. Mattoccia, L. Di Stefano, “Learning Depth Estimation for Transparent and Mirror Surfaces”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France
 
-**[C110]** Y. Zhang, M. Poggi, S. Mattoccia, “TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Detroit, Michigan USA, October 1-5, 2023
+**[C110]** Y. Zhang, M. Poggi, S. Mattoccia, “TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), October 1-5, 2023, Detroit, Michigan USA
 
-**[C109]** Y. Zhang, X. Guo, M. Poggi, Z. Zhu, G. Huang, S. Mattoccia, “CompletionFormer: Depth Completion with Convolutions and Vision Transformers”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023), Vancouver, Canada, June 18-22, 2023
+**[C109]** Y. Zhang, X. Guo, M. Poggi, Z. Zhu, G. Huang, S. Mattoccia, “CompletionFormer: Depth Completion with Convolutions and Vision Transformers”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023), June 18-22, 2023, Vancouver, Canada
 
-**[C108]** R. Fan, M. Poggi, S. Mattoccia, “Contrastive Learning for Depth Prediction”, End-to-End Autonomous Driving: Perception, Prediction, Planning and Simulation (E2EAD) — CVPR 2023 Workshop, Vancouver, Canada, June 18, 2023
+**[C108]** R. Fan, M. Poggi, S. Mattoccia, “Contrastive Learning for Depth Prediction”, End-to-End Autonomous Driving: Perception, Prediction, Planning and Simulation (E2EAD) — CVPR 2023 Workshop, June 18, 2023, Vancouver, Canada
 
-**[C107]** J. Spencer, C. Stella Qian, M. Trescakova, C. Russell, S. Hadfield, E. W. Graf, W. J. Adams, A. J. Schofield, J. Elder, R. Bowden, A. Anwar, H. Chen, X. Chen, K. Cheng, Y. Dai, H. T. Hoa, S. Hossain, J. Huang, M. Jing, B. Li, C. Li, B. Li, Z. Liu, S. Mattoccia, S. Mercelis, M. Nam, M. Poggi, X. Qi, J. Ren, Y. Tang, F. Tosi, L. Trinh, S. M. N. Uddin, K. M. Umair, K. Wang, Y. Wang, Y. Wang, M. Xiang, G. Xu, W. Yin, J. Yu, Q. Zhang, C. Zhao, “The Second Monocular Depth Estimation Challenge”, 2nd Monocular Depth Estimation Challenge (MDEC) — CVPR 2023 Workshop, Vancouver, Canada, June 18, 2023
+**[C107]** J. Spencer, C. Stella Qian, M. Trescakova, C. Russell, S. Hadfield, E. W. Graf, W. J. Adams, A. J. Schofield, J. Elder, R. Bowden, A. Anwar, H. Chen, X. Chen, K. Cheng, Y. Dai, H. T. Hoa, S. Hossain, J. Huang, M. Jing, B. Li, C. Li, B. Li, Z. Liu, S. Mattoccia, S. Mercelis, M. Nam, M. Poggi, X. Qi, J. Ren, Y. Tang, F. Tosi, L. Trinh, S. M. N. Uddin, K. M. Umair, K. Wang, Y. Wang, Y. Wang, M. Xiang, G. Xu, W. Yin, J. Yu, Q. Zhang, C. Zhao, “The Second Monocular Depth Estimation Challenge”, 2nd Monocular Depth Estimation Challenge (MDEC) — CVPR 2023 Workshop, June 18, 2023, Vancouver, Canada
 
-**[C106]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, J. Shi, D. Zhang, Y. A, Y. Jin, D. Li, C. Li, Z. Liu, Q. Zhang, Y. Wang, S. Yin, “NTIRE 2023 Challenge on HR Depth From Images of Specular and Transparent Surfaces”, 8th New Trends in Image Restoration and Enhancement Workshop and Challenges — CVPR 2023 Workshop, Vancouver, Canada, June 18, 2023
+**[C106]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, J. Shi, D. Zhang, Y. A, Y. Jin, D. Li, C. Li, Z. Liu, Q. Zhang, Y. Wang, S. Yin, “NTIRE 2023 Challenge on HR Depth From Images of Specular and Transparent Surfaces”, 8th New Trends in Image Restoration and Enhancement Workshop and Challenges — CVPR 2023 Workshop, June 18, 2023, Vancouver, Canada
 
-**[C105]** A. Conti, M. Poggi, S. Mattoccia, “Sparsity Agnostic Depth Completion”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023), Waikoloa, Hawaii (USA), January 3-7, 2023
+**[C105]** A. Conti, M. Poggi, S. Mattoccia, “Sparsity Agnostic Depth Completion”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023), Waikoloa, January 3-7, 2023, Hawaii, USA
 
-**[C104]** J. Spencer, C. Stella Qian, C. Russell, S. Hadfield, E. Graf, W. Adams, A. J. Schofield, J. Elder, R. Bowden, H. Cong, S. Mattoccia, M. Poggi, Z. Khan Suri, Y. Tang, F. Tosi, H. Wang, Y. Zhang, Y. Zhang, C. Zhao, “The Monocular Depth Estimation Challenge”, Monocular Depth Estimation Challenge Workshop held in conjunction with IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023), Waikoloa, Hawaii, USA, January 7, 2023
+**[C104]** J. Spencer, C. Stella Qian, C. Russell, S. Hadfield, E. Graf, W. Adams, A. J. Schofield, J. Elder, R. Bowden, H. Cong, S. Mattoccia, M. Poggi, Z. Khan Suri, Y. Tang, F. Tosi, H. Wang, Y. Zhang, Y. Zhang, C. Zhao, “The Monocular Depth Estimation Challenge”, Monocular Depth Estimation Challenge Workshop held in conjunction with IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023), January 7, 2023, Waikoloa, Hawaii, USA
 
 **[C103]** R. Fan; Z. Li, M. Poggi, S. Mattoccia, “A Cascade Dense Connection Fusion Network for Depth Completion”, 33rd British Machine Vision Conference (BMVC 2022), 21-24 November 2022, London, UK
 
-**[C102]** A. Conti, M. Poggi, F. Aleotti, S. Mattoccia, “Unsupervised confidence for LiDAR depth maps and applications”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, October 23-27, 2022
+**[C102]** A. Conti, M. Poggi, F. Aleotti, S. Mattoccia, “Unsupervised confidence for LiDAR depth maps and applications”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), October 23-27, 2022, Kyoto, Japan
 
-**[C101]** M. Poggi, A. Conti, S. Mattoccia, “Multi-view Guided Multi-view Stereo”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, October 23-27, 2022
+**[C101]** M. Poggi, A. Conti, S. Mattoccia, “Multi-view Guided Multi-view Stereo”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), October 23-27, 2022, Kyoto, Japan
 
-**[C100]** C. Zhao, Y. Zhang, M. Poggi, F. Tosi, X. Guo, Z. Zhu, G. Huang, Y. Tang, S. Mattoccia, “MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer”, International Conference on 3D Vision (3DV2022), Prague, Czechia, September 12-15, 2022
+**[C100]** C. Zhao, Y. Zhang, M. Poggi, F. Tosi, X. Guo, Z. Zhu, G. Huang, Y. Tang, S. Mattoccia, “MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer”, International Conference on 3D Vision (3DV2022), September 12-15, 2022, Prague, Czechia
 
-**[C99]** M. Poggi, P. Zama Ramirez, F. Tosi, S. Salti, S. Mattoccia, L. Di Stefano, “Cross-Spectral Neural Radiance Fields”, International Conference on 3D Vision (3DV2022), Prague, Czechia, September 12-15, 2022
+**[C99]** M. Poggi, P. Zama Ramirez, F. Tosi, S. Salti, S. Mattoccia, L. Di Stefano, “Cross-Spectral Neural Radiance Fields”, International Conference on 3D Vision (3DV2022), September 12-15, 2022, Prague, Czechia 
 
-**[C98]** P. Zama Ramirez*, F. Tosi*, M. Poggi*, S. Salti, S. Mattoccia, L. Di Stefano, “Open challenges in deep stereo: the Booster dataset”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, Louisiana, USA, June 19-24, 2022
+**[C98]** P. Zama Ramirez*, F. Tosi*, M. Poggi*, S. Salti, S. Mattoccia, L. Di Stefano, “Open challenges in deep stereo: the Booster dataset”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), June 19-24, 2022, New Orleans, Louisiana, USA
 
-**[C97]** F. Tosi*, P. Zama Ramirez*, M. Poggi*, S. Salti, S. Mattoccia, L. Di Stefano, “RGB-Multispectral matching: dataset, learning methodology, evaluation”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, Louisiana, USA, June 19-24, 2022
+**[C97]** F. Tosi*, P. Zama Ramirez*, M. Poggi*, S. Salti, S. Mattoccia, L. Di Stefano, “RGB-Multispectral matching: dataset, learning methodology, evaluation”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), June 19-24, 2022, New Orleans, Louisiana, USA
 
-**[C96]** S. Kim*, M. Poggi*, S. Kim, K. Sohn, S. Mattoccia, “Meta-confidence estimation for stereo matching”, International Conference on Robotics and Automation (ICRA 2022), Philadelphia, Pennsylvania, USA, May 23-27, 2021
+**[C96]** S. Kim*, M. Poggi*, S. Kim, K. Sohn, S. Mattoccia, “Meta-confidence estimation for stereo matching”, International Conference on Robotics and Automation (ICRA 2022), May 23-27, 2021, Philadelphia, Pennsylvania, USA
 
 **[C95]** F. Aleotti, F. Tosi, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural disparity refinement for arbitrary resolution stereo”, oral presentation at International Conference on 3D Vision (3DV 2021), virtual, December 1-3, 2021 - BEST PAPER AWARD HONORABLE MENTION
 
@@ -171,33 +171,33 @@ International Conference and Workshop papers
 
 **[C85]** P. L. Dovesi, M. Poggi, L. Andraghetti, M. Martí, H. Kjellström, A. Pieropan, S. Mattoccia, “Real-time semantic stereo Matching”, International Conference on Robotics and Automation (ICRA 2020), May 31-June 4, 2020, virtually in Paris, France
 
-**[C84]** F. Aleotti, M. Poggi, F. Tosi, S. Mattoccia, “Learning end-to-end scene flow by distilling single tasks knowledge”, Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), New York, USA, February 7-12, 2020
+**[C84]** F. Aleotti, M. Poggi, F. Tosi, S. Mattoccia, “Learning end-to-end scene flow by distilling single tasks knowledge”, Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 7-12, 2020, New York, USA
 
-**[C83]** L. Andraghetti , P. Myriokefalitakis, P. L. Dovesi, B. Luque, M. Poggi, A. Pieropan, S. Mattoccia, “Enhancing self-supervised monocular depth estimation with traditional visual odometry”, International Conference on 3D Vision (3DV 2019), Quebec City, Canada, September 16-19, 2019
+**[C83]** L. Andraghetti , P. Myriokefalitakis, P. L. Dovesi, B. Luque, M. Poggi, A. Pieropan, S. Mattoccia, “Enhancing self-supervised monocular depth estimation with traditional visual odometry”, International Conference on 3D Vision (3DV 2019), September 16-19, 2019, Quebec City, Canada
 
-**[C82]** M. Poggi, D. Pallotti, F. Tosi, S. Mattoccia, “Guided stereo matching”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), Long Beach, California, USA, June 16-20, 2019
+**[C82]** M. Poggi, D. Pallotti, F. Tosi, S. Mattoccia, “Guided stereo matching”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), June 16-20, 2019, Long Beach, California, USA
 
-**[C81]** F. Tosi, F. Aleotti, M. Poggi, S. Mattoccia, "Learning monocular depth estimation infusing traditional stereo knowledge", IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), Long Beach, California, USA, June 16-20, 2019
+**[C81]** F. Tosi, F. Aleotti, M. Poggi, S. Mattoccia, "Learning monocular depth estimation infusing traditional stereo knowledge", IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), June 16-20, 2019, Long Beach, California, USA
 
-**[C80]** A. Tonioni, F. Tosi, M. Poggi, S. Mattoccia, L. Di Stefano, "Real-time self-adaptive deep stereo", oral presentation at IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), Long Beach, California, USA, June 16-20, 2019
+**[C80]** A. Tonioni, F. Tosi, M. Poggi, S. Mattoccia, L. Di Stefano, "Real-time self-adaptive deep stereo", oral presentation at IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), June 16-20, 2019, Long Beach, California, USA
 
-**[C79]** F. Tosi , M. Poggi, S. Mattoccia, “Leveraging confident points for accurate depth refinement on embedded systems”, 15th IEEE Embedded Vision Workshop (EVW 2019) held in conjunction with CVPR 2019, Long Beach, California, USA, June 16, 2019
+**[C79]** F. Tosi , M. Poggi, S. Mattoccia, “Leveraging confident points for accurate depth refinement on embedded systems”, 15th IEEE Embedded Vision Workshop (EVW 2019) held in conjunction with CVPR 2019, June 16, 2019, Long Beach, California, USA
 
-**[C78]** V. Peluso, A. Cipolletta, A. Calimera, M. Poggi, F. Tosi and S. Mattoccia, “Enabling energy-efficient unsupervised monocular depth estimation on ARMv7-based platforms”, Design Automation and Test in Europe (DATE 2019), Florence, Italy, March 25-29, 2019
+**[C78]** V. Peluso, A. Cipolletta, A. Calimera, M. Poggi, F. Tosi and S. Mattoccia, “Enabling energy-efficient unsupervised monocular depth estimation on ARMv7-based platforms”, Design Automation and Test in Europe (DATE 2019), March 25-29, 2019, Florence, Italy
 
 **[C77]** C. Arcidiacono, M. Barbari, S. Benni, E. Carfagna, G. Cascone, L. Conti, L. Di Stefano, M. Guarino, L. Leso, D. Lovarelli, M. Mancino, S. Mattoccia, G. Minozzi, S. M. C. Porto, G. Provolo, G. Rossi, A. Sandrucci, A. Tamburini, P. Tassinari, N. Tomasello, D. Torreggiani and F. Valenti, “Smart Dairy Farming: Innovative Solutions to Improve Herd Productivity”, International Mid-Term Conference of the Italian Association of Agricultural Engineering, September 12-13, 2019, Matera, Italy
 
 **[C76]** P. Zama Ramirez, M. Poggi, F. Tosi, S. Mattoccia, L. Di Stefano, "Geometry meets semantic for semi-supervised monocular depth estimation", 14th Asian Conference on Computer Vision (ACCV 2018), December 2-6, 2018, Perth, Australia
  
-**[C75]** M. Poggi, F. Aleotti, F. Tosi, S. Mattoccia, “Towards real-time unsupervised monocular depth estimation on CPU”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), Madrid, Spain, October, 1-5, 2018
+**[C75]** M. Poggi, F. Aleotti, F. Tosi, S. Mattoccia, “Towards real-time unsupervised monocular depth estimation on CPU”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1-5, 2018, Madrid, Spain
 
-**[C74]** F. Tosi, M. Poggi, A. Benincasa, S. Mattoccia, “Beyond local reasoning for stereo confidence estimation with deep learning”, 15th European Conference on Computer Vision (ECCV 2018), Munich, Germany, September 8-14, 2018
+**[C74]** F. Tosi, M. Poggi, A. Benincasa, S. Mattoccia, “Beyond local reasoning for stereo confidence estimation with deep learning”, 15th European Conference on Computer Vision (ECCV 2018), September 8-14, 2018, Munich, Germany
 
-**[C73]** F. Aleotti, F. Tosi, M. Poggi, S. Mattoccia, “Generative adversarial networks for unsupervised monocular depth prediction”, 3D Reconstruction in the Wild 2018 (3DRW2018), in conjunction with (ECCV 2018), Munich, Germany, September 14, 2018
+**[C73]** F. Aleotti, F. Tosi, M. Poggi, S. Mattoccia, “Generative adversarial networks for unsupervised monocular depth prediction”, 3D Reconstruction in the Wild 2018 (3DRW2018), in conjunction with (ECCV 2018), September 14, 2018, Munich, Germany
 
 **[C72]** M. Poggi, F. Tosi, S. Mattoccia, "Learning monocular depth estimation with unsupervised trinocular assumptions", 6th international conference on 3D Vision (3DV 2018), September 5-8, 2018, Verona, Italy
 
-**[C71]** P. Di Febbo, C. Dal Mutto, K. Tieu, S. Mattoccia, “KCNN: extremely-efficient hardware keypoint detection with a compact convolutional neural network”, 14th IEEE Embedded Vision Workshop (EVW 2018), held in conjunction with CVPR 2018, Salt Lake City, Utah (USA), July 18, 2018 - BEST PAPER AWARD
+**[C71]** P. Di Febbo, C. Dal Mutto, K. Tieu, S. Mattoccia, “KCNN: extremely-efficient hardware keypoint detection with a compact convolutional neural network”, 14th IEEE Embedded Vision Workshop (EVW 2018), held in conjunction with CVPR 2018, July 18, 2018, Salt Lake City, Utah, USA - BEST PAPER AWARD
 
 **[C70]** M. Poggi, F. Tosi, S. Mattoccia, “Quantitative evaluation of confidence measures in a machine learning world”, spotlight presentation at International Conference on Computer Vision (ICCV 2017), October 22-29, 2017, Venice, Italy
 
@@ -207,13 +207,13 @@ International Conference and Workshop papers
 
 **[C67]** M. Poggi, F. Tosi, S. Mattoccia, “Efficient confidence measures for embedded stereo”, 19th International Conference on Image Analysis and Processing (ICIAP 2017), September 11-15, 2017, Catania, Italy
 
-**[C66]** M. Poggi, S. Mattoccia, “Learning to predict stereo reliability enforcing local consistency of confidence maps”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), Honolulu, Hawaii, USA, July 21-26, 2017
+**[C66]** M. Poggi, S. Mattoccia, “Learning to predict stereo reliability enforcing local consistency of confidence maps”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), July 21-26, 2017, Honolulu, Hawaii, USA
 
-**[C65]** M. Poggi, F. Tosi, S. Mattoccia, “Even more confident predictions with deep machine-learning”, 13th IEEE Embedded Vision Workshop (EVW2017) held in conjunction with IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), Honolulu, Hawaii, USA, July 21, 2017
+**[C65]** M. Poggi, F. Tosi, S. Mattoccia, “Even more confident predictions with deep machine-learning”, 13th IEEE Embedded Vision Workshop (EVW2017) held in conjunction with IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), July 21, 2017, Honolulu, Hawaii, USA
 
-**[C64]** M. Poggi, S. Mattoccia, “Evaluation of variants of the SGM algorithm aimed at implementation on embedded or reconfigurable devices”, International Conference on 3D Imaging (IC3D), Liège, Belgium, 13-14 December 2016
+**[C64]** M. Poggi, S. Mattoccia, “Evaluation of variants of the SGM algorithm aimed at implementation on embedded or reconfigurable devices”, International Conference on 3D Imaging (IC3D), 13-14 December 2016, Liège, Belgium
 
-**[C63]** M. Boschini, M. Poggi, S. Mattoccia, “Improving the reliability of a 3D people tracking leveraging on deep-learning”, International Conference on 3D Imaging (IC3D), Liège, Belgium, 13-14 December, 2016
+**[C63]** M. Boschini, M. Poggi, S. Mattoccia, “Improving the reliability of a 3D people tracking leveraging on deep-learning”, International Conference on 3D Imaging (IC3D), 13-14 December, 2016, Liège, Belgium
 
 **[C62]** P. Di Febbo, S. Mattoccia, C. Dal Mutto, “Real-time image distortion correction: analysis and evaluation of FPGA-compatible algorithms”, 2016 International Conference on Reconfigurable Computing and FPGAs (Reconfig 2016), November 30-December 2, 2016, Cancun, Mexico
 
@@ -239,9 +239,9 @@ International Conference and Workshop papers
 
 **[C51]** S. Mattoccia, P. Macrì, G. Parmigiani, G. Rizza, “A compact, lightweight and energy efficient system for autonomous navigation based on 3D vision”, 10th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA 2014), September 10-12, 2014, Senigallia, Italy
 
-**[C50]** S. Mattoccia, I. Marchio, M. Casadio, “A compact 3D camera suited for mobile and embedded vision applications”, 4th IEEE Mobile Vision Workshop, CVPR 2014, Columbus, Ohio, USA, June 23, 2014 - BEST DEMO PAPER AWARD
+**[C50]** S. Mattoccia, I. Marchio, M. Casadio, “A compact 3D camera suited for mobile and embedded vision applications”, 4th IEEE Mobile Vision Workshop, CVPR 2014, June 23, 2014, Columbus, Ohio, USA - BEST DEMO PAPER AWARD
 
-**[C49]** S. Mattoccia, “Stereo vision algorithms on FPGAs”, 9th IEEE Embedded Vision Workshop, CVPR 2013, Portland, Oregon, USA, June 24, 2013 - INVITED PAPER
+**[C49]** S. Mattoccia, “Stereo vision algorithms on FPGAs”, 9th IEEE Embedded Vision Workshop, CVPR 2013, June 24, 2013, Portland, Oregon, USA - INVITED PAPER
 
 **[C48]** C. Dal Mutto, P. Zanuttigh, S. Mattoccia, G. Cortelazzo, "Locally consistent ToF and stereo data fusion", 2nd Workshop on Consumer Depth Cameras for Computer Vision (CDC4CV2012), ECCV2012 Workshop, October 12, Firenze, Italy
 
