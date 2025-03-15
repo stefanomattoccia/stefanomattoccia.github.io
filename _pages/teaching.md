@@ -17,7 +17,7 @@ Details available [here](https://www.unibo.it/en/study/phd-professional-masters-
 ------
 Details available [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/434701)
 
-Online simulator of the DLX processor: [link](http://dlx-simulator.disi.unibo.it/simulator/dlx)
+Online simulator of the DLX processor [here](http://dlx-simulator.disi.unibo.it/simulator/dlx)
 
 88146 - Fondamenti di Informatica P2 (Fundamentals of Computer Programming P2)
 ------
