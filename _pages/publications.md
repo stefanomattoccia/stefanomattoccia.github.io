@@ -7,7 +7,8 @@ redirect_from:
   - /publications.html
 ---
 
-List of publications and patents. Most documents are available through Google Scholar.
+List of publications and patents. 
+Most documents are available through Google Scholar.
 
 Journal papers
 ------
