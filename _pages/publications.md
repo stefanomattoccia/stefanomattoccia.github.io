@@ -341,7 +341,7 @@ International Conference and Workshop papers
 
 Book chapters
 -------
-**[B3]**  S. Mattoccia, Book title: “Advances in Embedded Computer Vision”, Chapter "Stereo vision algorithms suited to constrained FPGA cameras", Edited by Branislav Kisacanin and Margrit Gelautz, 2014, Publisher: Springer
+**[B3]**  S. Mattoccia, Book title: “Advances in Embedded Computer Vision”, Chapter "Stereo vision algorithms suited to constrained FPGA cameras", Edited by Branislav Kisacanin and Margrit Gelautz, 2014, Springer
 
 **[B2]**  C. Dal Mutto, F. Dominio, P. Zanuttigh, S. Mattoccia, Book title: "Current advancements in stereo vision", Chapter "Stereo vision and scene segmentation", Edited by Asim Bhatti, July 2012, ISBN  978-953-51-0660-9, Publisher: I-Tech Education and Publishing Kirchengasse 43/3, A-1070, Vienna, Austria
 
@@ -363,6 +363,6 @@ Patents/Brevetti
 
 **[P1]** S. Mattoccia, L. Di Stefano, “Apparecchio e metodo per il confronto di immagini digitali”, IT0001341200, September 25, 2007
 
-Ph.D. Thesis
+PhD Thesis
 -------
-S. Mattoccia, "Real-time analysis of video sequences", Ph.D. Thesis in Electronic Engineering and Computer Science, Dipartimento di Elettronica, Informatica e Sistemistica (DEIS), Bologna, February 2002
+S. Mattoccia, "Real-time analysis of video sequences", Ph.D. Thesis in Electronic Engineering and Computer Science, University of Bologna, February 2002
