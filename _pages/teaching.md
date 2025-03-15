@@ -11,14 +11,14 @@ redirect_from:
 
 72943 - Sistemi Digitali M (Digital System M) 
 ------
-Details available [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/468006)
+Details: [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/468006)
 
 28012 - Calcolatori Elettronici T (Computer Architectures T) 
 ------
-Details available [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/434701)
+Details: [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/434701)
 
 Online simulator of the DLX processor [here](http://dlx-simulator.disi.unibo.it/simulator/dlx)
 
 88146 - Fondamenti di Informatica P2 (Fundamentals of Computer Programming P2)
 ------
-Details available [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/498976)
+Details: [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/498976)
