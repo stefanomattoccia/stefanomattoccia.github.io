@@ -97,7 +97,7 @@ International Conference and Workshop papers
 
 **[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://arxiv.org/pdf/2408.04633)] [[Project](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)]  
 
-**[C121]** A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy 
+**[C121]** A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://arxiv.org/pdf/2409.08277)]
 
 **[C120]** R. Fan, M. Poggi, S. Mattoccia, “Exploring Few-Beam LiDAR Assistance in Self-Supervised Multi-Frame Depth Estimation”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), October 14–18, 2024, Abu Dhabi, UAE
 
