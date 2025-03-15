@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-2024/2025
+Academic Year 2024/2025
 
 72943 - Digital Systems M (Sistemi Digitali M) 
 ------
