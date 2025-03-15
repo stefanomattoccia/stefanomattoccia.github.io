@@ -89,9 +89,9 @@ International Conference and Workshop papers
 
 **[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), June 11–15, 2025, Nashville, Tennessee, USA [[PDF](https://arxiv.org/pdf/2412.04472)] [[Project](https://stereoanywhere.github.io/)] [[Code](https://github.com/bartn8/stereoanywhere/)]
 
-**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA 2025), May 19–23, 2025, Atlanta, Georgia, USA
+**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA 2025), May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/files/ICRA_2025_HS-SLAM.pdf)] [[Project](https://zorangong.github.io/HS-SLAM/)] [Code]
  
-**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with the flow”, IEEE International Conference on Robotics & Automation (ICRA 2025), USA, May 19–23, 2025, Atlanta, Georgia, USA
+**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with the flow”, IEEE International Conference on Robotics & Automation (ICRA 2025), USA, May 19–23, 2025, Atlanta, Georgia, USA [[PDF](ICRA_202525_Drive_with_flow.pdf)]
 
 **[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), February 28–March 4, 2025, Tucson, Arizona, USA [[PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Cavalcanti_CabNIR_A_Benchmark_for_In-Vehicle_Infrared_Monocular_Depth_Estimation_WACV_2025_paper.pdf)] [[Dataset](https://cabnir.github.io/)]
 
