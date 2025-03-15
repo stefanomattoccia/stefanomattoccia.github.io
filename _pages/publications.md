@@ -12,9 +12,9 @@ List of publications and patents.
 Journal papers
 ------
 
-**[J36]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), pages 8900–8917, Volume 46, Issue 12, December 2024
+**[J36]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), pages 8900 – 8917, Volume 46, Issue 12, December 2024
 
-**[J35]** X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), Volume 132, pages 4954–4991, 2024
+**[J35]** X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), Volume 132, pages 4954 – 4991, 2024
 
 **[J34]** M. Poggi, F. Arrigoni, A. Fusiello, S. Mattoccia, A. Bartoli, T. Sattler, T. Pajdla, “Guest Editorial: Special Issue on Traditional Computer Vision in the Age of Deep Learning”, International Journal of Computer Vision (IJCV), Volume 132, pages 4128–4130, 2024
 
