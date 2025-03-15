@@ -91,7 +91,7 @@ International Conference and Workshop papers
 
 **[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA 2025), May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/files/ICRA_2025_HS-SLAM.pdf)] [[Project](https://zorangong.github.io/HS-SLAM/)] [Code]
  
-**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with the flow”, IEEE International Conference on Robotics & Automation (ICRA 2025), USA, May 19–23, 2025, Atlanta, Georgia, USA [[PDF](ICRA_202525_Drive_with_flow.pdf)]
+**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with the flow”, IEEE International Conference on Robotics & Automation (ICRA 2025), USA, May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/files/ICRA_202525_Drive_with_flow.pdf)]
 
 **[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), February 28–March 4, 2025, Tucson, Arizona, USA [[PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Cavalcanti_CabNIR_A_Benchmark_for_In-Vehicle_Infrared_Monocular_Depth_Estimation_WACV_2025_paper.pdf)] [[Dataset](https://cabnir.github.io/)]
 
