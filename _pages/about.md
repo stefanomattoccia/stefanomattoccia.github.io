@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm Associate Professor of Computer Science at the Department of Computer Science and Engineering of the University of Bologna and my research concerns computer vision, primarily focusing on scene perception with cameras and depth sensors. 
-A summary of my academic activity: [[CV](/files/CV_ENG.pdf)].
+I'm Associate Professor of Computer Science at the Department of Computer Science and Engineering of the University of Bologna and my research concerns computer vision, primarily focusing on scene perception with cameras and depth sensors. [[CV](/files/CV_ENG.pdf)]
