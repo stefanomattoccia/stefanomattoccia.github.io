@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-My current teaching activity concerns:
+Current teaching activity:
 
 72943 - Sistemi Digitali M (Digital System M) 
 ------
