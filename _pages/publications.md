@@ -82,7 +82,7 @@ Journal papers
 
 **[J2]** L. Di Stefano, S. Mattoccia, “Fast template matching using Bounded Partial Correlation”, Machine Vision and Applications (MVA), 13(4), pages 213 – 221, February 2003 [[PDF](https://link.springer.com/article/10.1007/s00138-002-0070-5)]
 
-**[J1]** L. Di Stefano, S. Mattoccia, “Real-time stereo within the VIDET project”, Real-Time Imaging (RTI), 8(5), pages 439 – 453, October 2002 [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1077201402902998)]
+**[J1]** L. Di Stefano, S. Mattoccia, “Real-time stereo within the VIDET project”, Real-Time Imaging (RTI), 8(5), pages 439 – 453, October 2002
 
 International Conference and Workshop papers
 ------
