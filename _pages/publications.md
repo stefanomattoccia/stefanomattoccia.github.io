@@ -97,7 +97,7 @@ International Conference and Workshop papers
 
 **[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://arxiv.org/pdf/2408.04633)] [[Project](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)]  
 
-**[C121]** A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://arxiv.org/pdf/2409.08277)]
+**[C121]** A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07836.pdf)] [[Project](https://andreaconti.github.io/projects/depth_on_demand/)] [[Code](https://github.com/andreaconti/depth-on-demand)]  
 
 **[C120]** R. Fan, M. Poggi, S. Mattoccia, “Exploring Few-Beam LiDAR Assistance in Self-Supervised Multi-Frame Depth Estimation”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), October 14–18, 2024, Abu Dhabi, UAE
 
@@ -111,7 +111,7 @@ International Conference and Workshop papers
 
 **[C115]** R. Fan, F. Tosi, M. Poggi, S. Mattoccia, “Lightweight Self-Supervised Depth Estimation with few-beams LiDAR Data”, The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK
 
-**[C114]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo Without Pattern Projector”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France 
+**[C114]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo Without Pattern Projector”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Bartolomei_Active_Stereo_Without_Pattern_Projector_ICCV_2023_paper.pdf)] [[Project](https://vppstereo.github.io/)] [[Code](https://github.com/bartn8/vppstereo/)]  
 
 **[C113]** Y. Zhang, F. Tosi, S. Mattoccia, M. Poggi, “GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France
 
