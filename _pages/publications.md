@@ -109,7 +109,7 @@ International Conference and Workshop papers
 
 **[C116]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “On-Site Adaptation for Monocular Depth Estimation with a Static Camera”, oral presentation at The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK [[PDF](https://papers.bmvc2023.org/0901.pdf)]
 
-**[C115]** R. Fan, F. Tosi, M. Poggi, S. Mattoccia, “Lightweight Self-Supervised Depth Estimation with few-beams LiDAR Data”, The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK
+**[C115]** R. Fan, F. Tosi, M. Poggi, S. Mattoccia, “Lightweight Self-Supervised Depth Estimation with few-beams LiDAR Data”, The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK [[PDF](https://papers.bmvc2023.org/0356.pdf)]
 
 **[C114]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo Without Pattern Projector”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Bartolomei_Active_Stereo_Without_Pattern_Projector_ICCV_2023_paper.pdf)] [[Project](https://vppstereo.github.io/)] [[Code](https://github.com/bartn8/vppstereo/)]  
 
