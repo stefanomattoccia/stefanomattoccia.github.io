@@ -87,10 +87,7 @@ Journal papers
 International Conference and Workshop papers
 ------
 
-**[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), June 11–15, 2025, Nashville, Tennessee, USA 
-
-[[PDF](https://arxiv.org/pdf/2408.04633) | [Project]
-https://arxiv.org/pdf/2412.04472
+**[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), June 11–15, 2025, Nashville, Tennessee, USA [[PDF](https://arxiv.org/pdf/2412.04472)] [[Project](https://stereoanywhere.github.io/)] [[Code](https://github.com/bartn8/stereoanywhere/)]
 
 **[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA 2025), May 19–23, 2025, Atlanta, Georgia, USA
  
@@ -98,7 +95,7 @@ https://arxiv.org/pdf/2412.04472
 
 **[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), February 28–March 4, 2025, Tucson, Arizona, USA
 
-**[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://arxiv.org/pdf/2408.04633)] [[Project](https://eventvppstereo.github.io/)] 
+**[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://arxiv.org/pdf/2408.04633)] [[Project](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)]  
 
 **[C121]** A. Conti, M. Poggi,, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy 
 
