@@ -103,9 +103,9 @@ International Conference and Workshop papers
 
 **[C119]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, Y. Zhang, C. Wu, Z. He, S. Yin, J. Dong, Y. Liu, H. Jiang, J. Shi, Y. A, Y. Jin, D. Li, B. Ke, A. Obukhov, T. Wang, N. Metzger, S. Huang, K. Schindler, Y. Huang, J. Li, J. Zhang, Y. Wang, Z. Huang, T. Liu, Z. Cao, P. Li, J. Wang, W. Zhu, H. Geng, Y. Zhang, L. Lan, K. Xu, T. Sun, Q. Xu, S. Saini, A. Gupta, S. K. Mistry, A. Shukla, V. Jakhetiya, S. Jaiswal, Y. Sun, Z. Zheng, Y. Ning, J. Cheng, H. Liu, H. Huang, C. Yang, Z. Jiang, Y. Peng, A. Huang, J. Hwang, “NTIRE 2024 Challenge on HR Depth from Images of Specular and Transparent Surfaces”, New Trends in Image Restoration and Enhancement (NTIRE 2024), CVPR Workshop, June 17, 2024, Seattle, Washington, USA
 
-**[C118]** L. Bartolomei, M. Poggi, A. Conti, F. Tosi, S. Mattoccia, “Revisiting depth completion from a stereo matching perspective for cross-domain generalization”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland
+**[C118]** L. Bartolomei, M. Poggi, A. Conti, F. Tosi, S. Mattoccia, “Revisiting depth completion from a stereo matching perspective for cross-domain generalization”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland [[PDF](https://vppdc.github.io/assets/paper.pdf)] [[Project](https://vppdc.github.io/)] [[Code](https://github.com/bartn8/vppdc/)]
 
-**[C117]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Range-agnostic multi-view depth estimation with keyframe selection”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland 
+**[C117]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Range-agnostic multi-view depth estimation with keyframe selection”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland [[PDF](https://arxiv.org/pdf/2401.14401)] [[Project](https://andreaconti.github.io/projects/range_agnostic_multi_view_depth/)] [[Code](https://github.com/andreaconti/ramdepth)]
 
 **[C116]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “On-Site Adaptation for Monocular Depth Estimation with a Static Camera”, oral presentation at The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK 
 
