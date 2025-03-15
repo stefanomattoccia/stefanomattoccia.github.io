@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-Current teaching activity:
+2024/2025
 
 72943 - Sistemi Digitali M (Digital System M) 
 ------
