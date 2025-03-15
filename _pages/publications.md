@@ -121,7 +121,7 @@ International Conference and Workshop papers
 
 **[C110]** Y. Zhang, M. Poggi, S. Mattoccia, “TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), October 1-5, 2023, Detroit, Michigan USA
 
-**[C109]** Y. Zhang, X. Guo, M. Poggi, Z. Zhu, G. Huang, S. Mattoccia, “CompletionFormer: Depth Completion with Convolutions and Vision Transformers”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023), June 18-22, 2023, Vancouver, Canada
+**[C109]** Y. Zhang, X. Guo, M. Poggi, Z. Zhu, G. Huang, S. Mattoccia, “CompletionFormer: Depth Completion with Convolutions and Vision Transformers”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023), June 18-22, 2023, Vancouver, Canada [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_CompletionFormer_Depth_Completion_With_Convolutions_and_Vision_Transformers_CVPR_2023_paper.pdf)] [[Project](https://youmi-zym.github.io/projects/CompletionFormer/)] [[Code](https://github.com/youmi-zym/CompletionFormer?tab=readme-ov-file)] 
 
 **[C108]** R. Fan, M. Poggi, S. Mattoccia, “Contrastive Learning for Depth Prediction”, End-to-End Autonomous Driving: Perception, Prediction, Planning and Simulation (E2EAD) — CVPR 2023 Workshop, June 18, 2023, Vancouver, Canada
 
