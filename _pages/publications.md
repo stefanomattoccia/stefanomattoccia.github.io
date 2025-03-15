@@ -93,7 +93,7 @@ International Conference and Workshop papers
  
 **[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with flow”, IEEE International Conference on Robotics & Automation (ICRA 2025), USA, May 19–23, 2025, Atlanta, Georgia
 
-**[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), February 28–March 4, 2025, Tucson, Arizona, USA
+**[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), February 28–March 4, 2025, Tucson, Arizona, USA [[PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Cavalcanti_CabNIR_A_Benchmark_for_In-Vehicle_Infrared_Monocular_Depth_Estimation_WACV_2025_paper.pdf)]
 
 **[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://arxiv.org/pdf/2408.04633)] [[Project](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)]  
 
