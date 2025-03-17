@@ -89,9 +89,9 @@ International Conference and Workshop papers
 
 **[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), June 11–15, 2025, Nashville, Tennessee, USA [[PDF](https://arxiv.org/pdf/2412.04472)] [[Project](https://stereoanywhere.github.io/)] [[Code](https://github.com/bartn8/stereoanywhere/)]
 
-**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA 2025), May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/files/ICRA_2025_HS-SLAM.pdf)] [[Project](https://zorangong.github.io/HS-SLAM/)] [Code]
+**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA 2025), May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/publications/ICRA_2025_HS-SLAM.pdf)] [[Project](https://zorangong.github.io/HS-SLAM/)] [Code]
  
-**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with the flow”, IEEE International Conference on Robotics & Automation (ICRA 2025), USA, May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/files/ICRA_202525_Drive_with_flow.pdf)]
+**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with the flow”, IEEE International Conference on Robotics & Automation (ICRA 2025), USA, May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/publications/ICRA_2025_Drive_with_flow.pdf)]
 
 **[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), February 28–March 4, 2025, Tucson, Arizona, USA [[PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Cavalcanti_CabNIR_A_Benchmark_for_In-Vehicle_Infrared_Monocular_Depth_Estimation_WACV_2025_paper.pdf)] [[Dataset](https://cabnir.github.io/)]
 
@@ -99,7 +99,7 @@ International Conference and Workshop papers
 
 **[C121]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07836.pdf)] [[Project](https://andreaconti.github.io/projects/depth_on_demand/)] [[Code](https://github.com/andreaconti/depth-on-demand)]  
 
-**[C120]** R. Fan, M. Poggi, S. Mattoccia, “Exploring Few-Beam LiDAR Assistance in Self-Supervised Multi-Frame Depth Estimation”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), October 14–18, 2024, Abu Dhabi, UAE
+**[C120]** R. Fan, M. Poggi, S. Mattoccia, “Exploring Few-Beam LiDAR Assistance in Self-Supervised Multi-Frame Depth Estimation”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), October 14–18, 2024, Abu Dhabi, UAE [[PDF](/publications/IROS_2024_Exploring_Few_Beam_LiDAR.pdf)]
 
 **[C119]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, Y. Zhang, C. Wu, Z. He, S. Yin, J. Dong, Y. Liu, H. Jiang, J. Shi, Y. A, Y. Jin, D. Li, B. Ke, A. Obukhov, T. Wang, N. Metzger, S. Huang, K. Schindler, Y. Huang, J. Li, J. Zhang, Y. Wang, Z. Huang, T. Liu, Z. Cao, P. Li, J. Wang, W. Zhu, H. Geng, Y. Zhang, L. Lan, K. Xu, T. Sun, Q. Xu, S. Saini, A. Gupta, S. K. Mistry, A. Shukla, V. Jakhetiya, S. Jaiswal, Y. Sun, Z. Zheng, Y. Ning, J. Cheng, H. Liu, H. Huang, C. Yang, Z. Jiang, Y. Peng, A. Huang, J. Hwang, “NTIRE 2024 Challenge on HR Depth from Images of Specular and Transparent Surfaces”, New Trends in Image Restoration and Enhancement (NTIRE 2024), CVPR Workshop, June 17, 2024, Seattle, Washington, USA [[PDF](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ramirez_NTIRE_2024_Challenge_on_HR_Depth_from_Images_of_Specular_CVPRW_2024_paper.pdf)]
 
