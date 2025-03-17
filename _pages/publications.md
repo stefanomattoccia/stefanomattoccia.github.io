@@ -205,28 +205,27 @@ International Conference and Workshop papers
 
 **[C68]** F. Tosi, M. Poggi, A. Tonioni, L. Di Stefano, S. Mattoccia, “Learning confidence measures in the wild”, 28th British Machine Vision Conference (BMVC 2017), September 4-7, 2017, Imperial College London, UK [[PDF](/publications/BMVC_2017.pdf)]
 
+**[C67]** M. Poggi, F. Tosi, S. Mattoccia, “Efficient confidence measures for embedded stereo”, 19th International Conference on Image Analysis and Processing (ICIAP 2017), September 11-15, 2017, Catania, Italy [[PDF](/publications/ICIAP_2017.pdf)]
 
-**[C67]** M. Poggi, F. Tosi, S. Mattoccia, “Efficient confidence measures for embedded stereo”, 19th International Conference on Image Analysis and Processing (ICIAP 2017), September 11-15, 2017, Catania, Italy
+**[C66]** M. Poggi, S. Mattoccia, “Learning to predict stereo reliability enforcing local consistency of confidence maps”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), July 21-26, 2017, Honolulu, Hawaii, USA [[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Poggi_Learning_to_Predict_CVPR_2017_paper.pdf)]
 
-**[C66]** M. Poggi, S. Mattoccia, “Learning to predict stereo reliability enforcing local consistency of confidence maps”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), July 21-26, 2017, Honolulu, Hawaii, USA
-
-**[C65]** M. Poggi, F. Tosi, S. Mattoccia, “Even more confident predictions with deep machine-learning”, 13th IEEE Embedded Vision Workshop (EVW2017) held in conjunction with IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), July 21, 2017, Honolulu, Hawaii, USA
+**[C65]** M. Poggi, F. Tosi, S. Mattoccia, “Even more confident predictions with deep machine-learning”, 13th IEEE Embedded Vision Workshop (EVW2017) held in conjunction with IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), July 21, 2017, Honolulu, Hawaii, USA [[PDF](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Poggi_Even_More_Confident_CVPR_2017_paper.pdf)]
 
 **[C64]** M. Poggi, S. Mattoccia, “Evaluation of variants of the SGM algorithm aimed at implementation on embedded or reconfigurable devices”, International Conference on 3D Imaging (IC3D), 13-14 December 2016, Liège, Belgium
 
 **[C63]** M. Boschini, M. Poggi, S. Mattoccia, “Improving the reliability of a 3D people tracking leveraging on deep-learning”, International Conference on 3D Imaging (IC3D), 13-14 December, 2016, Liège, Belgium
 
-**[C62]** P. Di Febbo, S. Mattoccia, C. Dal Mutto, “Real-time image distortion correction: analysis and evaluation of FPGA-compatible algorithms”, 2016 International Conference on Reconfigurable Computing and FPGAs (Reconfig 2016), November 30-December 2, 2016, Cancun, Mexico
+**[C62]** P. Di Febbo, S. Mattoccia, C. Dal Mutto, “Real-time image distortion correction: analysis and evaluation of FPGA-compatible algorithms”, 2016 International Conference on Reconfigurable Computing and FPGAs (Reconfig 2016), November 30-December 2, 2016, Cancun, Mexico [[PDF](/publications/ReConFig_2016.pdf)]
 
-**[C61]** M. Poggi, S. Mattoccia, “Learning a general-purpose confidence measure based on O(1) features and a smarter aggregation strategy for semi global matching”, oral presentation at the 2016 International Conference on 3D Vision (3DV 2016), October 25-28, 2016, Stanford University, California, USA
+**[C61]** M. Poggi, S. Mattoccia, “Learning a general-purpose confidence measure based on O(1) features and a smarter aggregation strategy for semi global matching”, oral presentation at the 2016 International Conference on 3D Vision (3DV 2016), October 25-28, 2016, Stanford University, California, USA [[PDF](/publications/3DV_2016_SMARTER_SGM.pdf)]
 
-**[C60]** M. Poggi, S. Mattoccia, “Deep stereo fusion: combining multiple disparity hypotheses with deep-learning”, 2016 International Conference on 3D Vision (3DV 2016), October 25-28, 2016, Stanford University, California, USA
+**[C60]** M. Poggi, S. Mattoccia, “Deep stereo fusion: combining multiple disparity hypotheses with deep-learning”, 2016 International Conference on 3D Vision (3DV 2016), October 25-28, 2016, Stanford University, California, USA [[PDF](/publications/3DV_2016_DSF.pdf)]
 
-**[C59]** G. Marin, P. Zanuttigh, S. Mattoccia, “Reliable fusion of ToF and stereo depth driven by confidence measures”, 14th European Conference on Computer Vision (ECCV 2016), October 8-16, 2016, Amsterdam, Netherland
+**[C59]** G. Marin, P. Zanuttigh, S. Mattoccia, “Reliable fusion of ToF and stereo depth driven by confidence measures”, 14th European Conference on Computer Vision (ECCV 2016), October 8-16, 2016, Amsterdam, Netherland [[PDF](/publications/ECCV_2016_FUSION.pdf)]
 
-**[C58]** M. Poggi, S. Mattoccia, “Learning from scratch a conﬁdence measure”, 27th British Machine Vision Conference (BMVC 2016), September 19-22, 2016, York, UK
+**[C58]** M. Poggi, S. Mattoccia, “Learning from scratch a conﬁdence measure”, 27th British Machine Vision Conference (BMVC 2016), September 19-22, 2016, York, UK [[PDF](/publications/BMVC_2016.pdf)]
 
-**[C57]** M. Poggi, S. Mattoccia, “A wearable mobility aid for the visually Impaired based on embedded 3D vision and deep learning”, First IEEE Workshop on ICT Solutions for eHealth (IEEE ICTS4eHealth 2016) in conjunction with the Twenty-First IEEE Symposium on Computers and Communications, June 27-30, 2016, Messina, Italy
+**[C57]** M. Poggi, S. Mattoccia, “A wearable mobility aid for the visually Impaired based on embedded 3D vision and deep learning”, First IEEE Workshop on ICT Solutions for eHealth (IEEE ICTS4eHealth 2016) in conjunction with the Twenty-First IEEE Symposium on Computers and Communications, June 27-30, 2016, Messina, Italy [[PDF](/publications/ICTS_2016.pdf)]
 
 **[C56]** S. Mattoccia, M. Poggi, “A passive RGBD sensor for  accurate and real-time depth sensing self-contained into an FPGA”, 9th ACM/SIGBED International Conference on Distributed Smart Cameras (ICDSC 2015), September 8-11, 2015, Seville, Spain
 
