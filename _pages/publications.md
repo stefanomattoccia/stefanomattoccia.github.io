@@ -147,7 +147,7 @@ International Conference and Workshop papers
 
 **[C97]** F. Tosi*, P. Zama Ramirez*, M. Poggi*, S. Salti, S. Mattoccia, L. Di Stefano, “RGB-Multispectral matching: dataset, learning methodology, evaluation”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), June 19-24, 2022, New Orleans, Louisiana, USA [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Tosi_RGB-Multispectral_Matching_Dataset_Learning_Methodology_Evaluation_CVPR_2022_paper.pdf)]
 
-**[C96]** S. Kim*, M. Poggi*, S. Kim, K. Sohn, S. Mattoccia, “Meta-confidence estimation for stereo matching”, International Conference on Robotics and Automation (ICRA 2022), May 23-27, 2021, Philadelphia, Pennsylvania, USA [[PDF](https://ieeexplore.ieee.org/document/9811620)]
+**[C96]** S. Kim*, M. Poggi*, S. Kim, K. Sohn, S. Mattoccia, “Meta-confidence estimation for stereo matching”, International Conference on Robotics and Automation (ICRA 2022), May 23-27, 2021, Philadelphia, Pennsylvania, USA [[PDF](/publications/ICRA_2022_META_CONF.pdf)]
 
 **[C95]** F. Aleotti, F. Tosi, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural disparity refinement for arbitrary resolution stereo”, oral presentation at International Conference on 3D Vision (3DV 2021), virtual, December 1-3, 2021 - BEST PAPER AWARD HONORABLE MENTION [[PDF](https://arxiv.org/pdf/2110.15367)]
 
@@ -161,7 +161,7 @@ International Conference and Workshop papers
 
 **[C90]** M. Poggi, F. Aleotti, F. Tosi, G. Zaccaroni, S. Mattoccia, “Self-adapting confidence estimation for stereo”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK [[PDF]([https://arxiv.org/pdf/2110.15367](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690698.pdf)]
 
-**[C89]** M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, "Leveraging a weakly adversarial paradigm for joint learning of disparity and confidence estimation", 25th International Conference on Pattern Recognition (ICPR 2020), January 10-15, 2021, virtually in Milan, Italy
+**[C89]** M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, "Leveraging a weakly adversarial paradigm for joint learning of disparity and confidence estimation", 25th International Conference on Pattern Recognition (ICPR 2020), January 10-15, 2021, virtually in Milan, Italy [[PDF](/publications/ICPR_2020_WAN.pdf)]
 
 **[C88]** M. Poggi, F. Aleotti, F. Tosi, S. Mattoccia, "On the uncertainty of self-supervised monocular depth estimation", IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), June 16-18, 2020, virtually in Seattle, Washington, USA
 
