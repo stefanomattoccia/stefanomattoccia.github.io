@@ -157,7 +157,7 @@ International Conference and Workshop papers
 
 **[C92]** C. Cai, M. Poggi, S. Mattoccia, P. Mordohai, “Matching-space stereo networks for cross-domain generalization”, 8th International Virtual Conference on 3D Vision (3DV 2020), November 25-28, 2020, virtually in Fukuoka, Japan [[PDF](https://arxiv.org/pdf/2010.07347)]
 
-**[C91]** F. Aleotti, F. Tosi, L. Zhang, M. Poggi, S. Mattoccia, “Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560596.pdf)]
+**[C91]** F. Aleotti, F. Tosi, L. Zhang, M. Poggi, S. Mattoccia, “Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560596.pdf)]
 
 **[C90]** M. Poggi, F. Aleotti, F. Tosi, G. Zaccaroni, S. Mattoccia, “Self-adapting confidence estimation for stereo”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690698.pdf)]
 
