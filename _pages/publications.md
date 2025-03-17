@@ -159,7 +159,7 @@ International Conference and Workshop papers
 
 **[C91]** F. Aleotti, F. Tosi, L. Zhang, M. Poggi, S. Mattoccia, “Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560596.pdf]
 
-**[C90]** M. Poggi, F. Aleotti, F. Tosi, G. Zaccaroni, S. Mattoccia, “Self-adapting confidence estimation for stereo”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK [[PDF]([https://arxiv.org/pdf/2110.15367](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690698.pdf)]
+**[C90]** M. Poggi, F. Aleotti, F. Tosi, G. Zaccaroni, S. Mattoccia, “Self-adapting confidence estimation for stereo”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690698.pdf)]
 
 **[C89]** M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, "Leveraging a weakly adversarial paradigm for joint learning of disparity and confidence estimation", 25th International Conference on Pattern Recognition (ICPR 2020), January 10-15, 2021, virtually in Milan, Italy [[PDF](/publications/ICPR_2020_WAN.pdf)]
 
