@@ -149,17 +149,17 @@ International Conference and Workshop papers
 
 **[C96]** S. Kim*, M. Poggi*, S. Kim, K. Sohn, S. Mattoccia, “Meta-confidence estimation for stereo matching”, International Conference on Robotics and Automation (ICRA 2022), May 23-27, 2021, Philadelphia, Pennsylvania, USA [[PDF](https://ieeexplore.ieee.org/document/9811620)]
 
-**[C95]** F. Aleotti, F. Tosi, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural disparity refinement for arbitrary resolution stereo”, oral presentation at International Conference on 3D Vision (3DV 2021), virtual, December 1-3, 2021 - BEST PAPER AWARD HONORABLE MENTION
+**[C95]** F. Aleotti, F. Tosi, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural disparity refinement for arbitrary resolution stereo”, oral presentation at International Conference on 3D Vision (3DV 2021), virtual, December 1-3, 2021 - BEST PAPER AWARD HONORABLE MENTION [[PDF](https://arxiv.org/pdf/2110.15367)]
 
-**[C94]** M. Poggi, F. Aleotti, S. Mattoccia, “Sensor-guided optical flow”, International Conference on Computer Vision (ICCV 2021), virtual, October 11-17, 2021
+**[C94]** M. Poggi, F. Aleotti, S. Mattoccia, “Sensor-guided optical flow”, International Conference on Computer Vision (ICCV 2021), virtual, October 11-17, 2021 [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Poggi_Sensor-Guided_Optical_Flow_ICCV_2021_paper.pdf)]
 
-**[C93]** F. Aleotti, M. Poggi, S. Mattoccia, “Learning optical flow from still images”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), virtual, June 19-25, 2021
+**[C93]** F. Aleotti, M. Poggi, S. Mattoccia, “Learning optical flow from still images”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), virtual, June 19-25, 2021 [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Aleotti_Learning_Optical_Flow_From_Still_Images_CVPR_2021_paper.pdf)]
 
-**[C92]** C. Cai, M. Poggi, S. Mattoccia, P. Mordohai, “Matching-space stereo networks for cross-domain generalization”, 8th International Virtual Conference on 3D Vision (3DV 2020), November 25-28, 2020, virtually in Fukuoka, Japan
+**[C92]** C. Cai, M. Poggi, S. Mattoccia, P. Mordohai, “Matching-space stereo networks for cross-domain generalization”, 8th International Virtual Conference on 3D Vision (3DV 2020), November 25-28, 2020, virtually in Fukuoka, Japan [[PDF](https://arxiv.org/pdf/2010.07347)]
 
-**[C91]** F. Aleotti, F. Tosi, L. Zhang, M. Poggi, S. Mattoccia, “Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK
+**[C91]** F. Aleotti, F. Tosi, L. Zhang, M. Poggi, S. Mattoccia, “Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560596.pdf]
 
-**[C90]** M. Poggi, F. Aleotti, F. Tosi, G. Zaccaroni, S. Mattoccia, “Self-adapting confidence estimation for stereo”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK
+**[C90]** M. Poggi, F. Aleotti, F. Tosi, G. Zaccaroni, S. Mattoccia, “Self-adapting confidence estimation for stereo”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK [[PDF]([https://arxiv.org/pdf/2110.15367](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690698.pdf)]
 
 **[C89]** M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, "Leveraging a weakly adversarial paradigm for joint learning of disparity and confidence estimation", 25th International Conference on Pattern Recognition (ICPR 2020), January 10-15, 2021, virtually in Milan, Italy
 
