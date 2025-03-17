@@ -187,23 +187,24 @@ International Conference and Workshop papers
 
 **[C77]** C. Arcidiacono, M. Barbari, S. Benni, E. Carfagna, G. Cascone, L. Conti, L. Di Stefano, M. Guarino, L. Leso, D. Lovarelli, M. Mancino, S. Mattoccia, G. Minozzi, S. M. C. Porto, G. Provolo, G. Rossi, A. Sandrucci, A. Tamburini, P. Tassinari, N. Tomasello, D. Torreggiani and F. Valenti, “Smart Dairy Farming: Innovative Solutions to Improve Herd Productivity”, International Mid-Term Conference of the Italian Association of Agricultural Engineering, September 12-13, 2019, Matera, Italy
 
-**[C76]** P. Zama Ramirez, M. Poggi, F. Tosi, S. Mattoccia, L. Di Stefano, "Geometry meets semantic for semi-supervised monocular depth estimation", 14th Asian Conference on Computer Vision (ACCV 2018), December 2-6, 2018, Perth, Australia
- 
-**[C75]** M. Poggi, F. Aleotti, F. Tosi, S. Mattoccia, “Towards real-time unsupervised monocular depth estimation on CPU”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1-5, 2018, Madrid, Spain
+**[C76]** P. Zama Ramirez, M. Poggi, F. Tosi, S. Mattoccia, L. Di Stefano, "Geometry meets semantic for semi-supervised monocular depth estimation", 14th Asian Conference on Computer Vision (ACCV 2018), December 2-6, 2018, Perth, Australia [[PDF](https://arxiv.org/pdf/1810.04093)]
 
-**[C74]** F. Tosi, M. Poggi, A. Benincasa, S. Mattoccia, “Beyond local reasoning for stereo confidence estimation with deep learning”, 15th European Conference on Computer Vision (ECCV 2018), September 8-14, 2018, Munich, Germany
+**[C75]** M. Poggi, F. Aleotti, F. Tosi, S. Mattoccia, “Towards real-time unsupervised monocular depth estimation on CPU”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1-5, 2018, Madrid, Spain [[PDF](https://arxiv.org/pdf/1806.11430)]
 
-**[C73]** F. Aleotti, F. Tosi, M. Poggi, S. Mattoccia, “Generative adversarial networks for unsupervised monocular depth prediction”, 3D Reconstruction in the Wild 2018 (3DRW2018), in conjunction with (ECCV 2018), September 14, 2018, Munich, Germany
+**[C74]** F. Tosi, M. Poggi, A. Benincasa, S. Mattoccia, “Beyond local reasoning for stereo confidence estimation with deep learning”, 15th European Conference on Computer Vision (ECCV 2018), September 8-14, 2018, Munich, Germany [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)]
 
-**[C72]** M. Poggi, F. Tosi, S. Mattoccia, "Learning monocular depth estimation with unsupervised trinocular assumptions", 6th international conference on 3D Vision (3DV 2018), September 5-8, 2018, Verona, Italy
+**[C73]** F. Aleotti, F. Tosi, M. Poggi, S. Mattoccia, “Generative adversarial networks for unsupervised monocular depth prediction”, 3D Reconstruction in the Wild 2018 (3DRW2018), in conjunction with (ECCV 2018), September 14, 2018, Munich, Germany [[PDF](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Aleotti_Generative_Adversarial_Networks_for_unsupervised_monocular_depth_prediction_ECCVW_2018_paper.pdf)]
 
-**[C71]** P. Di Febbo, C. Dal Mutto, K. Tieu, S. Mattoccia, “KCNN: extremely-efficient hardware keypoint detection with a compact convolutional neural network”, 14th IEEE Embedded Vision Workshop (EVW 2018), held in conjunction with CVPR 2018, July 18, 2018, Salt Lake City, Utah, USA - BEST PAPER AWARD
+**[C72]** M. Poggi, F. Tosi, S. Mattoccia, "Learning monocular depth estimation with unsupervised trinocular assumptions", 6th international conference on 3D Vision (3DV 2018), September 5-8, 2018, Verona, Italy [[PDF](https://arxiv.org/pdf/1808.01606)]
 
-**[C70]** M. Poggi, F. Tosi, S. Mattoccia, “Quantitative evaluation of confidence measures in a machine learning world”, spotlight presentation at International Conference on Computer Vision (ICCV 2017), October 22-29, 2017, Venice, Italy
+**[C71]** P. Di Febbo, C. Dal Mutto, K. Tieu, S. Mattoccia, “KCNN: extremely-efficient hardware keypoint detection with a compact convolutional neural network”, 14th IEEE Embedded Vision Workshop (EVW 2018), held in conjunction with CVPR 2018, July 18, 2018, Salt Lake City, Utah, USA - BEST PAPER AWARD [[PDF](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Di_Febbo_KCNN_Extremely-Efficient_Hardware_CVPR_2018_paper.pdf)]
 
-**[C69]** A. Tonioni, M. Poggi, S. Mattoccia, L. Di Stefano, “Unsupervised adaptation for deep stereo”, International Conference on Computer Vision (ICCV 2017), October 22-29, 2017, Venice, Italy
+**[C70]** M. Poggi, F. Tosi, S. Mattoccia, “Quantitative evaluation of confidence measures in a machine learning world”, spotlight presentation at International Conference on Computer Vision (ICCV 2017), October 22-29, 2017, Venice, Italy [[PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Poggi_Quantitative_Evaluation_of_ICCV_2017_paper.pdf)]
 
-**[C68]** F. Tosi, M. Poggi, A. Tonioni, L. Di Stefano, S. Mattoccia, “Learning confidence measures in the wild”, 28th British Machine Vision Conference (BMVC 2017), September 4-7, 2017, Imperial College London, UK
+**[C69]** A. Tonioni, M. Poggi, S. Mattoccia, L. Di Stefano, “Unsupervised adaptation for deep stereo”, International Conference on Computer Vision (ICCV 2017), October 22-29, 2017, Venice, Italy [[PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf)]
+
+**[C68]** F. Tosi, M. Poggi, A. Tonioni, L. Di Stefano, S. Mattoccia, “Learning confidence measures in the wild”, 28th British Machine Vision Conference (BMVC 2017), September 4-7, 2017, Imperial College London, UK [[PDF](/publications/BMVC_2017.pdf)]
+
 
 **[C67]** M. Poggi, F. Tosi, S. Mattoccia, “Efficient confidence measures for embedded stereo”, 19th International Conference on Image Analysis and Processing (ICIAP 2017), September 11-15, 2017, Catania, Italy
 
