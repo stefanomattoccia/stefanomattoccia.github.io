@@ -227,31 +227,31 @@ International Conference and Workshop papers
 
 **[C57]** M. Poggi, S. Mattoccia, “A wearable mobility aid for the visually Impaired based on embedded 3D vision and deep learning”, First IEEE Workshop on ICT Solutions for eHealth (IEEE ICTS4eHealth 2016) in conjunction with the Twenty-First IEEE Symposium on Computers and Communications, June 27-30, 2016, Messina, Italy [[PDF](/publications/ICTS_2016.pdf)]
 
-**[C56]** S. Mattoccia, M. Poggi, “A passive RGBD sensor for  accurate and real-time depth sensing self-contained into an FPGA”, 9th ACM/SIGBED International Conference on Distributed Smart Cameras (ICDSC 2015), September 8-11, 2015, Seville, Spain
+**[C56]** S. Mattoccia, M. Poggi, “A passive RGBD sensor for  accurate and real-time depth sensing self-contained into an FPGA”, 9th ACM/SIGBED International Conference on Distributed Smart Cameras (ICDSC 2015), September 8-11, 2015, Seville, Spain [[PDF](/publications/ICDSC_2015.pdf)]
 
-**[C55]** M. Poggi, L. Nanni, S. Mattoccia, “Crosswalk recognition through pointcloud processing and deep-learning suited to a wearable mobility aid for the visually impaired”, Image-based Smart City Application (ISCA2015), September 8, 2015, Genova, Italy
+**[C55]** M. Poggi, L. Nanni, S. Mattoccia, “Crosswalk recognition through pointcloud processing and deep-learning suited to a wearable mobility aid for the visually impaired”, Image-based Smart City Application (ISCA2015), September 8, 2015, Genova, Italy [[PDF](/publications/ISCA_2015.pdf)]
 
 **[C54]** A. Muscoloni, S. Mattoccia, “Real-time tracking with an embedded 3D camera with FPGA processing”, International Conference on 3D (IC3D), 9-10 Dec, 2014, Liège, Belgium
 
-**[C53]** S. Mattoccia, P. Macrì, “3D glasses as mobility aid for visually impaired people”, Second Workshop on Assistive Computer Vision and Robotics (ACVR2014), ECCV Worskhop, September 12, 2014, Zürich, Switzerland
+**[C53]** S. Mattoccia, P. Macrì, “3D glasses as mobility aid for visually impaired people”, Second Workshop on Assistive Computer Vision and Robotics (ACVR2014), ECCV Worskhop, September 12, 2014, Zürich, Switzerland [[PDF](/publications/ACVR_2014.pdf)]
 
-**[C52]** S. Mattoccia, P. Macrì, “A real time 3D sensor for smart cameras”, Eighth ACM/IEEE International Conference on Distributed Smart Cameras (ICDSC 2014), November 4-7, 2014, Venice, Italy
+**[C52]** S. Mattoccia, P. Macrì, “A real time 3D sensor for smart cameras”, Eighth ACM/IEEE International Conference on Distributed Smart Cameras (ICDSC 2014), November 4-7, 2014, Venice, Italy [[PDF](/publications/ICDSC_2014.pdf)]
 
 **[C51]** S. Mattoccia, P. Macrì, G. Parmigiani, G. Rizza, “A compact, lightweight and energy efficient system for autonomous navigation based on 3D vision”, 10th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA 2014), September 10-12, 2014, Senigallia, Italy
 
 **[C50]** S. Mattoccia, I. Marchio, M. Casadio, “A compact 3D camera suited for mobile and embedded vision applications”, 4th IEEE Mobile Vision Workshop, CVPR 2014, June 23, 2014, Columbus, Ohio, USA - BEST DEMO PAPER AWARD
 
-**[C49]** S. Mattoccia, “Stereo vision algorithms on FPGAs”, 9th IEEE Embedded Vision Workshop, CVPR 2013, June 24, 2013, Portland, Oregon, USA - INVITED PAPER
+**[C49]** S. Mattoccia, “Stereo vision algorithms on FPGAs”, 9th IEEE Embedded Vision Workshop, CVPR 2013, June 24, 2013, Portland, Oregon, USA - INVITED PAPER [[PDF](/publications/EVW_2013.pdf)]
 
-**[C48]** C. Dal Mutto, P. Zanuttigh, S. Mattoccia, G. Cortelazzo, "Locally consistent ToF and stereo data fusion", 2nd Workshop on Consumer Depth Cameras for Computer Vision (CDC4CV2012), ECCV2012 Workshop, October 12, Firenze, Italy
+**[C48]** C. Dal Mutto, P. Zanuttigh, S. Mattoccia, G. Cortelazzo, "Locally consistent ToF and stereo data fusion", 2nd Workshop on Consumer Depth Cameras for Computer Vision (CDC4CV2012), ECCV2012 Workshop, October 12, Firenze, Italy [[PDF](/publications/CDC4CV_2012.pdf)]
 
 **[C47]** S. Mattoccia, L. De-Maeztu, "A fast segmentation-driven algorithm for stereo correspondence", International Conference on 3D (IC3D 2011), December 7-8, 2011, Liege, Belgium
 
 **[C46]** L. De-Maeztu, S. Mattoccia, A. Villanueva, R. Cabeza, "Efficient aggregation via iterative block-based adapting support weight",International Conference on 3D (IC3D 2011), December 7-8, 2011, Liege, Belgium
 
-**[C45]** L. De-Maeztu, S. Mattoccia, A. Villanueva, R. Cabeza, "Linear stereo matching", International Conference on Computer Vision (ICCV 2011), November 6-13, 2011, Barcelona, Spain
+**[C45]** L. De-Maeztu, S. Mattoccia, A. Villanueva, R. Cabeza, "Linear stereo matching", International Conference on Computer Vision (ICCV 2011), November 6-13, 2011, Barcelona, Spain [[PDF](/publications/ICCV_2011.pdf)]
 
-**[C44]** S. Mattoccia, M. Viti, F. Ries, "Near real-time Fast Bilateral Stereo on the GPU", 7th IEEE Workshop on Embedded Computer Vision (ECVW 2011), CVPR Workshop, June 20, 2011, Colorado Springs, Colorado, USA - BEST PAPER AWARD
+**[C44]** S. Mattoccia, M. Viti, F. Ries, "Near real-time Fast Bilateral Stereo on the GPU", 7th IEEE Workshop on Embedded Computer Vision (ECVW 2011), CVPR Workshop, June 20, 2011, Colorado Springs, Colorado, USA - BEST PAPER AWARD [[PDF](/publications/EVW_2011.pdf)]
 
 **[C43]** L. De-Maeztu, S. Mattoccia, A. Villanueva, R. Cabeza, "A novel heterogeneous framework for stereo matching", International Conference on Image Processing, Computer Vision and Pattern Recognition (IPCV 2011), July 18-21, 2011, Las Vegas, Nevada, USA
 
