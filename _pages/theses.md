@@ -7,7 +7,9 @@ redirect_from:
   - /theses.html
 ---
 
-List of theses and internships supervised
+List of  supervised theses and internships.
+AI=Artificial Intelligence, I=Informatica, A=Automazione, E=Elettronica, M=Laurea Magistrale
+
 
 Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 ------
