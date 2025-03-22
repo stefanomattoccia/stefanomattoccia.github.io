@@ -180,407 +180,407 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 
 84. Aldo Topciu (I), “Applicazione di computer vision di ausilio per non vedenti”, AA 2018/19
 
-85. Matteo Sacco (I), “Implementazione di algoritmi per estrazione di feature da immagini in tempo costante”, AA 2018/19
+**[T200]**. Matteo Sacco (I), “Implementazione di algoritmi per estrazione di feature da immagini in tempo costante”, AA 2018/19
 
-86. Enrico Ghidoni (I), “Sensori depth monoculari per sistemi embedded”, AA 2018/19
+**[T199]** Enrico Ghidoni (I), “Sensori depth monoculari per sistemi embedded”, AA 2018/19
 
-87. Giulio Zaccaroni (I), “Monocular and stereo depth estimation on iOS devices”, AA 2018/19
+**[T198]** Giulio Zaccaroni (I), “Monocular and stereo depth estimation on iOS devices”, AA 2018/19
 
-88. Mattia Dei (I), “Rendering 3D con Python per applicazioni di realtà aumentata”, AA 2018/19
+**[T197]** Mattia Dei (I), “Rendering 3D con Python per applicazioni di realtà aumentata”, AA 2018/19
 
-89. Federico Dal Monte (I), “Integrazione di un modello 3D dinamico in un'applicazione di realtà aumentata”, AA 2018/19
+**[T196]** Federico Dal Monte (I), “Integrazione di un modello 3D dinamico in un'applicazione di realtà aumentata”, AA 2018/19
 
-90. Francesco Pace (I), “Sviluppo di un'applicazione per il riconoscimento automatico di targhe”, presso Brav Srl, AA 2018/19
+**[T195]** Francesco Pace (I), “Sviluppo di un'applicazione per il riconoscimento automatico di targhe”, presso Brav Srl, AA 2018/19
 
-91. Michele Filippini (I), “Studio di algoritmi di outliers detection per applicazioni di realtà aumentata”, AA 2018/19
+**[T194]** Michele Filippini (I), “Studio di algoritmi di outliers detection per applicazioni di realtà aumentata”, AA 2018/19
 
-92.Luca Ottavio Serafini (I), “Ricostruzione volumetrica 3D mediante LiDAR puntuale”, AA 2018/19
+**[T193]** Luca Ottavio Serafini (I), “Ricostruzione volumetrica 3D mediante LiDAR puntuale”, AA 2018/19
 
-93.Simone Gayed Said, “Utilizzo di dati depth ottenuti da singola telecamera per applicazioni di video sorveglianza”, AA 2018/19
+**[T192]** Simone Gayed Said, “Utilizzo di dati depth ottenuti da singola telecamera per applicazioni di video sorveglianza”, AA 2018/19
 
-94. Mattia Spazzoli (I), “Sensore di prossimità embedded con dati depth”, AA 2018/19
+**[T191]** Mattia Spazzoli (I), “Sensore di prossimità embedded con dati depth”, AA 2018/19
 
-95. Michael Mengozzi (I), “Valutazione di algoritmi per la stima della posa da singola telecamera”, AA 2018/19 
+**[T190]** Michael Mengozzi (I), “Valutazione di algoritmi per la stima della posa da singola telecamera”, AA 2018/19 
 
-96. Andrea Bombino (IM), “Machine Learning Aided Methods for Resilient Industrial Wireless Sensor Network”, svolta presso Mid Sweden University, Svezia, AA 2017/18,
+**[T189]** Andrea Bombino (IM), “Machine Learning Aided Methods for Resilient Industrial Wireless Sensor Network”, svolta presso Mid Sweden University, Svezia, AA 2017/18,
 
-97. Wenhao Wu (I), “Sistema per l'identificazione di immagini simili”, AA 2017/18
+**[T188]** Wenhao Wu (I), “Sistema per l'identificazione di immagini simili”, AA 2017/18
 
-98. Riccardo Muggiasca (I), “Sperimentazione con Arduino”, AA 2017/18
+**[T187]** Riccardo Muggiasca (I), “Sperimentazione con Arduino”, AA 2017/18
 
-99. Feres M’Hadhbi (I), “Identificazione di piani da immagini depth monoculari per applicazioni di realtà aumentata”, AA 2017/18
+**[T186]** Feres M’Hadhbi (I), “Identificazione di piani da immagini depth monoculari per applicazioni di realtà aumentata”, AA 2017/18
 
-100. Ugo Leone Cavalcanti (I), “Sistema di guida per veicolo autonomo”, AA 2017/18
+**[T185]** Ugo Leone Cavalcanti (I), “Sistema di guida per veicolo autonomo”, AA 2017/18
 
-101. Alessandro Buldini (I), “Analisi del resto della divisione e applicazione a un algoritmo di fattorizzazione per sistemi embedded”, AA 2017/18
+**[T184]** Alessandro Buldini (I), “Analisi del resto della divisione e applicazione a un algoritmo di fattorizzazione per sistemi embedded”, AA 2017/18
 
-102. Matteo Ferraresi (I), “Acquisizione di un dataset per sistema di ausilio per non vedenti”, AA 2017/18
+**[T183]** Matteo Ferraresi (I), “Acquisizione di un dataset per sistema di ausilio per non vedenti”, AA 2017/18
 
-103. Fabrizio Torriano (I), “Sviluppo di un driver per telecamera 3D compatibile con OpenCV”, AA 2017/18
+**[T182]** Fabrizio Torriano (I), “Sviluppo di un driver per telecamera 3D compatibile con OpenCV”, AA 2017/18
 
-104. Pierpaolo Perrozzi (IM), “Sistema di visione 3D per applicazione di safety”, svolta presso FAAC, Bologna, AA 2017/18
+**[T181]** Pierpaolo Perrozzi (IM), “Sistema di visione 3D per applicazione di safety”, svolta presso FAAC, Bologna, AA 2017/18
 
-105. Davide Giordano (I), “Calibrazione, rettificazione e caratterizzazione di un sistema stereo”, i AA 2017/18
+**[T180]** Davide Giordano (I), “Calibrazione, rettificazione e caratterizzazione di un sistema stereo”, i AA 2017/18
 
-106. Alberto Pierini (I), “Feature augmentation per misure di confidenza”, AA 2017/18
+**[T179]** Alberto Pierini (I), “Feature augmentation per misure di confidenza”, AA 2017/18
 
-107. Lorenzo Balducci (I), “Filtro di Kalman per la regolarizzazione della stima della posa in applicazioni di realtà aumentata”, AA 2017/18
+**[T178]** Lorenzo Balducci (I), “Filtro di Kalman per la regolarizzazione della stima della posa in applicazioni di realtà aumentata”, AA 2017/18
 
-108. Alessandro Fossa (I), “Applicazione di realtà aumentata 3D con telecamera monoculare”, AA 2017/18
+**[T177]** Alessandro Fossa (I), “Applicazione di realtà aumentata 3D con telecamera monoculare”, AA 2017/18
 
-109. Andrea Valli (E), “Applicazione di computer vision”, in corso presso Teptrapak (sede di Modena)
+**[T176]** Andrea Valli (E), “Applicazione di computer vision”, in corso presso Teptrapak (sede di Modena)
 
-110. Davide Pallotti (IM), “Integrazione di dati di disparità sparsi in algoritmi per la visione stereo basati su deep-learning”,  AA 2017/18
+**[T175]** Davide Pallotti (IM), “Integrazione di dati di disparità sparsi in algoritmi per la visione stereo basati su deep-learning”,  AA 2017/18
 
-111. Lorenzo Andraghetti (IM), “Monocular Depth Estimation enhancement by depth from SLAM Keypoints”, svolta presso Univrses AB, Stockholm, Sweden, AA 2017/18
+**[T174]** Lorenzo Andraghetti (IM), “Monocular Depth Estimation enhancement by depth from SLAM Keypoints”, svolta presso Univrses AB, Stockholm, Sweden, AA 2017/18
 
-112. Enrico Golfieri (IM), “Camera tracking in low textured environments”, svolta presso laboratorio RAM, University of Twente, AA 2017/18
+**[T173]** Enrico Golfieri (IM), “Camera tracking in low textured environments”, svolta presso laboratorio RAM, University of Twente, AA 2017/18
 
-113. Mattia Gianessi (IM), “Robotica e intelligenza artificiale applicate alla validazione automotive”, svolta presso Automobili Lamborghini Spa, AA 2017/18
+**[T172]** Mattia Gianessi (IM), “Robotica e intelligenza artificiale applicate alla validazione automotive”, svolta presso Automobili Lamborghini Spa, AA 2017/18
 
-114. Andrea Rossetto (IM), “CNN per view synthesis da mappe depth”, AA 2017/18
+**[T171]** Andrea Rossetto (IM), “CNN per view synthesis da mappe depth”, AA 2017/18
 
-115. Andrea Conti (I), “Misure di confidenza basate su machine learning per sistemi embedded”, AA 2017/18
+**[T170]** Andrea Conti (I), “Misure di confidenza basate su machine learning per sistemi embedded”, AA 2017/18
 
-116. Mirko Martignon (I), “Identificazione di piani in nuvole di punti generate da sistema monoculare per applicazioni di realtà aumentata”, AA 2017/18
+**[T169]** Mirko Martignon (I), “Identificazione di piani in nuvole di punti generate da sistema monoculare per applicazioni di realtà aumentata”, AA 2017/18
 
-117. Giordano Laminetti (I), “Applicazione di realtà aumentata”, AA 2017/18
+**[T168]** Giordano Laminetti (I), “Applicazione di realtà aumentata”, AA 2017/18
 
-118. Alessandro Bovicelli (I), “Deep-learning applicato all'identificazione automatica di capi di bestiame”, AA 2017/18
+**[T167]** Alessandro Bovicelli (I), “Deep-learning applicato all'identificazione automatica di capi di bestiame”, AA 2017/18
 
-119. Giovanni Bonaccio (I), “Sviluppo di progetti per fini didattici con Arduino”, AA 2017/18
+**[T166]** Giovanni Bonaccio (I), “Sviluppo di progetti per fini didattici con Arduino”, AA 2017/18
 
-120. Tommaso Liverani (I), “Sperimentazione con algoritmi di deep-learning su dispositivo Intel/Movidius stick”, AA 2017/18
+**[T165]** Tommaso Liverani (I), “Sperimentazione con algoritmi di deep-learning su dispositivo Intel/Movidius stick”, AA 2017/18
 
-121. Matteo Boschini (IM), “Unsupervised Learning of Scene Flow”, AA 2017/18
+**[T164]** Matteo Boschini (IM), “Unsupervised Learning of Scene Flow”, AA 2017/18
 
-122. Mihail Bida (I), “Identificazione di marker in immagini per applicazioni di guida autonoma”, AA 2017/18
+**[T163]** Mihail Bida (I), “Identificazione di marker in immagini per applicazioni di guida autonoma”, AA 2017/18
 
-123. Pietro Paolo Gentilucci (I), “Controllo di un rover per navigazione autonoma”, AA 2017/18
+**[T162]** Pietro Paolo Gentilucci (I), “Controllo di un rover per navigazione autonoma”, AA 2017/18
 
-124. Mounir Karoud (I), “Studio di soluzioni efficienti per filtri di convoluzione”, AA 2017/18
+**[T161]** Mounir Karoud (I), “Studio di soluzioni efficienti per filtri di convoluzione”, AA 2017/18
 
-125. Michela Minerva (I), “Training unsupervised di misure di confidenza”, AA 2017/18
+**[T160]** Michela Minerva (I), “Training unsupervised di misure di confidenza”, AA 2017/18
 
-126. Giuseppe Obino (I), “Analisi di una metrica per la valutazione di keypoint detector”, AA 2017/18
+**[T159]** Giuseppe Obino (I), “Analisi di una metrica per la valutazione di keypoint detector”, AA 2017/18
 
-127. Leonardo Perugini (I), “Sviluppo di un sistema per l'identificazione di targhe automobilistiche”, AA 2017/18
+**[T158]** Leonardo Perugini (I), “Sviluppo di un sistema per l'identificazione di targhe automobilistiche”, AA 2017/18
 
-128. Federico Terzi (I), “Sviluppo di un sistema di Gesture Recognition”, AA 2017/18
+**[T157]** Federico Terzi (I), “Sviluppo di un sistema di Gesture Recognition”, AA 2017/18
 
-129. Filippo Aleotti (IM), “Adversarial Learning per predizione di mappe depth da singola immagine”, AA 2017/18
+**[T156]** Filippo Aleotti (IM), “Adversarial Learning per predizione di mappe depth da singola immagine”, AA 2017/18
 
-130. Ali Alessio Salman (IM), “Review and evaluation of CNN compression approaches”, AA 2017/18
+**[T155]** Ali Alessio Salman (IM), “Review and evaluation of CNN compression approaches”, AA 2017/18
 
-131. Pasquale Presutti (IM), “Algoritmo per la generazione di mappe depth da immagini stereo con CNN ”, AA 2017/18
+**[T154]** Pasquale Presutti (IM), “Algoritmo per la generazione di mappe depth da immagini stereo con CNN ”, AA 2017/18
 
-132. Antonio Benincasa (IM), “Deep-learning per stima della confidenza di mappe depth”, AA 2017/18 [Articolo]
+**[T153]** Antonio Benincasa (IM), “Deep-learning per stima della confidenza di mappe depth”, AA 2017/18 [Articolo]
 
-133. Armando Mangiocco (IM), “Studio, sviluppo e ottimizzazione di algoritmi di visione 3D per applicazioni real-time”, AA 2017/18
+**[T152]** Armando Mangiocco (IM), “Studio, sviluppo e ottimizzazione di algoritmi di visione 3D per applicazioni real-time”, AA 2017/18
 
-134. Dario Govoni (I), “Studio e implementazione dell'algoritmo di Coppersmith-Winograd per l'ottimizzazione di convoluzioni su piattaforma embedded”, AA 2017/18
+**[T151]** Dario Govoni (I), “Studio e implementazione dell'algoritmo di Coppersmith-Winograd per l'ottimizzazione di convoluzioni su piattaforma embedded”, AA 2017/18
 
-135. Onori Alesso (I), “Studio e sperimentazione con l'algoritmo di Strassen , AA 2017/18
+**[T150]** Onori Alesso (I), “Studio e sperimentazione con l'algoritmo di Strassen , AA 2017/18
 
-136. Alessandro Franca (I), “Generazione di immagini depth mediante un ambiente di computer grafica”, AA 2017/18
+**[T149]** Alessandro Franca (I), “Generazione di immagini depth mediante un ambiente di computer grafica”, AA 2017/18
 
-137. Matteo Verucchi (I), “Studio e sperimentazione con un sistema di visual odometry”, AA 2017/18
+**[T148]** Matteo Verucchi (I), “Studio e sperimentazione con un sistema di visual odometry”, AA 2017/18
 
-138. Marco Baraldi (I), “Sistema per la classificazione di persone mediante CNN”, AA 2017/18
+**[T147]** Marco Baraldi (I), “Sistema per la classificazione di persone mediante CNN”, AA 2017/18
 
-139. Francesco Frassineti (I), “Studio e valutazione di metodologie per velocizzare il prodotto scalare su dispositivi embedded”, AA 2017/18
+**[T146]** Francesco Frassineti (I), “Studio e valutazione di metodologie per velocizzare il prodotto scalare su dispositivi embedded”, AA 2017/18
 
-140. Gabriele Antonacci (I), “Registrazione di nuvole di punti acquisite da sensori depth basati su differenti tecnologie”, AA 2017/18
+**[T145]** Gabriele Antonacci (I), “Registrazione di nuvole di punti acquisite da sensori depth basati su differenti tecnologie”, AA 2017/18
 
-141. Nicola Severini (I), “Studio e implementazione di algoritmi di convoluzione da implementare su piattaforma embedded”, AA 2016/17
+**[T144]** Nicola Severini (I), “Studio e implementazione di algoritmi di convoluzione da implementare su piattaforma embedded”, AA 2016/17
 
-142. Marco Rossini (I), “Progettazione di filtri di convoluzione separabili su piattaforma embedded”, AA 2016/17
+**[T143]** Marco Rossini (I), “Progettazione di filtri di convoluzione separabili su piattaforma embedded”, AA 2016/17
 
-143. Filippo Serafini (I), “Software per il labeling di immagini per l'addestramento di algoritmi di deep-learning”, AA 2016/17
+**[T142]** Filippo Serafini (I), “Software per il labeling di immagini per l'addestramento di algoritmi di deep-learning”, AA 2016/17
 
-144. Gloria Sammaritani (I), “Sistema di gesture recognition”, AA 2016/17
+**[T141]** Gloria Sammaritani (I), “Sistema di gesture recognition”, AA 2016/17
 
-145. Alessandro Fusco (I), “Determinazione della confidenza di mappe depth tramite deep learning”, AA 2016/17
+**[T140]** Alessandro Fusco (I), “Determinazione della confidenza di mappe depth tramite deep learning”, AA 2016/17
 
-146. Massimo Toscanelli (IT), “Sviluppo di un'applicazione di realtà aumentata”, AA 2016/17
+**[T139]** Massimo Toscanelli (IT), “Sviluppo di un'applicazione di realtà aumentata”, AA 2016/17
 
-147. Kevin Selvaggi (I), “Algoritmo di visione stereo accurato e veloce”, AA 2016/17
+**[T138]** Kevin Selvaggi (I), “Algoritmo di visione stereo accurato e veloce”, AA 2016/17
 
-148. Luca Bonfiglioli (I), “Progettazione di filtri di convoluzione riconfigurabili per sistema embedded”, AA 2016/17
+**[T137]** Luca Bonfiglioli (I), “Progettazione di filtri di convoluzione riconfigurabili per sistema embedded”, AA 2016/17
 
-149. Federico Bertoli (I), “Sistema per il trasferimento di immagini da SD card a memoria centrale di un sistema embedded”, AA 2016/17
+**[T136]** Federico Bertoli (I), “Sistema per il trasferimento di immagini da SD card a memoria centrale di un sistema embedded”, AA 2016/17
 
-150. Alessio Mingozzi (I), “Progettazione di un sistema embedded per l'elaborazione real-time di immagini lette da dispositivo rimovibile”, AA 2016/17
+**[T135]** Alessio Mingozzi (I), “Progettazione di un sistema embedded per l'elaborazione real-time di immagini lette da dispositivo rimovibile”, AA 2016/17
 
-151. Marco Mazzoli (I), “Visualizzazione di immagini in streaming con browser da telecamera embedded ”, AA 2016/17
+**[T134]** Marco Mazzoli (I), “Visualizzazione di immagini in streaming con browser da telecamera embedded ”, AA 2016/17
 
-152. Matteo Galletti (I), “Sperimentazione con algoritmi per la stima del flusso ottico”, AA 2016/17
+**[T133]** Matteo Galletti (I), “Sperimentazione con algoritmi per la stima del flusso ottico”, AA 2016/17
 
-153. Simone Barbieri (I), “Applicazione delle regole di codifica del codice sorgente nell'ambito dei software di supervisione del traffico ferroviario sottoposti a normative CENELEC”, svolta presso Alstom Ferroviaria s.p.a. sede di Bologna, AA 2016/17
+**[T132]** Simone Barbieri (I), “Applicazione delle regole di codifica del codice sorgente nell'ambito dei software di supervisione del traffico ferroviario sottoposti a normative CENELEC”, svolta presso Alstom Ferroviaria s.p.a. sede di Bologna, AA 2016/17
 
-154. Marco Boschi (I), “Valutazione sperimentale di algoritmi di disparity refinement”, AA 2016/17
+**[T131]** Marco Boschi (I), “Valutazione sperimentale di algoritmi di disparity refinement”, AA 2016/17
 
-155. Daniele Bianchi (I), “Acquisizione ed elaborazione dati 3D da sensore Kinect”, AA 2016/17
+**[T130]** Daniele Bianchi (I), “Acquisizione ed elaborazione dati 3D da sensore Kinect”, AA 2016/17
 
-156. Andrea Boscarino (I), “Porting verso Mac e Linux di un client per un sistema di visione embedded”, AA 2016/17
+**[T129]** Andrea Boscarino (I), “Porting verso Mac e Linux di un client per un sistema di visione embedded”, AA 2016/17
 
-157. Mattia Sinigaglia (I), “Acquisizione ed elaborazione di immagini da telecamera USB su piattaforma Zynq”, AA 2016/17
+**[T128]** Mattia Sinigaglia (I), “Acquisizione ed elaborazione di immagini da telecamera USB su piattaforma Zynq”, AA 2016/17
 
-158. Utku Esen (IM), “Linux, FPGA and CNN”, Erasmus student (Istanbul, Turkey), AA 2016/17
+**[T127]** Utku Esen (IM), “Linux, FPGA and CNN”, Erasmus student (Istanbul, Turkey), AA 2016/17
 
-159. Fabio Tosi (IM), “Misure di confidenza e algoritmi per il refinement di mappe depth”, AA 2016/17
+**[T126]** Fabio Tosi (IM), “Misure di confidenza e algoritmi per il refinement di mappe depth”, AA 2016/17
 
-160. Elisa Rimondi (IM), “Potential-path approach for unmanned aerial vehicle with pan and tilt on-board camera”, svolta presso Robotics and Mechatronics (RAM), University of Twente, Netherlands, AA 2016/17
+**[T125]** Elisa Rimondi (IM), “Potential-path approach for unmanned aerial vehicle with pan and tilt on-board camera”, svolta presso Robotics and Mechatronics (RAM), University of Twente, Netherlands, AA 2016/17
 
-161. Stefano Nicoletti (IM), “Deep-learning applicato all’identificazione automatica di frutta da veicolo mobile ”, AA 2016/17
+**[T124]** Stefano Nicoletti (IM), “Deep-learning applicato all’identificazione automatica di frutta da veicolo mobile ”, AA 2016/17
 
-162. Luca Chiossi (I), “Algoritmi per la determinazione dei parametri ottimali dell'algoritmo Semi Global Matching”, AA 2016/17
+**[T123]** Luca Chiossi (I), “Algoritmi per la determinazione dei parametri ottimali dell'algoritmo Semi Global Matching”, AA 2016/17
 
-163. Mattia Bernasconi (I), “Streaming di immagini via ethernet con sistemi operativi Linux e Baremetal per un sistema di visione embedded con elaborazione su FPGA”, AA 2016/17
+**[T122]** Mattia Bernasconi (I), “Streaming di immagini via ethernet con sistemi operativi Linux e Baremetal per un sistema di visione embedded con elaborazione su FPGA”, AA 2016/17
 
-164. Matteo Pumo (I), “Studio e sviluppo di applicazioni Cross-Platform con tecnologia Xamarin”, svolta presso Vettore Rinascimento Srl Casalecchio, Bologna, AA 2016/17
+**[T121]** Matteo Pumo (I), “Studio e sviluppo di applicazioni Cross-Platform con tecnologia Xamarin”, svolta presso Vettore Rinascimento Srl Casalecchio, Bologna, AA 2016/17
 
-165. Lorenzo Novelli (E), “Ottimizzazione del firmware per sensori di immagine OV 7670”, AA 2016/17
+**[T120]** Lorenzo Novelli (E), “Ottimizzazione del firmware per sensori di immagine OV 7670”, AA 2016/17
 
-166. Gino Morello (I), “Sviluppo di un framework web basato su CGI per la valutazione di misure di confidenza”, AA 2016/17
+**[T119]** Gino Morello (I), “Sviluppo di un framework web basato su CGI per la valutazione di misure di confidenza”, AA 2016/17
 
-167. Ayoub Raji (I), “Sperimentazione con nuvole di punti generate da sensori 3D ”, AA 2016/17
+**[T118]** Ayoub Raji (I), “Sperimentazione con nuvole di punti generate da sensori 3D ”, AA 2016/17
 
-168. Andrea Reggidori (A), “Identificazione di ostacoli da dati 3D per applicazioni di guida autonoma ”, AA 2016/17
+**[T117]** Andrea Reggidori (A), “Identificazione di ostacoli da dati 3D per applicazioni di guida autonoma ”, AA 2016/17
 
-169. Alessandro Maragno (IM), “Deep-learning su FPGA”, AA 2015/16
+**[T116]** Alessandro Maragno (IM), “Deep-learning su FPGA”, AA 2015/16
 
-170. Mattia Michelini (I), “Streaming di immagini con architettura Zynq e sistema operativo Linux”, AA 2015/16
+**[T115]** Mattia Michelini (I), “Streaming di immagini con architettura Zynq e sistema operativo Linux”, AA 2015/16
 
-171. Gianluca Strada (I), “Studio di metodologie per l’analisi subpixel di dati depth”, AA 2015/16
+**[T114]** Gianluca Strada (I), “Studio di metodologie per l’analisi subpixel di dati depth”, AA 2015/16
 
-172. Davide Capponcelli (I), “Interazione con periferiche custom mediante Linux com architettura ARM”, AA 2015/16
+**[T113]** Davide Capponcelli (I), “Interazione con periferiche custom mediante Linux com architettura ARM”, AA 2015/16
 
-173. Francesco Maria Zobel (I), “Studio e sperimentazione di metodologie per la memorizzazione non volatile di informazioni su piattaforma embedded”, AA 2015/16
+**[T112]** Francesco Maria Zobel (I), “Studio e sperimentazione di metodologie per la memorizzazione non volatile di informazioni su piattaforma embedded”, AA 2015/16
 
-174. Sigfrido Barbazza (I), “Deep-learning applicato all'identificazione automatica di frutta in immagini”, AA 2015/16
+**[T111]** Sigfrido Barbazza (I), “Deep-learning applicato all'identificazione automatica di frutta in immagini”, AA 2015/16
 
-175. Andrea Bombino (I), “Valutazione sperimentale di algoritmi di visione stereo finalizzata a una successiva implementazione su FPGA”, AA 2015/16
+**[T110]** Andrea Bombino (I), “Valutazione sperimentale di algoritmi di visione stereo finalizzata a una successiva implementazione su FPGA”, AA 2015/16
 
-176. Luca Buratti (I), “Valutazione sperimentale di metodologie di rettificazione e impatto su algoritmi di visione stereo”, AA 2015/16
+**[T109]** Luca Buratti (I), “Valutazione sperimentale di metodologie di rettificazione e impatto su algoritmi di visione stereo”, AA 2015/16
 
-177. Riccardo Buscaroli (I), “Metodologie basate su deep-learning per l'identificazione automatica di oggetti in immagini”, AA 2015/16
+**[T108]** Riccardo Buscaroli (I), “Metodologie basate su deep-learning per l'identificazione automatica di oggetti in immagini”, AA 2015/16
 
-178. Lorenzo Chiarini (I), “Valutazione di metodologie di aggregazione di costi per algoritmi di visione stereo”, i AA 2015/16
+**[T107]** Lorenzo Chiarini (I), “Valutazione di metodologie di aggregazione di costi per algoritmi di visione stereo”, i AA 2015/16
 
-179. Giacomo Corticelli (I), “Sperimentazione con unità di misurazione inerziale”, AA 2015/16
+**[T106]** Giacomo Corticelli (I), “Sperimentazione con unità di misurazione inerziale”, AA 2015/16
 
-180. Luca Galardini o Gherardini (I), “Implementazione di algoritmi aggregazione stereo e smoothing che preservano le discontinuità”, AA 2015/16
+**[T105]** Luca Galardini o Gherardini (I), “Implementazione di algoritmi aggregazione stereo e smoothing che preservano le discontinuità”, AA 2015/16
 
-181. Mattia Gianessi (I), “Sviluppo di una app Android di ausilio per persone non vedenti”, AA 2015/16
+**[T104]** Mattia Gianessi (I), “Sviluppo di una app Android di ausilio per persone non vedenti”, AA 2015/16
 
-182. Federico Govoni (I), “Sperimentazione con metodologie di aggregazione stereo guidate dalla confidenza”, AA 2015/16
+**[T103]** Federico Govoni (I), “Sperimentazione con metodologie di aggregazione stereo guidate dalla confidenza”, AA 2015/16
 
-183. Matteo Olivi (I), “Evaluation of confidence-driven cost aggregation strategies”, AA 2015/16
+**[T102]** Matteo Olivi (I), “Evaluation of confidence-driven cost aggregation strategies”, AA 2015/16
 
-184. Sara Serafini (I), “Implementazione e valutazione di funzioni di costo per algoritmi di visione stereo”, AA 2015/16
+**[T101]** Sara Serafini (I), “Implementazione e valutazione di funzioni di costo per algoritmi di visione stereo”, AA 2015/16
 
-185. Leonardo Campagna (I), “Miglioramento della qualità di immagini acquisite da sensori OV7670”, AA 2015/16
+**[T100]** Leonardo Campagna (I), “Miglioramento della qualità di immagini acquisite da sensori OV7670”, AA 2015/16
 
-186. Matteo Boschini (I), “A deep learning-based approach for 3D people tracking”, AA 2015/16
+**[T99]** Matteo Boschini (I), “A deep learning-based approach for 3D people tracking”, AA 2015/16
 
-187. Riccardo Albertazzi (I), “Sistema di visione stereo su architettura ZYNQ”, AA 2015/16
+**[T98]** Riccardo Albertazzi (I), “Sistema di visione stereo su architettura ZYNQ”, AA 2015/16
 
-188. Simone Mingarelli (I), “Streaming di immagini via ethernet con Zynq: sistemi operativi Standalone e Linux”, AA 2015/16
+**[T97]** Simone Mingarelli (I), “Streaming di immagini via ethernet con Zynq: sistemi operativi Standalone e Linux”, AA 2015/16
 
-189. Riccardo Zanella (I), “Studio e sperimentazione di metodologie per la gestione di condizione di illuminazione variabii con sensori di immagine digitali”, AA 2015/16
+**[T96]** Riccardo Zanella (I), “Studio e sperimentazione di metodologie per la gestione di condizione di illuminazione variabii con sensori di immagine digitali”, AA 2015/16
 
-190. Paolo Di Febbo (IM), “Real-time 3D sensing on FPGA:”, svolta presso Aquifi Inc, USA, AA 2015/16
+**[T95]** Paolo Di Febbo (IM), “Real-time 3D sensing on FPGA:”, svolta presso Aquifi Inc, USA, AA 2015/16
 
-191. Matilde Ugolini (I), “Metodologie di apprendimento automatico applicate alla generazione di dati 3D”, AA 2015/16
+**[T94]** Matilde Ugolini (I), “Metodologie di apprendimento automatico applicate alla generazione di dati 3D”, AA 2015/16
 
-192. Luca Ranalli (I), “Sviluppo di metodologie per l'interazione tra un sistema di ausilio a ipovedenti e dispositivi iOSi”, AA 2015/16
+**[T93]** Luca Ranalli (I), “Sviluppo di metodologie per l'interazione tra un sistema di ausilio a ipovedenti e dispositivi iOSi”, AA 2015/16
 
-193. Pierpaolo Perrozzi(I), “Progetto di un dispositivo wireless di feedback tattile per un sistema di ausilio per non vedenti o ipovedenti”, AA 2015/16
+**[T92]** Pierpaolo Perrozzi(I), “Progetto di un dispositivo wireless di feedback tattile per un sistema di ausilio per non vedenti o ipovedenti”, AA 2015/16
 
-194. Andrea Garbugli (I), “Sperimentazione con algoritmi per l'analisi di nuvole di punti per applicazioni di guida autonoma”, AA 2015/16
+**[T91]** Andrea Garbugli (I), “Sperimentazione con algoritmi per l'analisi di nuvole di punti per applicazioni di guida autonoma”, AA 2015/16
 
-195. Michele Campobasso (I), “Studio e implementazione di algoritmi per il labeling di immagini”, AA 2015/16
+**[T90]** Michele Campobasso (I), “Studio e implementazione di algoritmi per il labeling di immagini”, AA 2015/16
 
-196. Vincenzo Villani (I), “Algoritmi per la correzione di distorsioni in immagini”, AA 2015/16
+**[T89]** Vincenzo Villani (I), “Algoritmi per la correzione di distorsioni in immagini”, AA 2015/16
 
-197. Fabio Liguori (I), “Trasmissione di immagini via ethernet su piattaforma Zynq”, AA 2015/16
+**[T88]** Fabio Liguori (I), “Trasmissione di immagini via ethernet su piattaforma Zynq”, AA 2015/16
 
-198. Giacomo Zanotti (A), “Caratterizzazione di un sensore 3D basato su visione stereo”, AA 2015/16
+**[T87]** Giacomo Zanotti (A), “Caratterizzazione di un sensore 3D basato su visione stereo”, AA 2015/16
 
-199. Valentina Cremonini (IM), “Metodologie di machine learning applicate a problemi di computer vision”, AA 2015/16
+**[T86]** Valentina Cremonini (IM), “Metodologie di machine learning applicate a problemi di computer vision”, AA 2015/16
 
-200. Gabriele Franchitto (I), “Riconoscimento automatico di banconote con CNN”, AA 2015/16
+**[T85]** Gabriele Franchitto (I), “Riconoscimento automatico di banconote con CNN”, AA 2015/16
 
-201. Simone Nigro (I), “Metodologie di machine learning applicate a un algoritmo stereo”, AA 2015/16
+**[T84]** Simone Nigro (I), “Metodologie di machine learning applicate a un algoritmo stereo”, AA 2015/16
 
-202. Lorenzo Ciotti (I), “Studio di metodologie per l’implementazione di algoritmi di computer vision su Zynq”, AA 2014/15
+**[T83]** Lorenzo Ciotti (I), “Studio di metodologie per l’implementazione di algoritmi di computer vision su Zynq”, AA 2014/15
 
-203. David Villa Fernandez (IM), “Implementazione di metodologie per il grabbing di immagini da telecamera stereo su piattaforma Zynq”, AA 2014/15
+**[T82]** David Villa Fernandez (IM), “Implementazione di metodologie per il grabbing di immagini da telecamera stereo su piattaforma Zynq”, AA 2014/15
 
-204. Diego Garay Esteran (IM), “Implementazione di metodologie per il trasferimento dati tra ARM e FPGA su architettura Zynq in ambiente Linux”, AA 2014/15
+**[T81]** Diego Garay Esteran (IM), “Implementazione di metodologie per il trasferimento dati tra ARM e FPGA su architettura Zynq in ambiente Linux”, AA 2014/15
 
-205. Davide Barchi (A), “Implementazione di un algortimo per l’individuzione di piani basato su normali e dati stereo”, AA 2014/15
+**[T80]** Davide Barchi (A), “Implementazione di un algortimo per l’individuzione di piani basato su normali e dati stereo”, AA 2014/15
 
-206. Guido Bocchiere (A), “Stima robusta della posizione di un telecamera 3D in movimento 3D mediante filtro di Kalman”, AA 2014/15
+**[T79]** Guido Bocchiere (A), “Stima robusta della posizione di un telecamera 3D in movimento 3D mediante filtro di Kalman”, AA 2014/15
 
-207. Manuel Rucci (A), “Implementazione di un algortimo per l’individuzione di piani basato su dati stereo e region growing”, AA 2014/15
+**[T78]** Manuel Rucci (A), “Implementazione di un algortimo per l’individuzione di piani basato su dati stereo e region growing”, AA 2014/15
 
-208. Enrico Golfieri (I), “Implementazione di un algortimo per l’individuzione di piani basato su dati stereo e trasformata di Hough”, AA 2014/15
+**[T77]** Enrico Golfieri (I), “Implementazione di un algortimo per l’individuzione di piani basato su dati stereo e trasformata di Hough”, AA 2014/15
 
-209. Filippo Aleotti (I), “Sviluppo e sperimentazione con un sistema di SLAM 3D su piattaform NVidia TK1”, AA 2014/15
+**[T76]** Filippo Aleotti (I), “Sviluppo e sperimentazione con un sistema di SLAM 3D su piattaform NVidia TK1”, AA 2014/15
 
-210. Antonio Benincasa (I), “Imaplementazione di algoritmi di matching stereo”, AA 2014/15
+**[T75]** Antonio Benincasa (I), “Imaplementazione di algoritmi di matching stereo”, AA 2014/15
 
-211. Luca Nanni (IT), “Sviluppo e sperimentazione con algoritmi di Deep Learning”, AA 2014/15 [Articolo]
+**[T74]** Luca Nanni (IT), “Sviluppo e sperimentazione con algoritmi di Deep Learning”, AA 2014/15 [Paper]
 
-212. Pasquale Presutti (I), “Implementazione di algorimi per interpolazione subpixel”, AA 2014/15
+**[T73]** Pasquale Presutti (I), “Implementazione di algorimi per interpolazione subpixel”, AA 2014/15
 
-213. Armando Mangiocco (I), “Studio di misure di confidenza per sistemi stereo”, AA 2014/15
+**[T72]** Armando Mangiocco (I), “Studio di misure di confidenza per sistemi stereo”, AA 2014/15
 
-214. Filippo Cantucci (EM), “Segmentazione e classificazione di oggetti mediante imagini depth e deep learning”, AA 2014/15
+**[T71]** Filippo Cantucci (EM), “Segmentazione e classificazione di oggetti mediante imagini depth e deep learning”, AA 2014/15
 
-215. Alessandro Mattei (IM), “Interfacciamento di sensori d'immagine stereo mediante connessione differenziale su piattaforma FPGA”, AA 2014/15
+**[T70]** Alessandro Mattei (IM), “Interfacciamento di sensori d'immagine stereo mediante connessione differenziale su piattaforma FPGA”, AA 2014/15
 
-216. Pierluigi Zama Ramirez (I), “Controllo di perriferiche mappate su piattaforma Zyn con Linux”, AA 2013/14
+**[T69]** Pierluigi Zama Ramirez (I), “Controllo di perriferiche mappate su piattaforma Zyn con Linux”, AA 2013/14
 
-217. Giulio Belletti (I), “Estensione di un sistema di ausilio per ipovedenti basato su visione 3D”, AA 2013/14
+**[T68]** Giulio Belletti (I), “Estensione di un sistema di ausilio per ipovedenti basato su visione 3D”, AA 2013/14
 
-218. Alì Alessio Salman (I), “Classificazione di imamgini mediante il framework Torch”, AA 2013/14
+**[T67]** Alì Alessio Salman (I), “Classificazione di imamgini mediante il framework Torch”, AA 2013/14
 
-219. Elisa Rimondi (I), “Classificazione di immagini con il framework Caffe”, AA 2013/14
+**[T66]** Elisa Rimondi (I), “Classificazione di immagini con il framework Caffe”, AA 2013/14
 
-220. Valerio Poli (E), “Algoritmi di visione 3D per sistemi di guida autonoma”, AA 2013/14
+**[T65]** Valerio Poli (E), “Algoritmi di visione 3D per sistemi di guida autonoma”, AA 2013/14
 
-221. Marco Valdes (I), “Trasferimenti DMA su architettura Zynq”, AA 2013/14
+**[T64]** Marco Valdes (I), “Trasferimenti DMA su architettura Zynq”, AA 2013/14
 
-222. Michael Cavina (IM), “Registration of 3D stereo data for robotic applications”, AA 2013/14
+**[T63]** Michael Cavina (IM), “Registration of 3D stereo data for robotic applications”, AA 2013/14
 
-223. Simone Calisesi (IM), “TBD”, Tesi svolta presso Aquifi, Palo Alto, USA, AA 2013/14
+**[T62]** Simone Calisesi (IM), “TBD”, Tesi svolta presso Aquifi, Palo Alto, USA, AA 2013/14
 
-224. Matteo Poggi (IM), “Undisclosed”, svolta presso Aquifi, Palo Alto, USA, AA 2013/14
+**[T61]** Matteo Poggi (IM), “Stereo matching algorithms”, svolta presso Aquifi, Palo Alto, USA, AA 2013/14
 
-225. Krzysztof Waldemar Smolik (IT), “TBD”, in corso presso Retinae, Bologna, AA 2013/14
+**[T60]** Krzysztof Waldemar Smolik (IT), “TBD”, in corso presso Retinae, Bologna, AA 2013/14
 
-226. Christophe Ricco (I), “Metodologie per trasferimenti USB a banda garantita”, AA 2013/14
+**[T59]** Christophe Ricco (I), “Metodologie per trasferimenti USB a banda garantita”, AA 2013/14
 
-227. Federica Albertini (I), “Algoritmi di optical flow”, AA 2013/14
+**[T58]** Federica Albertini (I), “Algoritmi di optical flow”, AA 2013/14
 
-228. Fabio Tosi (I), “Metodologie per il filtering di dati generati da un sistema di visione stereo”, AA 2013/14
+**[T57]** Fabio Tosi (I), “Metodologie per il filtering di dati generati da un sistema di visione stereo”, AA 2013/14
 
-229. Alessandro Muscoloni (I), “Sviluppo di un sistema di tracking 3D”, AA 2013/14 [Articolo]
+**[T56]** Alessandro Muscoloni (I), “Sviluppo di un sistema di tracking 3D”, AA 2013/14 [Paper]
 
-230. Giacomo Parmigiani (EM), “Algoritmi di visione per l'identificazione di ostacoli in immagini 3D generate da telecamera stereo”,  AA 2013/14
+**[T55]** Giacomo Parmigiani (EM), “Algoritmi di visione per l'identificazione di ostacoli in immagini 3D generate da telecamera stereo”,  AA 2013/14
 
-231. Andrea Annovi (IM), “Metodologie di classificazione basate su informazioni 3D”, AA 2013/14
+**[T55]** Andrea Annovi (IM), “Metodologie di classificazione basate su informazioni 3D”, AA 2013/14
 
-232. Giuseppe Rizza, (A), “Controllo di un rover per navigazione autonoma mediante elaborazione real-time di dati 3D provenienti da stereo camera”, AA 2013/14
+**[T54]** Giuseppe Rizza, (A), “Controllo di un rover per navigazione autonoma mediante elaborazione real-time di dati 3D provenienti da stereo camera”, AA 2013/14
 
-233. Antonio Baratta (I), “Progetto di uno scanner 3D basato su proiezione laser/led”, AA 2013/14
+**[T53]** Antonio Baratta (I), “Progetto di uno scanner 3D basato su proiezione laser/led”, AA 2013/14
 
-234. Marco Minelli (IM), “Progetto di una unità di misurazione inerziale per telecamera 3D”, AA 2013/14
+**[T52]** Marco Minelli (IM), “Progetto di una unità di misurazione inerziale per telecamera 3D”, AA 2013/14
 
-235. Alessandro Maragno (I), “Interfaccia grafica multipiattaforma per smart camera 3D”, AA 2012/13
+**[T51]** Alessandro Maragno (I), “Interfaccia grafica multipiattaforma per smart camera 3D”, AA 2012/13
 
-236. Antonio Genovese (A), “Sperimentazione con una libreria per la decodifica di bar code in immagini”, AA 2012/13
+**[T50]** Antonio Genovese (A), “Sperimentazione con una libreria per la decodifica di bar code in immagini”, AA 2012/13
 
-237. Andrea Romanelli (IM), “Progetto di un sistema per il trasferimento in DMA di flussi video su piattaforma Zynq”, AA 2012/13
+**[T49]** Andrea Romanelli (IM), “Progetto di un sistema per il trasferimento in DMA di flussi video su piattaforma Zynq”, AA 2012/13
 
-238. Domenico Di Carlo (IM), “Progetto di una unità di elaborazione basata su architettura Zynq per applicazioni di computer vision”, AA 2012/13
+**[T48]** Domenico Di Carlo (IM), “Progetto di una unità di elaborazione basata su architettura Zynq per applicazioni di computer vision”, AA 2012/13
 
-239. Gianfranco Mariosa (I), “Sviluppo di un’applicazione multipiattaforma per la visualizzazione in streaming di nuvole di punti 3D”, AA 2012/13
+**[T47]** Gianfranco Mariosa (I), “Sviluppo di un’applicazione multipiattaforma per la visualizzazione in streaming di nuvole di punti 3D”, AA 2012/13
 
-240. Alessandro Piovani (I), "Modulo di comunicazione Giga Ethernet su FPGA", AA 2012/13
+**[T46]** Alessandro Piovani (I), "Modulo di comunicazione Giga Ethernet su FPGA", AA 2012/13
 
-241. Stefano Bruciati (IM), "Algoritmi per la generazione di dati 3D su FPGA", AA 2012/13
+**[T45]** Stefano Bruciati (IM), "Algoritmi per la generazione di dati 3D su FPGA", AA 2012/13
 
-242. Ilario Marchio (IM), "Mapping di algoritmi di computer vision su FPGA con tool di sintesi ad alto livello", AA 2012/13
+**[T44]** Ilario Marchio (IM), "Mapping di algoritmi di computer vision su FPGA con tool di sintesi ad alto livello", AA 2012/13
 
-243. Paolo Macrì (IM), "Registrazione di dati 3D", in corso presso University of Twente (NL), AA 2012/13
+**[T43]** Paolo Macrì (IM), "Registrazione di dati 3D", in corso presso University of Twente (NL), AA 2012/13
 
-244. Valentina Cremonini (I), "Comunicazione GigaEthernet su FPGA", AA 2012/13
+**[T42]** Valentina Cremonini (I), "Comunicazione GigaEthernet su FPGA", AA 2012/13
 
-245. Marco Mongitore (E), "Elaborazione di dati 3D per applicazioni di computer vision”, AA 2012/13
+**[T41]** Marco Mongitore (E), "Elaborazione di dati 3D per applicazioni di computer vision”, AA 2012/13
 
-246. Matteo Farina (E), "Valutazione di algortimi di visione stereo", AA 2012/13
+**[T40]** Matteo Farina (E), "Valutazione di algortimi di visione stereo", AA 2012/13
 
-247. Matteo Poggi (I), “Porting di software e sviluppo di una interfaccia grafica multipiattaforma per una telecamera stereo real-time”, AA 2011/12 
+**[T39]** Matteo Poggi (I), “Porting di software e sviluppo di una interfaccia grafica multipiattaforma per una telecamera stereo real-time”, AA 2011/12 
 
-248. Enrico Baioni (IM), "Sviluppo e sperimentazione di algoritmi di visione stereo su FPGA", AA 2010/11
+**[T38]** Enrico Baioni (IM), "Sviluppo e sperimentazione di algoritmi di visione stereo su FPGA", AA 2010/11
 
-249. Marco Fontana (E); "Sviluppo di un ambiente per la valutazione di algoritmi stereo su immagini reali", AA 2010/11 
+**[T37]** Marco Fontana (E); "Sviluppo di un ambiente per la valutazione di algoritmi stereo su immagini reali", AA 2010/11 
 
-250. Vitaliano Gobbi (EM), "Progetto e sperimentazione di un convertitore seriale parallelo su FPGA per un flusso video LVDS a elevata frequenza generato da una telecamera stereo", AA 2010/11 
+**[T36]** Vitaliano Gobbi (EM), "Progetto e sperimentazione di un convertitore seriale parallelo su FPGA per un flusso video LVDS a elevata frequenza generato da una telecamera stereo", AA 2010/11 
 
-251. Andrea Calafiore (I), "Sviluppo e sperimentazione con n sistema per l'analisi di espressioni del volto", AA 2010/11, svolta presso FAAC [News] [Video1] [Video2] 
+**[T35]** Andrea Calafiore (I), "Sviluppo e sperimentazione con un sistema per l'analisi di espressioni del volto", AA 2010/11, svolta presso FAAC 
 
-252. Giulio Gozzoli (A), "Controllo di un veicolo per navigazione autonoma mediante elaborazione di dati 3D in real-time", AA 2010/11
+**[T34]** Giulio Gozzoli (A), "Controllo di un veicolo per navigazione autonoma mediante elaborazione di dati 3D in real-time", AA 2010/11
 
-253. Matteo Balestri (EM), "Algoritmi di visione stereo robusti rispetto a variazioni di illuminazione", AA 2010/11 
+**[T33]** Matteo Balestri (EM), "Algoritmi di visione stereo robusti rispetto a variazioni di illuminazione", AA 2010/11 
 
-254. Francesco Betti (EM), "Progetto di un'unità  di elaborazione per una telecamera stereo basata su FPGA Xilinx", AA 2010/11
+**[T32]** Francesco Betti (EM), "Progetto di un'unità  di elaborazione per una telecamera stereo basata su FPGA Xilinx", AA 2010/11
 
-255. Stefano Coletta (I), "Sviluppo e valutazione di algortimi stereo per la guida assistita di veicoli", AA 2010/11 
+**[T31]** Stefano Coletta (I), "Sviluppo e valutazione di algortimi stereo per la guida assistita di veicoli", AA 2010/11 
 
-256. Carmine Di Fabio (IM), "Mapping of stereo vision algorithms on FPGA", Kakatiya Institute of Tecnologies and Science (India),  AA 2010/11
+**[T30]** Carmine Di Fabio (IM), "Mapping of stereo vision algorithms on FPGA", Kakatiya Institute of Tecnologies and Science (India),  AA 2010/11
 
-257. Mattia Tampellini (EM), "Sviluppo e sperimentazione di un modulo USB 2.0 per una telecamera 3D basata su visione stereo", AA 2010/11
+**[T29]** Mattia Tampellini (EM), "Sviluppo e sperimentazione di un modulo USB 2.0 per una telecamera 3D basata su visione stereo", AA 2010/11
 
-258. Marco Viti (EM), "Algoritmi accurati di visione stereo su GPU mediante CUDA", AA 2009/10 [Articolo]
+**[T28]** Marco Viti (EM), "Algoritmi accurati di visione stereo su GPU mediante CUDA", AA 2009/10 [Paper]
 
-259. Riccardo Viti (EM), "Ottimizzazione di algoritmi per la visione stereo", AA 2009/10
+**[T27]** Riccardo Viti (EM), "Ottimizzazione di algoritmi per la visione stereo", AA 2009/10
 
-260. Pavel Nistor (A), "Sviluppo di un sistema software per la valutazione di algoritmi stereo", AA 2009/10
+**[T26]** Pavel Nistor (A), "Sviluppo di un sistema software per la valutazione di algoritmi stereo", AA 2009/10
 
-261. Federico Paris (E), "Algoritmi per la regolarizzazione di mappe 3D basati su segmentazione", AA 2009/10
+**[T25]** Federico Paris (E), "Algoritmi per la regolarizzazione di mappe 3D basati su segmentazione", AA 2009/10
 
-262. Daniele Drei (A), "Studio e sperimentazione di algoritmi  localmente consistenti per la corrsspondenza stereo", AA 2009/10
+**[T24]** Daniele Drei (A), "Studio e sperimentazione di algoritmi  localmente consistenti per la corrsspondenza stereo", AA 2009/10
 
-263. Francesco Bellodi (E), "Ottimizazione di algoritmi stereo mediante istruzioni SIMD", AA 2009/10
+**[T23]** Francesco Bellodi (E), "Ottimizazione di algoritmi stereo mediante istruzioni SIMD", AA 2009/10
 
-264. Albano Zaho (E), "Strumenti di sviluppo per il mapping di algoritmi di visione su GPU", AA 2009/10 
+**[T22]** Albano Zaho (E), "Strumenti di sviluppo per il mapping di algoritmi di visione su GPU", AA 2009/10 
 
-265. Davide Nanni (EM), "Analisi di algoritmi di rettificazione stereo su FPGA", AA 2009/10
+**[T21]** Davide Nanni (EM), "Analisi di algoritmi di rettificazione stereo su FPGA", AA 2009/10
 
-266. Andrea Trenti  (E), "Studio e implementazione di algoritmi per la corrispondenza stereo basati su Scanline Optimization", AA 2008/09
+**[T20]** Andrea Trenti  (E), "Studio e implementazione di algoritmi per la corrispondenza stereo basati su Scanline Optimization", AA 2008/09
 
-267. Guido Munari (E), "Acquisizione e visualizzazione di immagini da un sensore VGA tramite un driver VHDL",AA 2008/09
+**[T19]** Guido Munari (E), "Acquisizione e visualizzazione di immagini da un sensore VGA tramite un driver VHDL",AA 2008/09
 
-268. Stefano Mengoni (E), "Algoritmi stereo accurati basati su supporto variabile", AA 2008/09
+**[T18]** Stefano Mengoni (E), "Algoritmi stereo accurati basati su supporto variabile", AA 2008/09
 
-269. Sara Bambi (A), "Sistema stereo con telecamere mobili per uso robotico: algoritmi di interpolazione dei parametri di calibrazione e analisi dell’errore nel calcolo delle distanze", svolta pressoControl Engineering Group, Univ. of Twente,  AA 2008/09
+**[T17]** Sara Bambi (A), "Sistema stereo con telecamere mobili per uso robotico: algoritmi di interpolazione dei parametri di calibrazione e analisi dell’errore nel calcolo delle distanze", svolta pressoControl Engineering Group, Univ. of Twente,  AA 2008/09
 
-270. Stefano Bernardini (E), "Implementazione di componenti Orcad  per il progetto di una telecamera stereo", AA 2008/09
+**[T16]** Stefano Bernardini (E), "Implementazione di componenti Orcad  per il progetto di una telecamera stereo", AA 2008/09
 
-271. Filippo Cantucci (E), "Studio di algoritmi di bilateral filtering in tempo costante", AA 2008/09
+**[T15]** Filippo Cantucci (E), "Studio di algoritmi di bilateral filtering in tempo costante", AA 2008/09
 
-272. Fabio Bombini (I), "Valutazione sperimentale di algoritmi per la corrispondenza stereo per la visione robotica", AA 2008/09
+**[T14]** Fabio Bombini (I), "Valutazione sperimentale di algoritmi per la corrispondenza stereo per la visione robotica", AA 2008/09
 
-273. Giosuè Di Marco (E), "Analisi degli effetti del rumore in algoritmi per la corrispondenza stereo", AA 2007/08
+**[T13]** Giosuè Di Marco (E), "Analisi degli effetti del rumore in algoritmi per la corrispondenza stereo", AA 2007/08
 
-274. Andrea Zanetti (E), "Valutazione dellâ€™impatto di differenti tipologie di patterns su un sistema per la ricostruzione 3D di tipo space-time stereo", AA 2007/08
+**[T12]** Andrea Zanetti (E), "Valutazione dellâ€™impatto di differenti tipologie di patterns su un sistema per la ricostruzione 3D di tipo space-time stereo", AA 2007/08
 
-275. Andrea Gambini (E), "Algoritmi per la corrispondenza stereo", AA 2007/08 [Articolo]
+**[T11]** Andrea Gambini (E), "Algoritmi per la corrispondenza stereo", AA 2007/08 [Paper]
 
-276. Alessio Caroselli (E), "Ridefinizione architetturale e miglioramento delle prestazioni di un sistema di tracking 3D basato su visione stereo", AA 2007/08
+**[T10]** Alessio Caroselli (E), "Ridefinizione architetturale e miglioramento delle prestazioni di un sistema di tracking 3D basato su visione stereo", AA 2007/08
 
-277. Simone Giardino (E), "Sviluppo di algoritmi di visione stereo basati su supporto di aggregazione variabile", AA 2007/08 [Articolo]
+**[T9]** Simone Giardino (E), "Sviluppo di algoritmi di visione stereo basati su supporto di aggregazione variabile", AA 2007/08 [Paper]
 
-278. Fabio Regoli (E), "Sistema di tracking 3D basato su visione stereo", AA 2007/08 [Articolo]
+**[T8]** Fabio Regoli (E), "Sistema di tracking 3D basato su visione stereo", AA 2007/08 [Paper]
 
-279. Luca Gulminelli (E), "Sviluppo di modelli di rettificazione semplificati finalizzati ad una implementazione su FPGA", AA 2007/08 
+**[T7]** Luca Gulminelli (E), "Sviluppo di modelli di rettificazione semplificati finalizzati ad una implementazione su FPGA", AA 2007/08 
 
-280. Danilo Paolino (E), "Studio di un sensore di immagine finalizzato allo sviluppo di una telecamera stereo", AA 2006/07
+**[T6]** Danilo Paolino (E), "Studio di un sensore di immagine finalizzato allo sviluppo di una telecamera stereo", AA 2006/07
 
-281. Riccardo Viti (E), "Sviluppo di algoritmi esaustivi per block-matching e template matching", AA 2006/07 [Articolo]
+**[T5]** Riccardo Viti (E), "Sviluppo di algoritmi esaustivi per block-matching e template matching", AA 2006/07 [Paper]
 
-282. Fabio Tonelli (E), "Sviluppo di un sistema di change detection basato su informazioni 3D", AA 2006/07
+**[T4]** Fabio Tonelli (E), "Sviluppo di un sistema di change detection basato su informazioni 3D", AA 2006/07
 
-283. Marco Pignoloni (E), "Algoritmi efficienti per il block matching", AA 2005/06
+**[T3]** Marco Pignoloni (E), "Algoritmi efficienti per il block matching", AA 2005/06
 
-284. Kevin Gualandris, "Sviluppo di un ambiente software per la sperimentazione di algoritmi stereo", AA 2005/06
+**[T2]** Kevin Gualandris, "Sviluppo di un ambiente software per la sperimentazione di algoritmi stereo", AA 2005/06
 
-285. Luca Baldini (E), "Sviluppo di un algoritmo di change detection basato su matching", AA 2005/06
+**[T1]** Luca Baldini (E), "Sviluppo di un algoritmo di change detection basato su matching", AA 2005/06
 
 
 
