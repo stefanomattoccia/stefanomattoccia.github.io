@@ -50,137 +50,137 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 
 19. Milo Marchetti (IM), “Anomaly detection”, AA 2020/21
 
-20. Francesco Luzzi (I), “Oscuramento volti in sequenze video con deep-learning”, AA 2020/21
+**[T265]** Francesco Luzzi (I), “Oscuramento volti in sequenze video con deep-learning”, AA 2020/21
 
-21. Francesco Mazzucchelli (I), “Analisi delle prestazoni di un sistema monoculare per calcolo di mappe di profondità”, AA 2020/21
+**[T264]** Francesco Mazzucchelli (I), “Analisi delle prestazoni di un sistema monoculare per calcolo di mappe di profondità”, AA 2020/21
 
-22. Luca Galardini o Gherardini (IM), “Research on Methods for Processing Large-Baseline Stereo Camera Data for Long Range 3D Environmental Perception”, svolta presso German Aerospace Center, Munich, AA 2020/21
+**[T263]** Luca Galardini o Gherardini (IM), “Research on Methods for Processing Large-Baseline Stereo Camera Data for Long Range 3D Environmental Perception”, svolta presso German Aerospace Center, Munich, AA 2020/21
 
-23. Marco Rovinelli (AIM), “Realtime Monocular Depth Estimation on Mobile Phones”, svolta presso Univrses (Stockholm), AA 2020/21
+**[T262]** Marco Rovinelli (AIM), “Realtime Monocular Depth Estimation on Mobile Phones”, svolta presso Univrses (Stockholm), AA 2020/21
 
-24. Matteo Rafaraci (IM), “Identificazione di agenti mobili con rete neurale per agevolare la missione di un drone”, AA 2020/21
+**[T261]** Matteo Rafaraci (IM), “Identificazione di agenti mobili con rete neurale per agevolare la missione di un drone”, AA 2020/21
 
-25. Nicolò Donati (I), “Sviluppo applicazione Android per sperimentazione con dati depth”, AA 2020/21
+**[T260]** Nicolò Donati (I), “Sviluppo applicazione Android per sperimentazione con dati depth”, AA 2020/21
 
-26. Fabio Scagliarini (I), “Studio e sperimentazione di metodi per la messa in scala di sistemi per la stima della profondità da singola telecamera”, AA 2020/21
+**[T259]** Fabio Scagliarini (I), “Studio e sperimentazione di metodi per la messa in scala di sistemi per la stima della profondità da singola telecamera”, AA 2020/21
 
-27. Aldo Capone (I), “Sperimentazione con algoritmo stereo”, AA 2020/21
+**[T258]** Aldo Capone (I), “Sperimentazione con algoritmo stereo”, AA 2020/21
 
-28. Irene Gentilini (I), “Registrazione e riproduzione di video per applicazioni di realtà aumentata”, AA 2020/21
+**[T257]** Irene Gentilini (I), “Registrazione e riproduzione di video per applicazioni di realtà aumentata”, AA 2020/21
 
-29. Guglielmo Palaferri (I), “Porting di un algoritmo per la stima del flusso ottico su smartphone Android”, AA 2020/21
+**[T256]** Guglielmo Palaferri (I), “Porting di un algoritmo per la stima del flusso ottico su smartphone Android”, AA 2020/21
 
-30. Filippo Comastri (I), “Estensione di un simulatore del processore DLX”, i AA 2020/21
+**[T255]** Filippo Comastri (I), “Estensione di un simulatore del processore DLX”, i AA 2020/21
 
-31. Francesco Olivo (I), “Analisi di nuvole di punti generate da un sistema per stima depth da singola telecamera”, AA 2020/21
+**[T254]** Francesco Olivo (I), “Analisi di nuvole di punti generate da un sistema per stima depth da singola telecamera”, AA 2020/21
 
-32. Amedeo Ravagli (I), “Analisi di traiettorie da sistema per la stima della profondità monoculare”, AA 2020/21
+**[T253]** Amedeo Ravagli (I), “Analisi di traiettorie da sistema per la stima della profondità monoculare”, AA 2020/21
 
-33. Hamdi Ben Zaineb (I), “Test di un algoritmo per la stima del flusso ottico attraverso video sinteitci”, AA 2020/21
+**[T252]** Hamdi Ben Zaineb (I), “Test di un algoritmo per la stima del flusso ottico attraverso video sinteitci”, AA 2020/21
 
-34. Alice Montori (I), “Sperimentazione con algoritmi e reti stereo per guida di droni”, AA 2020/21
+**[T251]** Alice Montori (I), “Sperimentazione con algoritmi e reti stereo per guida di droni”, AA 2020/21
 
-35. Arsal-Hanif Livoroi (I), “Analisi e ottimizzazione dei consumi energetici di un algoritmo per la stima del flusso ottico”, AA 2020/21
+**[T250]** Arsal-Hanif Livoroi (I), “Analisi e ottimizzazione dei consumi energetici di un algoritmo per la stima del flusso ottico”, AA 2020/21
 
-36. Alessio Mingozzi (IM), “Monitoraggio del distanziamento sociale mediante singola telecamera”, AA 2020/21 - Tesi vincitrice del premio di laurea sovvenzionato da Neocodex Srl in collaborazione con Vivat Academia APS presso l’Università di Bologna sulla tematica “Deep Learning e analisi di dati”
+**[T249]** Alessio Mingozzi (IM), “Monitoraggio del distanziamento sociale mediante singola telecamera”, AA 2020/21 - Tesi vincitrice del premio di laurea sovvenzionato da Neocodex Srl in collaborazione con Vivat Academia APS presso l’Università di Bologna sulla tematica “Deep Learning e analisi di dati”
 
-37. Giordano Laminetti (IM), “Depth estimation using deep learning and SLAM”, AA 2020/21
+**[T248]** Giordano Laminetti (IM), “Depth estimation using deep learning and SLAM”, AA 2020/21
 
-38. Gabriel Hoogerwerf (I), “Analisi delle prestazioni di sistemi SLAM monoculari”, AA 2020/21
+**[T247]** Gabriel Hoogerwerf (I), “Analisi delle prestazioni di sistemi SLAM monoculari”, AA 2020/21
 
-39. Lorenzo Righi (I), “Filtro di Kalman applicato al tracciamento di persone in immagini”, AA 2020/21
+**[T246]** Lorenzo Righi (I), “Filtro di Kalman applicato al tracciamento di persone in immagini”, AA 2020/21
 
-40. Alex Gianelli (I), “Sperimentazione con algoritmo di optical flow”, AA 2020/21
+**[T245]** Alex Gianelli (I), “Sperimentazione con algoritmo di optical flow”, AA 2020/21
 
-41. Michele Ranallo (I), “Ottimizzazione streaming immagini con UDP”, AA 2020/21
+**[T244]** Michele Ranallo (I), “Ottimizzazione streaming immagini con UDP”, AA 2020/21
 
-42. Leonardo Monti (I), “Calibrazione e rettifica di immagini stereo acquisite tramite smartphone”, AA 2020/21
+**[T243]** Leonardo Monti (I), “Calibrazione e rettifica di immagini stereo acquisite tramite smartphone”, AA 2020/21
 
-43. Andrea Conti (IM), “Diving between depth prediction and depth completion”, AA 2019/20
+**[T242]** Andrea Conti (IM), “Diving between depth prediction and depth completion”, AA 2019/20
 
-44. Leone Ruggiero (I), “Generazione di sequenze sintetiche con Unity per la valutazione di algoritmi di computer vision”, AA 2019/20
+**[T241]** Leone Ruggiero (I), “Generazione di sequenze sintetiche con Unity per la valutazione di algoritmi di computer vision”, AA 2019/20
 
-45. Davide Ragazzini (I), “Sistema per l'acquisizione remota di immagini”, AA 2019/20
+**[T240]** Davide Ragazzini (I), “Sistema per l'acquisizione remota di immagini”, AA 2019/20
 
-46. Niccolò Rosadi (I), “Detection di persone in immagini per una applicazione volta a verificare il distanziamento sociale”, AA 2019/20
+**[T239]** Niccolò Rosadi (I), “Detection di persone in immagini per una applicazione volta a verificare il distanziamento sociale”, AA 2019/20
 
-47. Lorenzo Felletti (I), “Predisposizione di strumenti web per il benchmark di algoritmi per la stima del flusso ottico”, AA 2019/20
+**[T238]** Lorenzo Felletti (I), “Predisposizione di strumenti web per il benchmark di algoritmi per la stima del flusso ottico”, AA 2019/20
 
-48. Enzo Famà (I), “Analisi della ripetibilità nella corrispondenza tra punti in immagini”, AA 2019/20
+**[T237]** Enzo Famà (I), “Analisi della ripetibilità nella corrispondenza tra punti in immagini”, AA 2019/20
 
-49. Marko Vasileski (I), “Applicazione sensore depth low-power”, AA 2019/20
+**[T236]** Marko Vasileski (I), “Applicazione sensore depth low-power”, AA 2019/20
 
-50. Mattia Rossi (I), “Sviluppo di un framework per acquisizione remota di immaginii”, AA 2019/20
+**[T235]** Mattia Rossi (I), “Sviluppo di un framework per acquisizione remota di immaginii”, AA 2019/20
 
-51. Federico Pomponii (I), “Sviluppo di un simulatore DLX per scopi didattici”, AA 2019/20
+**[T234]** Federico Pomponii (I), “Sviluppo di un simulatore DLX per scopi didattici”, AA 2019/20
 
-52. Filippo Paganelli (I), “Interazione tra oggetti reali e virtuali per applicazioni di realtà aumentata”, AA 2019/20
+**[T233]** Filippo Paganelli (I), “Interazione tra oggetti reali e virtuali per applicazioni di realtà aumentata”, AA 2019/20
 
-53. Alessandro Musarella (I), “Realtà aumentata depth-aware con singola telecamera e dispositivi iOS”, AA 2019/20
+**[T232]** Alessandro Musarella (I), “Realtà aumentata depth-aware con singola telecamera e dispositivi iOS”, AA 2019/20
 
-54. Daniele Menchetti (I), “Sviluppo di un software per il tracciamento di oggetti basato su deep learning”, AA 2019/20
+**[T231]** Daniele Menchetti (I), “Sviluppo di un software per il tracciamento di oggetti basato su deep learning”, AA 2019/20
 
-55. Mattia Mazzoli (I), “Sincronizzazione di multipli dispositivi per l'acquisizione immagini e stitching”, AA 2019/20
+**[T230]** Mattia Mazzoli (I), “Sincronizzazione di multipli dispositivi per l'acquisizione immagini e stitching”, AA 2019/20
 
-56. Lorenzo Magnanelli (I), “Stima della confidenza di mappe di disparità mediante approcci basati su apprendimento idonei per sistemi con risorse limitate”, AA 2019/20
+**[T229]** Lorenzo Magnanelli (I), “Stima della confidenza di mappe di disparità mediante approcci basati su apprendimento idonei per sistemi con risorse limitate”, AA 2019/20
 
-57. Carlo Longhi (I), “Benchmark per la stima del flusso ottico in sequenze sintetiche”, AA 2019/20
+**[T228]** Carlo Longhi (I), “Benchmark per la stima del flusso ottico in sequenze sintetiche”, AA 2019/20
 
-58. Luca Foianesi (I), “Analisi del consumo energetico di un algoritmo per la stima del flusso ottico”, AA 2019/20
+**[T227]** Luca Foianesi (I), “Analisi del consumo energetico di un algoritmo per la stima del flusso ottico”, AA 2019/20
 
-59. Alessandro Baldazzi (I), “Studio di un algoritmo per migliorare le mappe di disparità ottenute da un sistema stereo”, svolta presso Specialvideo Srl Imola, AA 2019/20
+**[T226]** Alessandro Baldazzi (I), “Studio di un algoritmo per migliorare le mappe di disparità ottenute da un sistema stereo”, svolta presso Specialvideo Srl Imola, AA 2019/20
 
-60. Kevin Michael Frick (I), “Machine Learning for Semantic Visual SLAM”, svolta presso RAM, University of Twente, AA 2019/20
+**[T225]** Kevin Michael Frick (I), “Machine Learning for Semantic Visual SLAM”, svolta presso RAM, University of Twente, AA 2019/20
 
-61. Luca Bartolomei (I), “Sviluppo di un’applicazione di realtà aumentata depth-aware con sistema monoculare”, AA 2019/20
+**[T224]** Luca Bartolomei (I), “Sviluppo di un’applicazione di realtà aumentata depth-aware con sistema monoculare”, AA 2019/20
 
-62. Daniele Colautti (I), “Sistema distribuito per la generazione di pointcloud”, AA 2019/20
+**[T223]** Daniele Colautti (I), “Sistema distribuito per la generazione di pointcloud”, AA 2019/20
 
-63. Andrea D’Silva (I), “Creazione di video sintetici con Unity per la valutazione di algoritmi per flusso ottico”, AA 2019/20
+**[T222]** Andrea D’Silva (I), “Creazione di video sintetici con Unity per la valutazione di algoritmi per flusso ottico”, AA 2019/20
 
-64. Cristian Di Fiore (I), “Ottimizzazioni di CNN con Intel OpenVINO”, AA 2019/20
+**[T221]** Cristian Di Fiore (I), “Ottimizzazioni di CNN con Intel OpenVINO”, AA 2019/20
 
-65. Marco Valdes (IM), “Ottimizzazione di reti convoluzionali mediante framework OpenVINO”, AA 2019/20
+**[T220]** Marco Valdes (IM), “Ottimizzazione di reti convoluzionali mediante framework OpenVINO”, AA 2019/20
 
-66. Marco Zambella (I), “Algoritmo per l’estrazione di feature da immagini”, AA 2019/20
+**[T219]** Marco Zambella (I), “Algoritmo per l’estrazione di feature da immagini”, AA 2019/20
 
-67. Federico Cremonini (I), “Rilevazioni di oggetti dinamici da mappe scene flow”, AA 2019/20
+**[T218]** Federico Cremonini (I), “Rilevazioni di oggetti dinamici da mappe scene flow”, AA 2019/20
 
-68. Marco Morozzi (I), “Riconoscimento automatico di targhe automobilistiche in tempo reale su smartphone Android”, AA 2018/19
+**[T217]** Marco Morozzi (I), “Riconoscimento automatico di targhe automobilistiche in tempo reale su smartphone Android”, AA 2018/19
 
-69. Matteo Rocca (I), “Ottimizzazioni di un algoritmo per stima del flusso ottico per sistemi embedded”, AA 2018/19
+**[T216]** Matteo Rocca (I), “Ottimizzazioni di un algoritmo per stima del flusso ottico per sistemi embedded”, AA 2018/19
 
-70. Gabriele Corsi (I), “Sviluppo di una applicazione di realtà aumentata predisposta alla gestione delle occlusioni”, AA 2018/19
+**[T215]** Gabriele Corsi (I), “Sviluppo di una applicazione di realtà aumentata predisposta alla gestione delle occlusioni”, AA 2018/19
 
-71. Fabrizio Maccagnani (I), “Progetto di un simulatore di DLX per scopi didattici”, AA 2018/19
+**[T214]** Fabrizio Maccagnani (I), “Progetto di un simulatore di DLX per scopi didattici”, AA 2018/19
 
-72. Alessandro Foglia (I), “Progetto di un simulatore di RISC-V per scopi didattici”, AA 2018/19
+**[T213]** Alessandro Foglia (I), “Progetto di un simulatore di RISC-V per scopi didattici”, AA 2018/19
 
-73. Luca Bongiovanni (I), “Sviluppo di una applicazione per la guida di un veicolo autonomo”, AA 2018/19  
+**[T212]** Luca Bongiovanni (I), “Sviluppo di una applicazione per la guida di un veicolo autonomo”, AA 2018/19  
 
-74. Gilberto Bertignon (I), “Applicazione di realtà aumentata con modelli 3D animati”, AA 2018/19
+**[T211]** Gilberto Bertignon (I), “Applicazione di realtà aumentata con modelli 3D animati”, AA 2018/19
 
-75. Luigi Maccallini (I), “Sperimentazione con un software per il tracciamento di persone”, AA 2018/19
+**[T210]** Luigi Maccallini (I), “Sperimentazione con un software per il tracciamento di persone”, AA 2018/19
 
-76. Roberto Trentini (I), “Sperimentazione con algoritmo per misurare la similarità tra immagini”, AA 2018/19
+**[T209]** Roberto Trentini (I), “Sperimentazione con algoritmo per misurare la similarità tra immagini”, AA 2018/19
 
-77. Parsa Dahesh (I), “Analisi delle prestazioni di sistemi per la stima della profondità da camera monoculare”, AA 2018/19
+**[T208]** Parsa Dahesh (I), “Analisi delle prestazioni di sistemi per la stima della profondità da camera monoculare”, AA 2018/19
 
-78. Simone Dosi (I), “Sviluppo in Unity3D di un benchmark per la stima del flusso ottico”, AA 2018/19
+**[T207]** Simone Dosi (I), “Sviluppo in Unity3D di un benchmark per la stima del flusso ottico”, AA 2018/19
 
-79. Gabriele Ragusa, (I), “Realtà aumentata con sensore depth monoculare”, AA 2018/19
+**[T206]** Gabriele Ragusa, (I), “Realtà aumentata con sensore depth monoculare”, AA 2018/19
 
-80. Davide Tazzioli (I), “Implementazione di algoritmi di computer vision in CUDA”, AA 2018/19
+**[T205]** Davide Tazzioli (I), “Implementazione di algoritmi di computer vision in CUDA”, AA 2018/19
 
-81. Riccardo Turra (I), “Sperimentazione con algoritmi per la stima del flusso ottico con video sintetici”, AA 2018/19
+**[T204]** Riccardo Turra (I), “Sperimentazione con algoritmi per la stima del flusso ottico con video sintetici”, AA 2018/19
 
-82. Sara Montanari (I),”Deep-learning per gender classification”, AA 2018/19
+**[T203]** Sara Montanari (I),”Deep-learning per gender classification”, AA 2018/19
 
-83. Lucia La Forgia (I), “Ottimizzazione di algoritmi per estrazione di feature O(1) tramite multithreading”, AA 2018/19
+**[T202]** Lucia La Forgia (I), “Ottimizzazione di algoritmi per estrazione di feature O(1) tramite multithreading”, AA 2018/19
 
-84. Aldo Topciu (I), “Applicazione di computer vision di ausilio per non vedenti”, AA 2018/19
+**[T201]** Aldo Topciu (I), “Applicazione di computer vision di ausilio per non vedenti”, AA 2018/19
 
-**[T200]**. Matteo Sacco (I), “Implementazione di algoritmi per estrazione di feature da immagini in tempo costante”, AA 2018/19
+**[T200]** Matteo Sacco (I), “Implementazione di algoritmi per estrazione di feature da immagini in tempo costante”, AA 2018/19
 
 **[T199]** Enrico Ghidoni (I), “Sensori depth monoculari per sistemi embedded”, AA 2018/19
 
