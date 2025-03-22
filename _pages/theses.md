@@ -12,43 +12,45 @@ List of theses and internships supervised
 Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 ------
 
-1.Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
 
-2.Gianluca Sabatini (I), “Depth estimation through temporal virtual pattern projection”, in corso
 
-3.Valentino Cannas (I), “Supporto alle animazioni in applicazione di realtà aumentata”, in corso
+**[T284]** Valentino Cannas (I), “Supporto alle animazioni in applicazione di realtà aumentata”, in corso
 
-4.Jacopo Maccaferri (AIM), “Apprendere policy di alto livello per il motion planning di veicoli a guida autonoma”,svolta presso Vislab Parma, AA 2023/24
+**[T283]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
 
-5.Tommaso Faggiano (I), “Calibrazione di telecamere e sensore depth”, AA 2022/23
+**[T282]** Gianluca Sabatini (I), “Depth estimation through temporal virtual pattern projection”, in corso
 
-6.Michele Armillotta (I), “Ottimizzazione di un dataset per l'addestramento di una rete per visione stereo”, AA 2022/23
+**[T281]** Jacopo Maccaferri (AIM), “Apprendere policy di alto livello per il motion planning di veicoli a guida autonoma”,svolta presso Vislab Parma, AA 2023/24
 
-7.Pietro Coloretti (I), “Registrazione di sensore depth e telecamera”, AA 2022/23
+**[T280]** Tommaso Faggiano (I), “Calibrazione di telecamere e sensore depth”, AA 2022/23
 
-8.Lorenzo Severini (I), “Studio dei metodi per la sincronizzazione di sensori per computer vision”, AA 2022/23
+**[T279]** Michele Armillotta (I), “Ottimizzazione di un dataset per l'addestramento di una rete per visione stereo”, AA 2022/23
 
-9.Giuseppe Ciociola (I), “Valutazone di algoritmi di tracking”, AA 2022/23
+**[T278]** Pietro Coloretti (I), “Registrazione di sensore depth e telecamera”, AA 2022/23
 
-10.Gabriele Piazzi (I), “Estensione del simulatore DLX”, AA 2022/23
+**[T277]** Lorenzo Severini (I), “Studio dei metodi per la sincronizzazione di sensori per computer vision”, AA 2022/23
 
-11.Pierpasquale Colagrande (AIM), “Copy-paste data augmentation for domain transfer on traffic signs”, svolta presso Univrses (Stockholm), AA 2022/23
+**[T276]** Giuseppe Ciociola (I), “Valutazone di algoritmi di tracking”, AA 2022/23
 
-12. Fabrizio Torriano (IM), “Identificazione di caratteristiche rilevanti in capi di abbigliamento mediante deep-learning”. AA 2021/22
+**[T275]** Gabriele Piazzi (I), “Estensione del simulatore DLX”, AA 2022/23
 
-13. Luca Bartolomei (IM), “Percezione depth guidata mediante proiezione virtuale di pattern”, AA 2021/22
+**[T274]** Pierpasquale Colagrande (AIM), “Copy-paste data augmentation for domain transfer on traffic signs”, svolta presso Univrses (Stockholm), AA 2022/23
 
-14. Umberto Laghi (I), “Estensione del simulatore del processore DLX”, AA 2021/22
+**[T273]** Fabrizio Torriano (IM), “Identificazione di caratteristiche rilevanti in capi di abbigliamento mediante deep-learning”. AA 2021/22
 
-15. Leonardo Bambini (I), “Tracking monoculare”, AA 2021/22
+**[T272]** Luca Bartolomei (IM), “Percezione depth guidata mediante proiezione virtuale di pattern”, AA 2021/22
 
-16. Ugo Leone Cavalcanti (IM), “Miglioramento tramite reti monoculari di mappe di disparità”, AA 2020/21
+**[T271]** Umberto Laghi (I), “Estensione del simulatore del processore DLX”, AA 2021/22
 
-17. Vladyslav Tymofieiev (I), “Tracciamento di persone mediante un sistema monoculare”, AA 2020/21
+**[T270]** Leonardo Bambini (I), “Tracking monoculare”, AA 2021/22
 
-18. Anxhelo Jupe (I), “Sperimentazione con reti per instance segmentation”, AA 2020/21
+**[T269]** Ugo Leone Cavalcanti (IM), “Miglioramento tramite reti monoculari di mappe di disparità”, AA 2020/21
 
-19. Milo Marchetti (IM), “Anomaly detection”, AA 2020/21
+**[T268]** Vladyslav Tymofieiev (I), “Tracciamento di persone mediante un sistema monoculare”, AA 2020/21
+
+**[T267]** Anxhelo Jupe (I), “Sperimentazione con reti per instance segmentation”, AA 2020/21
+
+**[T266]** Milo Marchetti (IM), “Anomaly detection”, AA 2020/21
 
 **[T265]** Francesco Luzzi (I), “Oscuramento volti in sequenze video con deep-learning”, AA 2020/21
 
