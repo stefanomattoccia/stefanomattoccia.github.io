@@ -3,8 +3,8 @@
 # title: "Publications"
 # author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /theses/
+  - /theses.html
 ---
 
 List of theses and internships supervised
