@@ -17,15 +17,15 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 
 **[T288]** Valentino Cannas (I), “Supporto alle animazioni in applicazione di realtà aumentata”, in corso
 
-**[T287]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
+**[T287]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensore depth”, in corso
 
-**[T286]** Roberto Iervese (I), “CORDIC: Un Algoritmo Iterativo per il Calcolo di Funzioni Matematiche in Sistemi Embedded”, AA 2023/2024
+**[T286]** Roberto Iervese (I), “CORDIC: Un Algoritmo Iterativo per il Calcolo di Funzioni Matematiche in Sistemi Embedded”, AA 2023/24
 
-**[T285]** Giovanni Ferrari (I), "Ricostruzione di una 'pseudo-immagine' dai valori di riflettività di un sensore lidar utilizzando tecniche di deep learning", AA 2023/2024
+**[T285]** Giovanni Ferrari (I), "Ricostruzione di una 'pseudo-immagine' dai valori di riflettività di un sensore lidar utilizzando tecniche di deep learning", AA 2023/24
 
-**[T284]** Federico Bianchi (I), "Sincronizzazione spaziale e temporale di sensori stereo e lidar", AA 2023/2024
+**[T284]** Federico Bianchi (I), "Sincronizzazione spaziale e temporale di sensori stereo e lidar", AA 2023/24
 
-**[T283]** Gianluca Sabatini (I), “Depth estimation through temporal virtual pattern projection”, AA 2023/2024
+**[T283]** Gianluca Sabatini (I), “Depth estimation through temporal virtual pattern projection”, AA 2023/24
 
 **[T282]** Jacopo Maccaferri (AIM), “Apprendere policy di alto livello per il motion planning di veicoli a guida autonoma”,svolta presso Vislab Parma, AA 2023/24
 
@@ -283,7 +283,7 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 
 **[T155]** Pasquale Presutti (IM), “Algoritmo per la generazione di mappe depth da immagini stereo con CNN ”, AA 2017/18
 
-**[T154]** Antonio Benincasa (IM), “Deep-learning per stima della confidenza di mappe depth”, AA 2017/18 [Articolo]
+**[T154]** Antonio Benincasa (IM), “Deep-learning per stima della confidenza di mappe depth”, AA 2017/18 [Paper]
 
 **[T153]** Armando Mangiocco (IM), “Studio, sviluppo e ottimizzazione di algoritmi di visione 3D per applicazioni real-time”, AA 2017/18
 
