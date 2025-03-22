@@ -589,176 +589,185 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 Internships (Tirocini)
 ------
 
-1.Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
+**[I91]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
 
-2.Gabriele Piazzi (I), “Sviuppo applicazione software”, in corso presso S.I.R. Case Srl
+**[I90]** Gabriele Piazzi (I), “Sviuppo applicazione software”, in corso presso S.I.R. Case Srl
 
-3. Andrea Pellicanò (I), “Sviluppo applicazione”, in corso presso S.E.P.R.I. s.r.l.
+**[I89]** Andrea Pellicanò (I), “Sviluppo applicazione”, in corso presso S.E.P.R.I. s.r.l.
 
-4. Riccardo Corradini (I), “Sensor fusion”, in corso presso Spark Srl Reggio Emilia
+**[I88]** Riccardo Corradini (I), “Sensor fusion”, in corso presso Spark Srl Reggio Emilia
 
-5. Luca Pasquarè (I), “Sviluppo di firmware per microcontrollori”, in corso presso Vega Srl. Ponzano di Fermo
+**[I87]** Luca Pasquarè (I), “Sviluppo di firmware per microcontrollori”, in corso presso Vega Srl. Ponzano di Fermo
 
-1. Luca Bartolomei (IM), “Algoritmi di visione stereo”, AA 2021/22
+**[I86]** Luca Bartolomei (IM), “Algoritmi di visione stereo”, AA 2021/22
 
-2. Leonardo Bambini (I), “Studio strategie per tracking monoculare”, AA 2021/22
+**[I85]** Leonardo Bambini (I), “Studio strategie per tracking monoculare”, AA 2021/22
 
-3. Matteo Rafaraci (IM), “Sviluppo applicazione gestione dati realtime per Edge computing” svolto presso Next-Stel Solutions s.r.l., AA 2020/21
+**[I84]** Matteo Rafaraci (IM), “Sviluppo applicazione gestione dati realtime per Edge computing” svolto presso Next-Stel Solutions s.r.l., AA 2020/21
 
-4. Vladyslav Tymofieiev (I), “Studio sistemi di tracking monocular”, AA 2020/21
+**[I83]** Vladyslav Tymofieiev (I), “Studio sistemi di tracking monocular”, AA 2020/21
 
-5. Francesco Mazzucchelli (I), “Tirocinio inerente progetto distanziamento sociale”, AA 2020/21
+**[I82]** Francesco Mazzucchelli (I), “Tirocinio inerente progetto distanziamento sociale”, AA 2020/21
 
-6. Valentino Cannas (I), “Studio propedeudico all’applicazione di strategie per la riduzione del flickering nel calcolo della depth da singola telecamera”, AA 2020/21
+**[I81]** Valentino Cannas (I), “Studio propedeudico all’applicazione di strategie per la riduzione del flickering nel calcolo della depth da singola telecamera”, AA 2020/21
 
-7. Gabriel Hoogerwerf (I), “Sperimentazione con framework di visual odometry monoculari”, AA 2020/21
+**[I80]** Gabriel Hoogerwerf (I), “Sperimentazione con framework di visual odometry monoculari”, AA 2020/21
 
-8. Giuseppe Donadio (I), “Ottimizzazione di reti neurali con dispositivi Android”, AA 2020/21
+**[I79]** Giuseppe Donadio (I), “Ottimizzazione di reti neurali con dispositivi Android”, AA 2020/21
 
-9. Adele Bonacorsi (I), “Ottimizzazione di codice sfruttando multithreading”, AA 2020/21
+**[I78]** Adele Bonacorsi (I), “Ottimizzazione di codice sfruttando multithreading”, AA 2020/21
 
-10. Luca Serafino (I), “Sviluppo di una applicazione di realtà aumentata per smartphone”, AA 2019/20
+**[I77]** Luca Serafino (I), “Sviluppo di una applicazione di realtà aumentata per smartphone”, AA 2019/20
 
-11. Davide Greco (I), “Unity per immagini satellitari”, AA 2019/20
+**[I76]** Davide Greco (I), “Unity per immagini satellitari”, AA 2019/20
 
-12. Filippo Bignami (I), “Unity per flow estimation”, AA 2019/20
+**[I75]** Filippo Bignami (I), “Unity per flow estimation”, AA 2019/20
 
-13. Andrea D’Silva (I), “Generazione di scene sintetiche con Unity per valuazione algoritmi”, AA 2019/20
+**[I74]** Andrea D’Silva (I), “Generazione di scene sintetiche con Unity per valuazione algoritmi”, AA 2019/20
 
-14. Luca Bartolomei (I), “Ottimizzazione di deep network per Android”, AA 2019/20
+**[I73]** Luca Bartolomei (I), “Ottimizzazione di deep network per Android”, AA 2019/20
 
-15. Cristian Di Fiore (I), “Sperimentazione con OpenVINO”, AA 2019/20
+**[I72]** Cristian Di Fiore (I), “Sperimentazione con OpenVINO”, AA 2019/20
 
-16. Kevin Michael Frick (I), “Machine Learning for Semantic Visual SLAM”, AA 2019/20 svolto presso RAM, University of Twente
+**[I71]** Kevin Michael Frick (I), “Machine Learning for Semantic Visual SLAM”, AA 2019/20 svolto presso RAM, University of Twente
 
-17. Marco Morozzi (I), “Studio di framework di deep learning per LPR”, AA 2018/19
+**[I70]** Marco Morozzi (I), “Studio di framework di deep learning per LPR”, AA 2018/19
 
-18. Matteo Rocca (I), “Algoriitmi di computer vision per Raspberry PI”, AA 2018/19
+**[I69]** Matteo Rocca (I), “Algoriitmi di computer vision per Raspberry PI”, AA 2018/19
 
-19. Zambella Marco (I), “Studio di metodi per estrazione di feature”, AA 2018/19
+**[I68]** Zambella Marco (I), “Studio di metodi per estrazione di feature”, AA 2018/19
 
-20. Gabriele Ragusa, (I), “Studio di metodologie per realtà aumentata con dati depth”, AA 2018/19
+**[I67]** Gabriele Ragusa, (I), “Studio di metodologie per realtà aumentata con dati depth”, AA 2018/19
 
-21. Zaccaroni Giulio (I), “Deep-learning per smartphone”, AA 2018/19
+**[I66]** Zaccaroni Giulio (I), “Deep-learning per smartphone”, AA 2018/19
 
-22. Filippini Michele (I), “Studio preparatorio per applicazione di realtà aumentata”, AA 2018/19
+**[I65]** Filippini Michele (I), “Studio preparatorio per applicazione di realtà aumentata”, AA 2018/19
 
-23. Matteo Sacco (I), “Studio di algoritmi per estrazione di feature da immagini  tempo costante”, AA 2018/19
+**[I64]** Matteo Sacco (I), “Studio di algoritmi per estrazione di feature da immagini  tempo costante”, AA 2018/19
 
-24. Roberto Trentini (I), “Applicazione deep-learning”, AA 2018/19
+**[I63]** Roberto Trentini (I), “Applicazione deep-learning”, AA 2018/19
 
-25. Dahesh Parsa (I), “Analisi di dati depth generati da sistema monoculare”, AA 2018/19
+**[I62]** Dahesh Parsa (I), “Analisi di dati depth generati da sistema monoculare”, AA 2018/19
 
-26. Isodoro Misuraca (I), “Sperimentazione con Movidius Neural Stick”, AA 2018/19
+**[I61]** Isodoro Misuraca (I), “Sperimentazione con Movidius Neural Stick”, AA 2018/19
 
-27. Aldo Topciu (I), “Identificazione di strisce pedonali da immagini”, AA 2018/19
+**[I60]** Aldo Topciu (I), “Identificazione di strisce pedonali da immagini”, AA 2018/19
 
-28. Francesco Pace (I), “Deep-learning applicato al riconoscimento automatico di targhe”, svolto presso Brav Srl, AA 2018/19
+**[I59]** Francesco Pace (I), “Deep-learning applicato al riconoscimento automatico di targhe”, svolto presso Brav Srl, AA 2018/19
 
-29. Sara Montanari (I),” Deep-learning con Tensorflow”, AA 2018/19
+**[I58]** Sara Montanari (I),” Deep-learning con Tensorflow”, AA 2018/19
 
-30. Simone Dosi (I), “Studio di metodologie per generazione di dataset sintetici”, AA 2018/19
+**[I57]** Simone Dosi (I), “Studio di metodologie per generazione di dataset sintetici”, AA 2018/19
 
-31. Federico Zanotti (I), “Creazione di una piattaforma di machine learning/intelligenza artificiale”, svolto presso O3 Solutions, AA 2018/19
+**[I56]** Federico Zanotti (I), “Creazione di una piattaforma di machine learning/intelligenza artificiale”, svolto presso O3 Solutions, AA 2018/19
 
-32. Giuseppe Staglianò (I), “Sperimentazione con software basato su random forest”, AA 2017/18
+**[I55]** Giuseppe Staglianò (I), “Sperimentazione con software basato su random forest”, AA 2017/18
 
-33. Giovanni Bomaccio (I), “Sistema embedded per computer vision”, AA 2017/18
+**[I54]** Giovanni Bomaccio (I), “Sistema embedded per computer vision”, AA 2017/18
 
-34. Michela Minerva (I), “Studio di metodologie per il training unsupervised di algoritmi di machine learning”, AA 2017/18
+**[I53]** Michela Minerva (I), “Studio di metodologie per il training unsupervised di algoritmi di machine learning”, AA 2017/18
 
-35. Leonardo Perugini (I), “Deep-learning per identificazione di oggetti”, AA 2017/18
+**[I52]** Leonardo Perugini (I), “Deep-learning per identificazione di oggetti”, AA 2017/18
 
-36. Mihail Bida (I), “Line follower”, AA 2017/18
+**[I51]** Mihail Bida (I), “Line follower”, AA 2017/18
 
-37. Fady Samy Shafik Asaad (I), “Image streaming”, AA 2017/18
+**[I50]** Fady Samy Shafik Asaad (I), “Image streaming”, AA 2017/18
 
-38. Xhevit Tabaku (I), “Streaming di immagini su piattaforma embedded”, AA 2017/18
+**[I49]** Xhevit Tabaku (I), “Streaming di immagini su piattaforma embedded”, AA 2017/18
 
-39. Mattia Spazzoli (I), “Progetto in ambito industriale”, svolto presso Datalogic, AA 2017/18
+**[I48]** Mattia Spazzoli (I), “Progetto in ambito industriale”, svolto presso Datalogic, AA 2017/18
 
-40. Pietro Paolo Gentilucci (I), “Studio di un rover per applicazioni di navigazione autonoma”, AA 2017/18
+**[I47]** Pietro Paolo Gentilucci (I), “Studio di un rover per applicazioni di navigazione autonoma”, AA 2017/18
 
-41. Fabio Scita (I), “Sviluppo di in videogame” svolta presso IV Productions, AA 2017/18
+**[I46]** Fabio Scita (I), “Sviluppo di in videogame” svolta presso IV Productions, AA 2017/18
 
-42. Matteo Verucchi (I), “Studio di un sistema di visual odometry”, AA 2017/18
+**[I45]** Matteo Verucchi (I), “Studio di un sistema di visual odometry”, AA 2017/18
 
-43. Alessandro Franca (I), “Obstacle detection per rover autonomo”, AA 2017/18
+**[I44]** Alessandro Franca (I), “Obstacle detection per rover autonomo”, AA 2017/18
 
-44. Arsal-Hanif Muhammad (I), “Path planning”, AA 2017/18
+**[I43]** Arsal-Hanif Muhammad (I), “Path planning”, AA 2017/18
 
-45. Daniele Bianchi (I), “Acquisizione dati depth da sensori 3D”, AA 2016/17
+**[I42]** Daniele Bianchi (I), “Acquisizione dati depth da sensori 3D”, AA 2016/17
 
-46. Massimo Toscanelli (I), “Applicazioni di realtà aumentata”, AA 2016/17
+**[I41]** Massimo Toscanelli (I), “Applicazioni di realtà aumentata”, AA 2016/17
 
-47. Simone Barbieri (I), “Sperimentazione con piattaforma SoC ARM+FPGA”, AA 2016/17
+**[I40]** Simone Barbieri (I), “Sperimentazione con piattaforma SoC ARM+FPGA”, AA 2016/17
 
-48. Federico Bertoli (I), “Deep-learning applicato alla individuzione di espressioni del volto”, AA 2016/17
+**[I39]** Federico Bertoli (I), “Deep-learning applicato alla individuzione di espressioni del volto”, AA 2016/17
 
-49. Alessio Mingozzi (I), “Sistema embedded per l’automazione”, AA 2016/17
+**[I38]** Alessio Mingozzi (I), “Sistema embedded per l’automazione”, AA 2016/17
 
-50. Mattia Sinigaglia (I), “UVC e telecamera USB”, AA 2016/17
+**[I37]** Mattia Sinigaglia (I), “UVC e telecamera USB”, AA 2016/17
 
-51. Davide Capponcelli (I), “Metodologie di interazione tra Linux e FPGA”, AA 2015/16
+**[I36]** Davide Capponcelli (I), “Metodologie di interazione tra Linux e FPGA”, AA 2015/16
 
-52. Alessio Mora (I), “Stima delle prestazioni di un sistema 3D”, AA 2015/16
+**[I35]** Alessio Mora (I), “Stima delle prestazioni di un sistema 3D”, AA 2015/16
 
-53. Leonardo Campagna (I), “Studio di metodologie per l'interazione tra Linux e periferiche dedicate”, AA 2015/16
+**[I34]** Leonardo Campagna (I), “Studio di metodologie per l'interazione tra Linux e periferiche dedicate”, AA 2015/16
 
-54. Matteo Pumo (I), “Approfondimento su CNN”, AA 2015/16
+**[I33]** Matteo Pumo (I), “Approfondimento su CNN”, AA 2015/16
 
-55. Mattia Gianessi (I), ”Applicazione Android di ausilio per non vedenti”, AA 2015/16
+**[I32]** Mattia Gianessi (I), ”Applicazione Android di ausilio per non vedenti”, AA 2015/16
 
-56. Andrea Bombino (I), “Caratterizzazione di un sistema di visione 3D”, AA 2015/16
+**[I31]** Andrea Bombino (I), “Caratterizzazione di un sistema di visione 3D”, AA 2015/16
 
-57. Luca Buratti (I), “Sviluppo di un software per acquisizione immagini”, AA 2015/16
+**[I30]** Luca Buratti (I), “Sviluppo di un software per acquisizione immagini”, AA 2015/16
 
-58. Ricardo Albertazzi (I), “Sperimentazione con un sistema di computer vision su Zynq”, AA 2015/16
+**[I29]** Ricardo Albertazzi (I), “Sperimentazione con un sistema di computer vision su Zynq”, AA 2015/16
 
-59. Matteo Boschini (I), “Tracking 3D con sistema embedded”, AA 2015/16
+**[I28]** Matteo Boschini (I), “Tracking 3D con sistema embedded”, AA 2015/16
 
-60. Luca Chiossi (I), “Deep-learning su GPU”, AA 2015/16
+**[I27]**. Luca Chiossi (I), “Deep-learning su GPU”, AA 2015/16
 
-61. Luca Ranalli (I), “Applicazioni iOS”, AA 2014/15
+**[I26]** Luca Ranalli (I), “Applicazioni iOS”, AA 2014/15
 
-62. Pierpaolo Perrozzi (I), “Comunicazione sistema embedded Linux e smartphone iOS”, AA 2014/15
+**[I25]** Pierpaolo Perrozzi (I), “Comunicazione sistema embedded Linux e smartphone iOS”, AA 2014/15
 
-63. Enrico Golfieri (I), “Studio di un algortimo per l’individuzione di piani basato su nuvola di punti e trasformata di Hough”, AA 2014/15
+**[I24]** Enrico Golfieri (I), “Studio di un algortimo per l’individuzione di piani basato su nuvola di punti e trasformata di Hough”, AA 2014/15
 
-64. Filippo Aleotti (I), “Porting di un sistema di SLAM 3D su piattaform NVidia TK1”, AA 2014/15
+**[I23]** Filippo Aleotti (I), “Porting di un sistema di SLAM 3D su piattaform NVidia TK1”, AA 2014/15
 
-65. Antonio Benincasa (I), “Studio di algoritmi di matching stereo”, i AA 2014/1
+**[I22]** Antonio Benincasa (I), “Studio di algoritmi di matching stereo”, i AA 2014/15
 
-66. Andrea Garbugli (I), “Studio di un SDK per droni DJI”, AA 2014/15
+**[I21]** Andrea Garbugli (I), “Studio di un SDK per droni DJI”, AA 2014/15
 
-67. Luca Nanni (I), “Studio e sperimentazione con algoritmi di Deep Learning”, AA 2014/15
+**[I20]** Luca Nanni (I), “Studio e sperimentazione con algoritmi di Deep Learning”, AA 2014/15
 
-68. Pasquale Presutti (I), “Studio di algorimi per interpolazione subpixel”, AA 2014/15
+**[I19]** Pasquale Presutti (I), “Studio di algorimi per interpolazione subpixel”, AA 2014/15
 
-69. Vincenzo Villani (I), “Studio di algoritmi per la rettificazione di immagini”, AA 2014/15
+**[I18]** Vincenzo Villani (I), “Studio di algoritmi per la rettificazione di immagini”, AA 2014/15
 
-70. Armando Mangiocco (I), “Studio di misure di confidenza per sistemi stereo”, AA 2014/15
+**[I17]** Armando Mangiocco (I), “Studio di misure di confidenza per sistemi stereo”, AA 2014/15
 
-71. Federica Albertini (I), “Studio di algoritmi di optical flow”, AA 2013/14
+**[I16]** Federica Albertini (I), “Studio di algoritmi di optical flow”, AA 2013/14
 
-72. Fabio Tosi (I), “Studio di metodologie di filtering per mappe di disparità”, AA 2013/14
+**[I15]** Fabio Tosi (I), “Studio di metodologie di filtering per mappe di disparità”, AA 2013/14
 
-73. Alessandro Muscoloni (I), “Filtro di Kalman per applicazioni di computer vision”, AA 2013/14
+**[I14]** Alessandro Muscoloni (I), “Filtro di Kalman per applicazioni di computer vision”, AA 2013/14
 
-74.Demitrios Boeri Gramatikou (E), “Sperimentazione con sistema di ausilio per ipovedenti”, AA 2013/14
+**[I13]** Demitrios Boeri Gramatikou (E), “Sperimentazione con sistema di ausilio per ipovedenti”, AA 2013/14
 
-75. Krzysztof Waldemar Smolik (I), “Ottimizzazione di algoritmi di computer vision”, tirocnio svolto presso Retinae, Bologna, AA 2013/14
+**[I12]** Krzysztof Waldemar Smolik (I), “Ottimizzazione di algoritmi di computer vision”, tirocnio svolto presso Retinae, Bologna, AA 2013/14
 
-76. Daniele Drei (A), "Studio e sperimentazione di algoritmi localmente consistenti per la corrispondenza stereo", AA 2009/10
+**[I11]** Daniele Drei (A), "Studio e sperimentazione di algoritmi localmente consistenti per la corrispondenza stereo", AA 2009/10
 
 **[I10]** Stefano Mengoni (E), "Algoritmi di visione stereo basati su supporto variabile e ordinamento", AA 2008/09
+
 **[I9]** Sara Bambi (A), "Metodologie di rettificazione per un sistema stereo basato su telecamere mobili", svolto presso Control Engineering Group, University of Twente, AA 2008/09
+
 **[I8]** Giampaolo Falato (A), "Algoritmi di matching stereo per applicazioni di robotica", svolto presso Control Engineering Group, University of Twente, AA 2008/09
+
 **[I7]** Guido Munari (E), "Implementazione in linguaggio VHDL e testing di un processore DLX su scheda FPGA Xilinx", AA 2008/09 
+
 **[I6]** Andrea Zanetti (E), "Sistema per il rilevamento di graffiti basato su sensore time-of-flight (TOF)", AA 2007/08
+
 **[I5]** Mattia Tampellini (E), "Progetto logico di una telecamera stereo dotata di interfaccia USB 2.0", AA 2007/08
+
 **[I4]** Fabio Regoli (E), "Algoritmi di matching efficienti mediante partizionamento ottimale del template", AA 2007/08
+
 **[I3]** Alessio Caroselli (E), "Caratterizzazione di un sistema di visione stereo", AA 2007/08
+
 **[I2]** Simone Giardino (E), "Sviluppo di algoritmi di pattern matching invarianti rispetto a rotazione, scala e contrasto", AA 2007/08
+
 **[I1]** Riccardo Viti (E), "Ottimizzazione di un algoiritmo di template matching mediante scelta ottima dei parametri di partizionamento", AA 2006/07
 
