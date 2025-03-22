@@ -598,7 +598,7 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 Internships (Tirocini)
 ------
 
-**[I91]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
+**[I91]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, AA 2023/24
 
 **[I90]** Gabriele Piazzi (I), “Sviuppo applicazione software”, in corso presso S.I.R. Case Srl
 
