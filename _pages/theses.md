@@ -12,13 +12,17 @@ List of theses and internships supervised
 Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 ------
 
+**[T288]** Valentino Cannas (I), “Supporto alle animazioni in applicazione di realtà aumentata”, in corso
 
+**[T287]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
 
-**[T285]** Valentino Cannas (I), “Supporto alle animazioni in applicazione di realtà aumentata”, in corso
+**[T286]** Roberto Iervese (I), “CORDIC: Un Algoritmo Iterativo per il Calcolo di Funzioni Matematiche in Sistemi Embedded”, AA 2023/2024
 
-**[T284]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
+**[T285]** Giovanni Ferrari (I), "Ricostruzione di una 'pseudo-immagine' dai valori di riflettività di un sensore lidar utilizzando tecniche di deep learning", AA 2023/2024
 
-**[T283]** Gianluca Sabatini (I), “Depth estimation through temporal virtual pattern projection”, in corso
+**[T284]** Federico Bianchi (I), "Sincronizzazione spaziale e temporale di sensori stereo e lidar", AA 2023/2024
+
+**[T283]** Gianluca Sabatini (I), “Depth estimation through temporal virtual pattern projection”, AA 2023/2024
 
 **[T282]** Jacopo Maccaferri (AIM), “Apprendere policy di alto livello per il motion planning di veicoli a guida autonoma”,svolta presso Vislab Parma, AA 2023/24
 
@@ -72,7 +76,7 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 
 **[T257]** Guglielmo Palaferri (I), “Porting di un algoritmo per la stima del flusso ottico su smartphone Android”, AA 2020/21
 
-**[T256]** Filippo Comastri (I), “Estensione di un simulatore del processore DLX”, i AA 2020/21
+**[T256]** Filippo Comastri (I), “Estensione di un simulatore del processore DLX”, AA 2020/21
 
 **[T255]** Francesco Olivo (I), “Analisi di nuvole di punti generate da un sistema per stima depth da singola telecamera”, AA 2020/21
 
