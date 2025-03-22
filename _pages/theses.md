@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 List of  supervised theses and internships.
+
 AI=Artificial Intelligence, I=Informatica, A=Automazione, E=Elettronica, M=Laurea Magistrale
 
 
