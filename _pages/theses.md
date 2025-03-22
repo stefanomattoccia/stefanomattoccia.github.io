@@ -7,362 +7,758 @@ redirect_from:
   - /publications.html
 ---
 
-List of publications and patents.
+List of theses and internships supervised
 
-Journal papers
+Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 ------
 
-**[J36]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), pages 8900 – 8917, Volume 46, Issue 12, December 2024 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10552115)]
+1.Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
 
-**[J35]** X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), Volume 132, pages 4954 – 4991, 2024 [[Arxiv](https://arxiv.org/pdf/2405.10357)] [[PDF](https://link.springer.com/article/10.1007/s11263-024-02089-5)]
+2.Gianluca Sabatini (I), “Depth estimation through temporal virtual pattern projection”, in corso
 
-**[J34]** M. Poggi, F. Arrigoni, A. Fusiello, S. Mattoccia, A. Bartoli, T. Sattler, T. Pajdla, “Guest Editorial: Special Issue on Traditional Computer Vision in the Age of Deep Learning”, International Journal of Computer Vision (IJCV), Volume 132, pages 4128 – 4130, 2024
+3.Valentino Cannas (I), “Supporto alle animazioni in applicazione di realtà aumentata”, in corso
 
-**[J33]** P. Zama Ramirez, A. Costanzino, F. Tosi, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Booster: a Benchmark for Depth from Images of Specular and Transparent Surfaces”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume: 46, Issue 1, pages: 85 - 102, January 2024 [[Arxiv](https://arxiv.org/pdf/2301.08245)] [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10278453)] [[Dataset](https://cvlab-unibo.github.io/booster-web/)]
+4.Jacopo Maccaferri (AIM), “Apprendere policy di alto livello per il motion planning di veicoli a guida autonoma”,svolta presso Vislab Parma, AA 2023/24
 
-**[J32]** X. Qiao, C. Ge, Y. Zhang, Y. Zhou, F. Tosi, M. Poggi, S. Mattoccia, “Depth Super-Resolution from Explicit and Implicit High-Frequency Features”, Computer Vision and Image Understanding (CVIU), Volume 237, December 2023, 103841 [[Arxiv](https://arxiv.org/pdf/2303.09307)] [[PDF](https://doi.org/10.1016/j.cviu.2023.103841)]  
+5.Tommaso Faggiano (I), “Calibrazione di telecamere e sensore depth”, AA 2022/23
 
-**[J31]** X. Qiao, C. Ge, C. Zhao, F. Tosi, M. Poggi, S. Mattoccia, “Self-supervised Depth Super-resolution with Contrastive Multiview Pre-training”, Neural Networks (NN), Volume 168, November 2023, Pages 223 – 236 [[PDF](https://doi.org/10.1016/j.neunet.2023.09.023)]
+6.Michele Armillotta (I), “Ottimizzazione di un dataset per l'addestramento di una rete per visione stereo”, AA 2022/23
 
-**[J30]** X. Qiao, C. Ge, P. Deng, H. Wei, M. Poggi, S. Mattoccia, “Depth Restoration in Under-Display Time-of-Flight Imaging”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume 45, Issue 5, pages: 5668 - 5683, May 2023 [[Pre-print](https://cris.unibo.it/bitstream/11585/902755/3/Depth_Restoration_in_Under_Display_Time_of_Flight_Imaging_PAMI.pdf)] [[PDF](https://ieeexplore.ieee.org/document/9903562)] 
+7.Pietro Coloretti (I), “Registrazione di sensore depth e telecamera”, AA 2022/23
 
-**[J29]** P. Kaniewski, M. Pasternak, S. Mattoccia, “Special issue on Multi-Sensor Systems and Data Fusion in Remote Sensing", Remote Sensing, March 2023
+8.Lorenzo Severini (I), “Studio dei metodi per la sincronizzazione di sensori per computer vision”, AA 2022/23
 
-**[J28]** A. Mingozzi, A. Conti, F. Aleotti, M. Poggi, S. Mattoccia, “Monitoring social distancing with single image depth estimation”, IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), Volume 6, Issue 6, pages 1290 – 1301, December 2022  [[Arxiv](https://arxiv.org/pdf/2204.01693)] [[PDF](https://ieeexplore.ieee.org/document/9776555)] [[Dataset](https://github.com/chachus/monodepth_social_distancing)] 
+9.Giuseppe Ciociola (I), “Valutazone di algoritmi di tracking”, AA 2022/23
 
-**[J27]** M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, “Real-time monocular depth estimation without GPU”, IEEE Transactions on Intelligent Transportation Systems (T-ITS), Volume 23, Issue 10, pages 17342 – 17353, October 2022 [[PDF](https://ieeexplore.ieee.org/document/9733979)]
+10.Gabriele Piazzi (I), “Estensione del simulatore DLX”, AA 2022/23
 
-**[J26]** M. Poggi, F. Tosi, K. Batsos, P. Mordohai, S. Mattoccia, “On the synergies between machine learning and binocular stereo for depth estimation from images: a survey”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume 44, Issue 9, pages 5314 – 5334, September 2022 [[Arxiv](https://arxiv.org/pdf/2004.08566.pdf)] [[PDF](https://ieeexplore.ieee.org/document/9395220/)]
+11.Pierpasquale Colagrande (AIM), “Copy-paste data augmentation for domain transfer on traffic signs”, svolta presso Univrses (Stockholm), AA 2022/23
 
-**[J25]** M. Poggi, S. Kim, F. Tosi, S. Kim, F. Aleotti, D. Min, K. Sohn, S. Mattoccia , “On the confidence of stereo matching in a deep-learning era: a quantitative evaluation”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume 44, Issue 9, pages 5293 – 5313, September 2022 [[Arxiv](https://arxiv.org/pdf/2101.00431.pdf)] [[PDF](https://ieeexplore.ieee.org/document/9394777/)]
+12. Fabrizio Torriano (IM), “Identificazione di caratteristiche rilevanti in capi di abbigliamento mediante deep-learning”. AA 2021/22
 
-**[J24]** M. Poggi, A. Tonioni, F. Tosi, S. Mattoccia, L. Di Stefano, “Continual adaptation for deep stereo”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume 44, Issue 9, pages 4713 – 4729, September 2022 [[Arxiv](https://arxiv.org/pdf/2007.05233.pdf)] [[PDF](https://ieeexplore.ieee.org/document/9418523)]
+13. Luca Bartolomei (IM), “Percezione depth guidata mediante proiezione virtuale di pattern”, AA 2021/22
 
-**[J23]** A. Cipolletta, V. Peluso, A. Calimera, M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, “Energy-Quality Scalable Monocular Depth Estimation on Low-Power CPUs”, IEEE Internet of Things Journal (IoT-J), Vol. 9, Issue 1, pages 25 – 36, January 1, 2021 [[PDF](https://ieeexplore.ieee.org/document/9432391)]
+14. Umberto Laghi (I), “Estensione del simulatore del processore DLX”, AA 2021/22
 
-**[J22]** V. Peluso, A. Cipolletta, A. Calimera, M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, “Monocular depth perception on microcontrollers for edge applications”, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 32, Issue 3, pages 1524 – 1536, March 2022 [[PDF](https://ieeexplore.ieee.org/document/9422776)]
+15. Leonardo Bambini (I), “Tracking monoculare”, AA 2021/22
 
-**[J21]** D. De Gregorio, M. Poggi, P. Zama Ramirez, G. Palli, S. Mattoccia, L. Di Stefano, “Beyond the baseline: 3D reconstruction of tiny objects with single camera stereo robot”, IEEE Access, Vol. 9, pages 119755 – 119765, August 2021 [[PDF](https://ieeexplore.ieee.org/document/9524696)]
+16. Ugo Leone Cavalcanti (IM), “Miglioramento tramite reti monoculari di mappe di disparità”, AA 2020/21
 
-**[J20]** F. Aleotti, G. Zaccaroni, L. Bartolomei, M. Poggi, F. Tosi, S. Mattoccia, “Real-time single image depth perception in the wild with handheld devices”, Sensors 2021, 21(1), 15 [[PDF](https://www.mdpi.com/1424-8220/21/1/15/pdf)] [[Code](https://github.com/FilippoAleotti/mobilePydnet)]
+17. Vladyslav Tymofieiev (I), “Tracciamento di persone mediante un sistema monoculare”, AA 2020/21
 
-**[J19]** A. Livoroi, A. Conti, L. Foianesi, F. Tosi, F. Aleotti, M. Poggi, F. Tauro, E. Toth, S. Grimaldi, S. Mattoccia, “On the deployment of out-of-the-box embedded devices for self-powered river surface flow velocity monitoring at the edge”, Applied Sciences 2021, 11(15), 7027 [[PDF](https://www.mdpi.com/2076-3417/11/15/7027)]
+18. Anxhelo Jupe (I), “Sperimentazione con reti per instance segmentation”, AA 2020/21
 
-**[J18]** P. Tassinari, M. Bovo, S. Benni, S. Franzoni, M. Poggi, L. Maria, E. Mammi, S. Mattoccia, L Di Stefano, F. Bonora, A. Barbaresi, E. Santolini, D. Torreggiani, “A computer vision approach based on deep learning for the detection of dairy cows in free stall barn”, Computers and Electronics in Agriculture, Volume 182, March 2021 [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S016816992100048X)]
+19. Milo Marchetti (IM), “Anomaly detection”, AA 2020/21
 
-**[J17]** A. Tonioni, M. Poggi, S. Mattoccia, L. Di Stefano, “Unsupervised domain adaptation for depth prediction from images”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 42(10), pages 2396 – 2409, October 1, 2020 [[Arxiv](https://arxiv.org/pdf/1909.03943.pdf)] [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8834825)]
+20. Francesco Luzzi (I), “Oscuramento volti in sequenze video con deep-learning”, AA 2020/21
 
-**[J16]** M. Poggi, F. Tosi, S. Mattoccia, “Good cues to learn from scratch a confidence measure for passive depth sensors”, IEEE Sensors Journal, 20(22), pages 13533 – 13541, November 15, 2020 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123913)]
+21. Francesco Mazzucchelli (I), “Analisi delle prestazoni di un sistema monoculare per calcolo di mappe di profondità”, AA 2020/21
 
-**[J15]** F. Tosi, M. Rocca, F. Aleotti, M. Poggi, S. Mattoccia, F. Tauro, E. Toth, S. Grimaldi, “Enabling image-based streamflow monitoring at the edge”, Remote Sensing, 2020, 12(12), 2047 [[PDF](https://www.mdpi.com/2072-4292/12/12/2047/pdf)]
+22. Luca Galardini o Gherardini (IM), “Research on Methods for Processing Large-Baseline Stereo Camera Data for Long Range 3D Environmental Perception”, svolta presso German Aerospace Center, Munich, AA 2020/21
 
-**[J14]** M. Poggi, F. Tosi, S. Mattoccia, “Learning a confidence measure in the disparity domain from O(1) features”, Computer Vision and Image Understanding, Volume 193, April 2020 [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300023)]
+23. Marco Rovinelli (AIM), “Realtime Monocular Depth Estimation on Mobile Phones”, svolta presso Univrses (Stockholm), AA 2020/21
 
-**[J13]** M. Poggi, G. Agresti, F. Tosi, P. Zanuttigh, S. Mattoccia, “Confidence estimation for ToF and stereo sensors and its application to depth data fusion”, IEEE Sensors Journal, 20(2), pages 1411 – 1421, February 2020 [[PDF](https://ieeexplore.ieee.org/document/8865643)]
+24. Matteo Rafaraci (IM), “Identificazione di agenti mobili con rete neurale per agevolare la missione di un drone”, AA 2020/21
 
-**[J12]** F. Tauro, F. Tosi, S. Mattoccia, E. Toth, R. Piscopia, S. Grimaldi, "Optical Tracking Velocimetry (OTV): leveraging optical flow and trajectory-based filtering for surface streamflow observations", Remote Sensing, 2018, 10(12), 2010 [[PDF](https://www.mdpi.com/2072-4292/10/12/2010/pdf)]
+25. Nicolò Donati (I), “Sviluppo applicazione Android per sperimentazione con dati depth”, AA 2020/21
 
-**[J11]** S. Mattoccia, B. Kisačanin, M. Gelautz, S. Chai, A. N. Belbachir, G. Dedeoglu, F. Stein, “Special issue on Embedded Computer Vision”, Journal of Signal Processing Systems, June 2018, Volume 90, Issue 6, pages 873 – 876
+26. Fabio Scagliarini (I), “Studio e sperimentazione di metodi per la messa in scala di sistemi per la stima della profondità da singola telecamera”, AA 2020/21
 
-**[J10]** W. Ouyang, F. Tombari, S. Mattoccia, L. Di Stefano, W. Cham, "Performance evaluation of full-search equivalent pattern matching algorithms", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 34(1), pages 127 – 143, January 2012 [[PDF](https://ieeexplore.ieee.org/document/5770267)]
+27. Aldo Capone (I), “Sperimentazione con algoritmo stereo”, AA 2020/21
 
-**[J9]** A. Alatan, J. Ostermann, L. Onural, G. AlRegib, S. Mattoccia, C. Yuan, “Special issue on Emerging Techniques in 3-D”, IEEE Journal of Selected Topics in Signal Processing, Vol. 6, Num. 5, September 2012
+28. Irene Gentilini (I), “Registrazione e riproduzione di video per applicazioni di realtà aumentata”, AA 2020/21
 
-**[J8]** S. Mattoccia, F. Tombari, L. Di Stefano, "Efficient template matching for multi-channel images", Pattern Recognition Letters (PRL), 32(5), pages 694 – 700, April 2011 [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167865510003958)]
+29. Guglielmo Palaferri (I), “Porting di un algoritmo per la stima del flusso ottico su smartphone Android”, AA 2020/21
 
-**[J7]** F. Tombari, S. Mattoccia, L. Di Stefano, "Full search-equivalent pattern matching with Incremental Dissimilarity Approximations", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 31(1), pages 129 – 141, January 2009 [[PDF](https://ieeexplore.ieee.org/document/4459334)]
+30. Filippo Comastri (I), “Estensione di un simulatore del processore DLX”, i AA 2020/21
 
-**[J6]** S. Mattoccia, F. Tombari, L. Di Stefano, "Fast  full-search equivalent template matching by Enhanced Bounded Correlation", IEEE Transactions on Image Processing (TIP), 17(4), pages 528 – 538, April 2008 [[PDF](https://ieeexplore.ieee.org/document/4471825)]
+31. Francesco Olivo (I), “Analisi di nuvole di punti generate da un sistema per stima depth da singola telecamera”, AA 2020/21
 
-**[J5]** L. Di Stefano, S. Mattoccia, F. Tombari, “ZNCC-based template matching using Bounded Partial Correlation", Pattern Recognition Letters (PRL), 16(14), pages 2129 – 2134 October 2005 [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167865505000905)]
+32. Amedeo Ravagli (I), “Analisi di traiettorie da sistema per la stima della profondità monoculare”, AA 2020/21
 
-**[J4]** L. Di Stefano, M. Marchionni, S. Mattoccia, “A fast area-based stereo matching algorithm”, Image and Vision Computing (IVC), 22(12), pages 983 – 1005, October 2004 [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0262885604000733)]
+33. Hamdi Ben Zaineb (I), “Test di un algoritmo per la stima del flusso ottico attraverso video sinteitci”, AA 2020/21
 
-**[J3]** L. Di Stefano, M. Marchionni, S. Mattoccia, "A PC-based real-time stereo vision system", Machine Graphics & Vision, 13(3), pages 197 – 220, January 2004
+34. Alice Montori (I), “Sperimentazione con algoritmi e reti stereo per guida di droni”, AA 2020/21
 
-**[J2]** L. Di Stefano, S. Mattoccia, “Fast template matching using Bounded Partial Correlation”, Machine Vision and Applications (MVA), 13(4), pages 213 – 221, February 2003 [[PDF](https://link.springer.com/article/10.1007/s00138-002-0070-5)]
+35. Arsal-Hanif Livoroi (I), “Analisi e ottimizzazione dei consumi energetici di un algoritmo per la stima del flusso ottico”, AA 2020/21
 
-**[J1]** L. Di Stefano, S. Mattoccia, “Real-time stereo within the VIDET project”, Real-Time Imaging (RTI), 8(5), pages 439 – 453, October 2002
+36. Alessio Mingozzi (IM), “Monitoraggio del distanziamento sociale mediante singola telecamera”, AA 2020/21 - Tesi vincitrice del premio di laurea sovvenzionato da Neocodex Srl in collaborazione con Vivat Academia APS presso l’Università di Bologna sulla tematica “Deep Learning e analisi di dati”
 
-International Conference and Workshop papers
+37. Giordano Laminetti (IM), “Depth estimation using deep learning and SLAM”, AA 2020/21
+
+38. Gabriel Hoogerwerf (I), “Analisi delle prestazioni di sistemi SLAM monoculari”, AA 2020/21
+
+39. Lorenzo Righi (I), “Filtro di Kalman applicato al tracciamento di persone in immagini”, AA 2020/21
+
+40. Alex Gianelli (I), “Sperimentazione con algoritmo di optical flow”, AA 2020/21
+
+41. Michele Ranallo (I), “Ottimizzazione streaming immagini con UDP”, AA 2020/21
+
+42. Leonardo Monti (I), “Calibrazione e rettifica di immagini stereo acquisite tramite smartphone”, AA 2020/21
+
+43. Andrea Conti (IM), “Diving between depth prediction and depth completion”, AA 2019/20
+
+44. Leone Ruggiero (I), “Generazione di sequenze sintetiche con Unity per la valutazione di algoritmi di computer vision”, AA 2019/20
+
+45. Davide Ragazzini (I), “Sistema per l'acquisizione remota di immagini”, AA 2019/20
+
+46. Niccolò Rosadi (I), “Detection di persone in immagini per una applicazione volta a verificare il distanziamento sociale”, AA 2019/20
+
+47. Lorenzo Felletti (I), “Predisposizione di strumenti web per il benchmark di algoritmi per la stima del flusso ottico”, AA 2019/20
+
+48. Enzo Famà (I), “Analisi della ripetibilità nella corrispondenza tra punti in immagini”, AA 2019/20
+
+49. Marko Vasileski (I), “Applicazione sensore depth low-power”, AA 2019/20
+
+50. Mattia Rossi (I), “Sviluppo di un framework per acquisizione remota di immaginii”, AA 2019/20
+
+51. Federico Pomponii (I), “Sviluppo di un simulatore DLX per scopi didattici”, AA 2019/20
+
+52. Filippo Paganelli (I), “Interazione tra oggetti reali e virtuali per applicazioni di realtà aumentata”, AA 2019/20
+
+53. Alessandro Musarella (I), “Realtà aumentata depth-aware con singola telecamera e dispositivi iOS”, AA 2019/20
+
+54. Daniele Menchetti (I), “Sviluppo di un software per il tracciamento di oggetti basato su deep learning”, AA 2019/20
+
+55. Mattia Mazzoli (I), “Sincronizzazione di multipli dispositivi per l'acquisizione immagini e stitching”, AA 2019/20
+
+56. Lorenzo Magnanelli (I), “Stima della confidenza di mappe di disparità mediante approcci basati su apprendimento idonei per sistemi con risorse limitate”, AA 2019/20
+
+57. Carlo Longhi (I), “Benchmark per la stima del flusso ottico in sequenze sintetiche”, AA 2019/20
+
+58. Luca Foianesi (I), “Analisi del consumo energetico di un algoritmo per la stima del flusso ottico”, AA 2019/20
+
+59. Alessandro Baldazzi (I), “Studio di un algoritmo per migliorare le mappe di disparità ottenute da un sistema stereo”, svolta presso Specialvideo Srl Imola, AA 2019/20
+
+60. Kevin Michael Frick (I), “Machine Learning for Semantic Visual SLAM”, svolta presso RAM, University of Twente, AA 2019/20
+
+61. Luca Bartolomei (I), “Sviluppo di un’applicazione di realtà aumentata depth-aware con sistema monoculare”, AA 2019/20
+
+62. Daniele Colautti (I), “Sistema distribuito per la generazione di pointcloud”, AA 2019/20
+
+63. Andrea D’Silva (I), “Creazione di video sintetici con Unity per la valutazione di algoritmi per flusso ottico”, AA 2019/20
+
+64. Cristian Di Fiore (I), “Ottimizzazioni di CNN con Intel OpenVINO”, AA 2019/20
+
+65. Marco Valdes (IM), “Ottimizzazione di reti convoluzionali mediante framework OpenVINO”, AA 2019/20
+
+66. Marco Zambella (I), “Algoritmo per l’estrazione di feature da immagini”, AA 2019/20
+
+67. Federico Cremonini (I), “Rilevazioni di oggetti dinamici da mappe scene flow”, AA 2019/20
+
+68. Marco Morozzi (I), “Riconoscimento automatico di targhe automobilistiche in tempo reale su smartphone Android”, AA 2018/19
+
+69. Matteo Rocca (I), “Ottimizzazioni di un algoritmo per stima del flusso ottico per sistemi embedded”, AA 2018/19
+
+70. Gabriele Corsi (I), “Sviluppo di una applicazione di realtà aumentata predisposta alla gestione delle occlusioni”, AA 2018/19
+
+71. Fabrizio Maccagnani (I), “Progetto di un simulatore di DLX per scopi didattici”, AA 2018/19
+
+72. Alessandro Foglia (I), “Progetto di un simulatore di RISC-V per scopi didattici”, AA 2018/19
+
+73. Luca Bongiovanni (I), “Sviluppo di una applicazione per la guida di un veicolo autonomo”, AA 2018/19  
+
+74. Gilberto Bertignon (I), “Applicazione di realtà aumentata con modelli 3D animati”, AA 2018/19
+
+75. Luigi Maccallini (I), “Sperimentazione con un software per il tracciamento di persone”, AA 2018/19
+
+76. Roberto Trentini (I), “Sperimentazione con algoritmo per misurare la similarità tra immagini”, AA 2018/19
+
+77. Parsa Dahesh (I), “Analisi delle prestazioni di sistemi per la stima della profondità da camera monoculare”, AA 2018/19
+
+78. Simone Dosi (I), “Sviluppo in Unity3D di un benchmark per la stima del flusso ottico”, AA 2018/19
+
+79. Gabriele Ragusa, (I), “Realtà aumentata con sensore depth monoculare”, AA 2018/19
+
+80. Davide Tazzioli (I), “Implementazione di algoritmi di computer vision in CUDA”, AA 2018/19
+
+81. Riccardo Turra (I), “Sperimentazione con algoritmi per la stima del flusso ottico con video sintetici”, AA 2018/19
+
+82. Sara Montanari (I),”Deep-learning per gender classification”, AA 2018/19
+
+83. Lucia La Forgia (I), “Ottimizzazione di algoritmi per estrazione di feature O(1) tramite multithreading”, AA 2018/19
+
+84. Aldo Topciu (I), “Applicazione di computer vision di ausilio per non vedenti”, AA 2018/19
+
+85. Matteo Sacco (I), “Implementazione di algoritmi per estrazione di feature da immagini in tempo costante”, AA 2018/19
+
+86. Enrico Ghidoni (I), “Sensori depth monoculari per sistemi embedded”, AA 2018/19
+
+87. Giulio Zaccaroni (I), “Monocular and stereo depth estimation on iOS devices”, AA 2018/19
+
+88. Mattia Dei (I), “Rendering 3D con Python per applicazioni di realtà aumentata”, AA 2018/19
+
+89. Federico Dal Monte (I), “Integrazione di un modello 3D dinamico in un'applicazione di realtà aumentata”, AA 2018/19
+
+90. Francesco Pace (I), “Sviluppo di un'applicazione per il riconoscimento automatico di targhe”, presso Brav Srl, AA 2018/19
+
+91. Michele Filippini (I), “Studio di algoritmi di outliers detection per applicazioni di realtà aumentata”, AA 2018/19
+
+92.Luca Ottavio Serafini (I), “Ricostruzione volumetrica 3D mediante LiDAR puntuale”, AA 2018/19
+
+93.Simone Gayed Said, “Utilizzo di dati depth ottenuti da singola telecamera per applicazioni di video sorveglianza”, AA 2018/19
+
+94. Mattia Spazzoli (I), “Sensore di prossimità embedded con dati depth”, AA 2018/19
+
+95. Michael Mengozzi (I), “Valutazione di algoritmi per la stima della posa da singola telecamera”, AA 2018/19 
+
+96. Andrea Bombino (IM), “Machine Learning Aided Methods for Resilient Industrial Wireless Sensor Network”, svolta presso Mid Sweden University, Svezia, AA 2017/18,
+
+97. Wenhao Wu (I), “Sistema per l'identificazione di immagini simili”, AA 2017/18
+
+98. Riccardo Muggiasca (I), “Sperimentazione con Arduino”, AA 2017/18
+
+99. Feres M’Hadhbi (I), “Identificazione di piani da immagini depth monoculari per applicazioni di realtà aumentata”, AA 2017/18
+
+100. Ugo Leone Cavalcanti (I), “Sistema di guida per veicolo autonomo”, AA 2017/18
+
+101. Alessandro Buldini (I), “Analisi del resto della divisione e applicazione a un algoritmo di fattorizzazione per sistemi embedded”, AA 2017/18
+
+102. Matteo Ferraresi (I), “Acquisizione di un dataset per sistema di ausilio per non vedenti”, AA 2017/18
+
+103. Fabrizio Torriano (I), “Sviluppo di un driver per telecamera 3D compatibile con OpenCV”, AA 2017/18
+
+104. Pierpaolo Perrozzi (IM), “Sistema di visione 3D per applicazione di safety”, svolta presso FAAC, Bologna, AA 2017/18
+
+105. Davide Giordano (I), “Calibrazione, rettificazione e caratterizzazione di un sistema stereo”, i AA 2017/18
+
+106. Alberto Pierini (I), “Feature augmentation per misure di confidenza”, AA 2017/18
+
+107. Lorenzo Balducci (I), “Filtro di Kalman per la regolarizzazione della stima della posa in applicazioni di realtà aumentata”, AA 2017/18
+
+108. Alessandro Fossa (I), “Applicazione di realtà aumentata 3D con telecamera monoculare”, AA 2017/18
+
+109. Andrea Valli (E), “Applicazione di computer vision”, in corso presso Teptrapak (sede di Modena)
+
+110. Davide Pallotti (IM), “Integrazione di dati di disparità sparsi in algoritmi per la visione stereo basati su deep-learning”,  AA 2017/18
+
+111. Lorenzo Andraghetti (IM), “Monocular Depth Estimation enhancement by depth from SLAM Keypoints”, svolta presso Univrses AB, Stockholm, Sweden, AA 2017/18
+
+112. Enrico Golfieri (IM), “Camera tracking in low textured environments”, svolta presso laboratorio RAM, University of Twente, AA 2017/18
+
+113. Mattia Gianessi (IM), “Robotica e intelligenza artificiale applicate alla validazione automotive”, svolta presso Automobili Lamborghini Spa, AA 2017/18
+
+114. Andrea Rossetto (IM), “CNN per view synthesis da mappe depth”, AA 2017/18
+
+115. Andrea Conti (I), “Misure di confidenza basate su machine learning per sistemi embedded”, AA 2017/18
+
+116. Mirko Martignon (I), “Identificazione di piani in nuvole di punti generate da sistema monoculare per applicazioni di realtà aumentata”, AA 2017/18
+
+117. Giordano Laminetti (I), “Applicazione di realtà aumentata”, AA 2017/18
+
+118. Alessandro Bovicelli (I), “Deep-learning applicato all'identificazione automatica di capi di bestiame”, AA 2017/18
+
+119. Giovanni Bonaccio (I), “Sviluppo di progetti per fini didattici con Arduino”, AA 2017/18
+
+120. Tommaso Liverani (I), “Sperimentazione con algoritmi di deep-learning su dispositivo Intel/Movidius stick”, AA 2017/18
+
+121. Matteo Boschini (IM), “Unsupervised Learning of Scene Flow”, AA 2017/18
+
+122. Mihail Bida (I), “Identificazione di marker in immagini per applicazioni di guida autonoma”, AA 2017/18
+
+123. Pietro Paolo Gentilucci (I), “Controllo di un rover per navigazione autonoma”, AA 2017/18
+
+124. Mounir Karoud (I), “Studio di soluzioni efficienti per filtri di convoluzione”, AA 2017/18
+
+125. Michela Minerva (I), “Training unsupervised di misure di confidenza”, AA 2017/18
+
+126. Giuseppe Obino (I), “Analisi di una metrica per la valutazione di keypoint detector”, AA 2017/18
+
+127. Leonardo Perugini (I), “Sviluppo di un sistema per l'identificazione di targhe automobilistiche”, AA 2017/18
+
+128. Federico Terzi (I), “Sviluppo di un sistema di Gesture Recognition”, AA 2017/18
+
+129. Filippo Aleotti (IM), “Adversarial Learning per predizione di mappe depth da singola immagine”, AA 2017/18
+
+130. Ali Alessio Salman (IM), “Review and evaluation of CNN compression approaches”, AA 2017/18
+
+131. Pasquale Presutti (IM), “Algoritmo per la generazione di mappe depth da immagini stereo con CNN ”, AA 2017/18
+
+132. Antonio Benincasa (IM), “Deep-learning per stima della confidenza di mappe depth”, AA 2017/18 [Articolo]
+
+133. Armando Mangiocco (IM), “Studio, sviluppo e ottimizzazione di algoritmi di visione 3D per applicazioni real-time”, AA 2017/18
+
+134. Dario Govoni (I), “Studio e implementazione dell'algoritmo di Coppersmith-Winograd per l'ottimizzazione di convoluzioni su piattaforma embedded”, AA 2017/18
+
+135. Onori Alesso (I), “Studio e sperimentazione con l'algoritmo di Strassen , AA 2017/18
+
+136. Alessandro Franca (I), “Generazione di immagini depth mediante un ambiente di computer grafica”, AA 2017/18
+
+137. Matteo Verucchi (I), “Studio e sperimentazione con un sistema di visual odometry”, AA 2017/18
+
+138. Marco Baraldi (I), “Sistema per la classificazione di persone mediante CNN”, AA 2017/18
+
+139. Francesco Frassineti (I), “Studio e valutazione di metodologie per velocizzare il prodotto scalare su dispositivi embedded”, AA 2017/18
+
+140. Gabriele Antonacci (I), “Registrazione di nuvole di punti acquisite da sensori depth basati su differenti tecnologie”, AA 2017/18
+
+141. Nicola Severini (I), “Studio e implementazione di algoritmi di convoluzione da implementare su piattaforma embedded”, AA 2016/17
+
+142. Marco Rossini (I), “Progettazione di filtri di convoluzione separabili su piattaforma embedded”, AA 2016/17
+
+143. Filippo Serafini (I), “Software per il labeling di immagini per l'addestramento di algoritmi di deep-learning”, AA 2016/17
+
+144. Gloria Sammaritani (I), “Sistema di gesture recognition”, AA 2016/17
+
+145. Alessandro Fusco (I), “Determinazione della confidenza di mappe depth tramite deep learning”, AA 2016/17
+
+146. Massimo Toscanelli (IT), “Sviluppo di un'applicazione di realtà aumentata”, AA 2016/17
+
+147. Kevin Selvaggi (I), “Algoritmo di visione stereo accurato e veloce”, AA 2016/17
+
+148. Luca Bonfiglioli (I), “Progettazione di filtri di convoluzione riconfigurabili per sistema embedded”, AA 2016/17
+
+149. Federico Bertoli (I), “Sistema per il trasferimento di immagini da SD card a memoria centrale di un sistema embedded”, AA 2016/17
+
+150. Alessio Mingozzi (I), “Progettazione di un sistema embedded per l'elaborazione real-time di immagini lette da dispositivo rimovibile”, AA 2016/17
+
+151. Marco Mazzoli (I), “Visualizzazione di immagini in streaming con browser da telecamera embedded ”, AA 2016/17
+
+152. Matteo Galletti (I), “Sperimentazione con algoritmi per la stima del flusso ottico”, AA 2016/17
+
+153. Simone Barbieri (I), “Applicazione delle regole di codifica del codice sorgente nell'ambito dei software di supervisione del traffico ferroviario sottoposti a normative CENELEC”, svolta presso Alstom Ferroviaria s.p.a. sede di Bologna, AA 2016/17
+
+154. Marco Boschi (I), “Valutazione sperimentale di algoritmi di disparity refinement”, AA 2016/17
+
+155. Daniele Bianchi (I), “Acquisizione ed elaborazione dati 3D da sensore Kinect”, AA 2016/17
+
+156. Andrea Boscarino (I), “Porting verso Mac e Linux di un client per un sistema di visione embedded”, AA 2016/17
+
+157. Mattia Sinigaglia (I), “Acquisizione ed elaborazione di immagini da telecamera USB su piattaforma Zynq”, AA 2016/17
+
+158. Utku Esen (IM), “Linux, FPGA and CNN”, Erasmus student (Istanbul, Turkey), AA 2016/17
+
+159. Fabio Tosi (IM), “Misure di confidenza e algoritmi per il refinement di mappe depth”, AA 2016/17
+
+160. Elisa Rimondi (IM), “Potential-path approach for unmanned aerial vehicle with pan and tilt on-board camera”, svolta presso Robotics and Mechatronics (RAM), University of Twente, Netherlands, AA 2016/17
+
+161. Stefano Nicoletti (IM), “Deep-learning applicato all’identificazione automatica di frutta da veicolo mobile ”, AA 2016/17
+
+162. Luca Chiossi (I), “Algoritmi per la determinazione dei parametri ottimali dell'algoritmo Semi Global Matching”, AA 2016/17
+
+163. Mattia Bernasconi (I), “Streaming di immagini via ethernet con sistemi operativi Linux e Baremetal per un sistema di visione embedded con elaborazione su FPGA”, AA 2016/17
+
+164. Matteo Pumo (I), “Studio e sviluppo di applicazioni Cross-Platform con tecnologia Xamarin”, svolta presso Vettore Rinascimento Srl Casalecchio, Bologna, AA 2016/17
+
+165. Lorenzo Novelli (E), “Ottimizzazione del firmware per sensori di immagine OV 7670”, AA 2016/17
+
+166. Gino Morello (I), “Sviluppo di un framework web basato su CGI per la valutazione di misure di confidenza”, AA 2016/17
+
+167. Ayoub Raji (I), “Sperimentazione con nuvole di punti generate da sensori 3D ”, AA 2016/17
+
+168. Andrea Reggidori (A), “Identificazione di ostacoli da dati 3D per applicazioni di guida autonoma ”, AA 2016/17
+
+169. Alessandro Maragno (IM), “Deep-learning su FPGA”, AA 2015/16
+
+170. Mattia Michelini (I), “Streaming di immagini con architettura Zynq e sistema operativo Linux”, AA 2015/16
+
+171. Gianluca Strada (I), “Studio di metodologie per l’analisi subpixel di dati depth”, AA 2015/16
+
+172. Davide Capponcelli (I), “Interazione con periferiche custom mediante Linux com architettura ARM”, AA 2015/16
+
+173. Francesco Maria Zobel (I), “Studio e sperimentazione di metodologie per la memorizzazione non volatile di informazioni su piattaforma embedded”, AA 2015/16
+
+174. Sigfrido Barbazza (I), “Deep-learning applicato all'identificazione automatica di frutta in immagini”, AA 2015/16
+
+175. Andrea Bombino (I), “Valutazione sperimentale di algoritmi di visione stereo finalizzata a una successiva implementazione su FPGA”, AA 2015/16
+
+176. Luca Buratti (I), “Valutazione sperimentale di metodologie di rettificazione e impatto su algoritmi di visione stereo”, AA 2015/16
+
+177. Riccardo Buscaroli (I), “Metodologie basate su deep-learning per l'identificazione automatica di oggetti in immagini”, AA 2015/16
+
+178. Lorenzo Chiarini (I), “Valutazione di metodologie di aggregazione di costi per algoritmi di visione stereo”, i AA 2015/16
+
+179. Giacomo Corticelli (I), “Sperimentazione con unità di misurazione inerziale”, AA 2015/16
+
+180. Luca Galardini o Gherardini (I), “Implementazione di algoritmi aggregazione stereo e smoothing che preservano le discontinuità”, AA 2015/16
+
+181. Mattia Gianessi (I), “Sviluppo di una app Android di ausilio per persone non vedenti”, AA 2015/16
+
+182. Federico Govoni (I), “Sperimentazione con metodologie di aggregazione stereo guidate dalla confidenza”, AA 2015/16
+
+183. Matteo Olivi (I), “Evaluation of confidence-driven cost aggregation strategies”, AA 2015/16
+
+184. Sara Serafini (I), “Implementazione e valutazione di funzioni di costo per algoritmi di visione stereo”, AA 2015/16
+
+185. Leonardo Campagna (I), “Miglioramento della qualità di immagini acquisite da sensori OV7670”, AA 2015/16
+
+186. Matteo Boschini (I), “A deep learning-based approach for 3D people tracking”, AA 2015/16
+
+187. Riccardo Albertazzi (I), “Sistema di visione stereo su architettura ZYNQ”, AA 2015/16
+
+188. Simone Mingarelli (I), “Streaming di immagini via ethernet con Zynq: sistemi operativi Standalone e Linux”, AA 2015/16
+
+189. Riccardo Zanella (I), “Studio e sperimentazione di metodologie per la gestione di condizione di illuminazione variabii con sensori di immagine digitali”, AA 2015/16
+
+190. Paolo Di Febbo (IM), “Real-time 3D sensing on FPGA:”, svolta presso Aquifi Inc, USA, AA 2015/16
+
+191. Matilde Ugolini (I), “Metodologie di apprendimento automatico applicate alla generazione di dati 3D”, AA 2015/16
+
+192. Luca Ranalli (I), “Sviluppo di metodologie per l'interazione tra un sistema di ausilio a ipovedenti e dispositivi iOSi”, AA 2015/16
+
+193. Pierpaolo Perrozzi(I), “Progetto di un dispositivo wireless di feedback tattile per un sistema di ausilio per non vedenti o ipovedenti”, AA 2015/16
+
+194. Andrea Garbugli (I), “Sperimentazione con algoritmi per l'analisi di nuvole di punti per applicazioni di guida autonoma”, AA 2015/16
+
+195. Michele Campobasso (I), “Studio e implementazione di algoritmi per il labeling di immagini”, AA 2015/16
+
+196. Vincenzo Villani (I), “Algoritmi per la correzione di distorsioni in immagini”, AA 2015/16
+
+197. Fabio Liguori (I), “Trasmissione di immagini via ethernet su piattaforma Zynq”, AA 2015/16
+
+198. Giacomo Zanotti (A), “Caratterizzazione di un sensore 3D basato su visione stereo”, AA 2015/16
+
+199. Valentina Cremonini (IM), “Metodologie di machine learning applicate a problemi di computer vision”, AA 2015/16
+
+200. Gabriele Franchitto (I), “Riconoscimento automatico di banconote con CNN”, AA 2015/16
+
+201. Simone Nigro (I), “Metodologie di machine learning applicate a un algoritmo stereo”, AA 2015/16
+
+202. Lorenzo Ciotti (I), “Studio di metodologie per l’implementazione di algoritmi di computer vision su Zynq”, AA 2014/15
+
+203. David Villa Fernandez (IM), “Implementazione di metodologie per il grabbing di immagini da telecamera stereo su piattaforma Zynq”, AA 2014/15
+
+204. Diego Garay Esteran (IM), “Implementazione di metodologie per il trasferimento dati tra ARM e FPGA su architettura Zynq in ambiente Linux”, AA 2014/15
+
+205. Davide Barchi (A), “Implementazione di un algortimo per l’individuzione di piani basato su normali e dati stereo”, AA 2014/15
+
+206. Guido Bocchiere (A), “Stima robusta della posizione di un telecamera 3D in movimento 3D mediante filtro di Kalman”, AA 2014/15
+
+207. Manuel Rucci (A), “Implementazione di un algortimo per l’individuzione di piani basato su dati stereo e region growing”, AA 2014/15
+
+208. Enrico Golfieri (I), “Implementazione di un algortimo per l’individuzione di piani basato su dati stereo e trasformata di Hough”, AA 2014/15
+
+209. Filippo Aleotti (I), “Sviluppo e sperimentazione con un sistema di SLAM 3D su piattaform NVidia TK1”, AA 2014/15
+
+210. Antonio Benincasa (I), “Imaplementazione di algoritmi di matching stereo”, AA 2014/15
+
+211. Luca Nanni (IT), “Sviluppo e sperimentazione con algoritmi di Deep Learning”, AA 2014/15 [Articolo]
+
+212. Pasquale Presutti (I), “Implementazione di algorimi per interpolazione subpixel”, AA 2014/15
+
+213. Armando Mangiocco (I), “Studio di misure di confidenza per sistemi stereo”, AA 2014/15
+
+214. Filippo Cantucci (EM), “Segmentazione e classificazione di oggetti mediante imagini depth e deep learning”, AA 2014/15
+
+215. Alessandro Mattei (IM), “Interfacciamento di sensori d'immagine stereo mediante connessione differenziale su piattaforma FPGA”, AA 2014/15
+
+216. Pierluigi Zama Ramirez (I), “Controllo di perriferiche mappate su piattaforma Zyn con Linux”, AA 2013/14
+
+217. Giulio Belletti (I), “Estensione di un sistema di ausilio per ipovedenti basato su visione 3D”, AA 2013/14
+
+218. Alì Alessio Salman (I), “Classificazione di imamgini mediante il framework Torch”, AA 2013/14
+
+219. Elisa Rimondi (I), “Classificazione di immagini con il framework Caffe”, AA 2013/14
+
+220. Valerio Poli (E), “Algoritmi di visione 3D per sistemi di guida autonoma”, AA 2013/14
+
+221. Marco Valdes (I), “Trasferimenti DMA su architettura Zynq”, AA 2013/14
+
+222. Michael Cavina (IM), “Registration of 3D stereo data for robotic applications”, AA 2013/14
+
+223. Simone Calisesi (IM), “TBD”, Tesi svolta presso Aquifi, Palo Alto, USA, AA 2013/14
+
+224. Matteo Poggi (IM), “Undisclosed”, svolta presso Aquifi, Palo Alto, USA, AA 2013/14
+
+225. Krzysztof Waldemar Smolik (IT), “TBD”, in corso presso Retinae, Bologna, AA 2013/14
+
+226. Christophe Ricco (I), “Metodologie per trasferimenti USB a banda garantita”, AA 2013/14
+
+227. Federica Albertini (I), “Algoritmi di optical flow”, AA 2013/14
+
+228. Fabio Tosi (I), “Metodologie per il filtering di dati generati da un sistema di visione stereo”, AA 2013/14
+
+229. Alessandro Muscoloni (I), “Sviluppo di un sistema di tracking 3D”, AA 2013/14 [Articolo]
+
+230. Giacomo Parmigiani (EM), “Algoritmi di visione per l'identificazione di ostacoli in immagini 3D generate da telecamera stereo”,  AA 2013/14
+
+231. Andrea Annovi (IM), “Metodologie di classificazione basate su informazioni 3D”, AA 2013/14
+
+232. Giuseppe Rizza, (A), “Controllo di un rover per navigazione autonoma mediante elaborazione real-time di dati 3D provenienti da stereo camera”, AA 2013/14
+
+233. Antonio Baratta (I), “Progetto di uno scanner 3D basato su proiezione laser/led”, AA 2013/14
+
+234. Marco Minelli (IM), “Progetto di una unità di misurazione inerziale per telecamera 3D”, AA 2013/14
+
+235. Alessandro Maragno (I), “Interfaccia grafica multipiattaforma per smart camera 3D”, AA 2012/13
+
+236. Antonio Genovese (A), “Sperimentazione con una libreria per la decodifica di bar code in immagini”, AA 2012/13
+
+237. Andrea Romanelli (IM), “Progetto di un sistema per il trasferimento in DMA di flussi video su piattaforma Zynq”, AA 2012/13
+
+238. Domenico Di Carlo (IM), “Progetto di una unità di elaborazione basata su architettura Zynq per applicazioni di computer vision”, AA 2012/13
+
+239. Gianfranco Mariosa (I), “Sviluppo di un’applicazione multipiattaforma per la visualizzazione in streaming di nuvole di punti 3D”, AA 2012/13
+
+240. Alessandro Piovani (I), "Modulo di comunicazione Giga Ethernet su FPGA", AA 2012/13
+
+241. Stefano Bruciati (IM), "Algoritmi per la generazione di dati 3D su FPGA", AA 2012/13
+
+242. Ilario Marchio (IM), "Mapping di algoritmi di computer vision su FPGA con tool di sintesi ad alto livello", AA 2012/13
+
+243. Paolo Macrì (IM), "Registrazione di dati 3D", in corso presso University of Twente (NL), AA 2012/13
+
+244. Valentina Cremonini (I), "Comunicazione GigaEthernet su FPGA", AA 2012/13
+
+245. Marco Mongitore (E), "Elaborazione di dati 3D per applicazioni di computer vision”, AA 2012/13
+
+246. Matteo Farina (E), "Valutazione di algortimi di visione stereo", AA 2012/13
+
+247. Matteo Poggi (I), “Porting di software e sviluppo di una interfaccia grafica multipiattaforma per una telecamera stereo real-time”, AA 2011/12 
+
+248. Enrico Baioni (IM), "Sviluppo e sperimentazione di algoritmi di visione stereo su FPGA", AA 2010/11
+
+249. Marco Fontana (E); "Sviluppo di un ambiente per la valutazione di algoritmi stereo su immagini reali", AA 2010/11 
+
+250. Vitaliano Gobbi (EM), "Progetto e sperimentazione di un convertitore seriale parallelo su FPGA per un flusso video LVDS a elevata frequenza generato da una telecamera stereo", AA 2010/11 
+
+251. Andrea Calafiore (I), "Sviluppo e sperimentazione con n sistema per l'analisi di espressioni del volto", AA 2010/11, svolta presso FAAC [News] [Video1] [Video2] 
+
+252. Giulio Gozzoli (A), "Controllo di un veicolo per navigazione autonoma mediante elaborazione di dati 3D in real-time", AA 2010/11
+
+253. Matteo Balestri (EM), "Algoritmi di visione stereo robusti rispetto a variazioni di illuminazione", AA 2010/11 
+
+254. Francesco Betti (EM), "Progetto di un'unità  di elaborazione per una telecamera stereo basata su FPGA Xilinx", AA 2010/11
+
+255. Stefano Coletta (I), "Sviluppo e valutazione di algortimi stereo per la guida assistita di veicoli", AA 2010/11 
+
+256. Carmine Di Fabio (IM), "Mapping of stereo vision algorithms on FPGA", Kakatiya Institute of Tecnologies and Science (India),  AA 2010/11
+
+257. Mattia Tampellini (EM), "Sviluppo e sperimentazione di un modulo USB 2.0 per una telecamera 3D basata su visione stereo", AA 2010/11
+
+258. Marco Viti (EM), "Algoritmi accurati di visione stereo su GPU mediante CUDA", AA 2009/10 [Articolo]
+
+259. Riccardo Viti (EM), "Ottimizzazione di algoritmi per la visione stereo", AA 2009/10
+
+260. Pavel Nistor (A), "Sviluppo di un sistema software per la valutazione di algoritmi stereo", AA 2009/10
+
+261. Federico Paris (E), "Algoritmi per la regolarizzazione di mappe 3D basati su segmentazione", AA 2009/10
+
+262. Daniele Drei (A), "Studio e sperimentazione di algoritmi  localmente consistenti per la corrsspondenza stereo", AA 2009/10
+
+263. Francesco Bellodi (E), "Ottimizazione di algoritmi stereo mediante istruzioni SIMD", AA 2009/10
+
+264. Albano Zaho (E), "Strumenti di sviluppo per il mapping di algoritmi di visione su GPU", AA 2009/10 
+
+265. Davide Nanni (EM), "Analisi di algoritmi di rettificazione stereo su FPGA", AA 2009/10
+
+266. Andrea Trenti  (E), "Studio e implementazione di algoritmi per la corrispondenza stereo basati su Scanline Optimization", AA 2008/09
+
+267. Guido Munari (E), "Acquisizione e visualizzazione di immagini da un sensore VGA tramite un driver VHDL",AA 2008/09
+
+268. Stefano Mengoni (E), "Algoritmi stereo accurati basati su supporto variabile", AA 2008/09
+
+269. Sara Bambi (A), "Sistema stereo con telecamere mobili per uso robotico: algoritmi di interpolazione dei parametri di calibrazione e analisi dell’errore nel calcolo delle distanze", svolta pressoControl Engineering Group, Univ. of Twente,  AA 2008/09
+
+270. Stefano Bernardini (E), "Implementazione di componenti Orcad  per il progetto di una telecamera stereo", AA 2008/09
+
+271. Filippo Cantucci (E), "Studio di algoritmi di bilateral filtering in tempo costante", AA 2008/09
+
+272. Fabio Bombini (I), "Valutazione sperimentale di algoritmi per la corrispondenza stereo per la visione robotica", AA 2008/09
+
+273. Giosuè Di Marco (E), "Analisi degli effetti del rumore in algoritmi per la corrispondenza stereo", AA 2007/08
+
+274. Andrea Zanetti (E), "Valutazione dellâ€™impatto di differenti tipologie di patterns su un sistema per la ricostruzione 3D di tipo space-time stereo", AA 2007/08
+
+275. Andrea Gambini (E), "Algoritmi per la corrispondenza stereo", AA 2007/08 [Articolo]
+
+276. Alessio Caroselli (E), "Ridefinizione architetturale e miglioramento delle prestazioni di un sistema di tracking 3D basato su visione stereo", AA 2007/08
+
+277. Simone Giardino (E), "Sviluppo di algoritmi di visione stereo basati su supporto di aggregazione variabile", AA 2007/08 [Articolo]
+
+278. Fabio Regoli (E), "Sistema di tracking 3D basato su visione stereo", AA 2007/08 [Articolo]
+
+279. Luca Gulminelli (E), "Sviluppo di modelli di rettificazione semplificati finalizzati ad una implementazione su FPGA", AA 2007/08 
+
+280. Danilo Paolino (E), "Studio di un sensore di immagine finalizzato allo sviluppo di una telecamera stereo", AA 2006/07
+
+281. Riccardo Viti (E), "Sviluppo di algoritmi esaustivi per block-matching e template matching", AA 2006/07 [Articolo]
+
+282. Fabio Tonelli (E), "Sviluppo di un sistema di change detection basato su informazioni 3D", AA 2006/07
+
+283. Marco Pignoloni (E), "Algoritmi efficienti per il block matching", AA 2005/06
+
+284. Kevin Gualandris, "Sviluppo di un ambiente software per la sperimentazione di algoritmi stereo", AA 2005/06
+
+285. Luca Baldini (E), "Sviluppo di un algoritmo di change detection basato su matching", AA 2005/06
+
+
+
+
+
+Internships (Tirocini)
 ------
 
-**[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), June 11–15, 2025, Nashville, Tennessee, USA [[PDF](https://arxiv.org/pdf/2412.04472)] [[Project](https://stereoanywhere.github.io/)] [[Code](https://github.com/bartn8/stereoanywhere/)]
+1.Nicole Ferrari (I), “Sincronizzazione di telecamera e sensre depth”, in corso
 
-**[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA 2025), May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/publications/ICRA_2025_HS-SLAM.pdf)] [[Project](https://zorangong.github.io/HS-SLAM/)] [Code]
- 
-**[C124]** E. Mannocci, M. Poggi, S. Mattoccia, “Drive with the flow”, IEEE International Conference on Robotics & Automation (ICRA 2025), USA, May 19–23, 2025, Atlanta, Georgia, USA [[PDF](/publications/ICRA_2025_Drive_with_flow.pdf)]
+2.Gabriele Piazzi (I), “Sviuppo applicazione software”, in corso presso S.I.R. Case Srl
 
-**[C123]** U. L. Cavalcanti, M. Poggi, F. Tosi, V. Cambareri, V. Zlokolica, S. Mattoccia, “CabNIR: A Benchmark for In-Vehicle Infrared Monocular Depth Estimation”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025), February 28–March 4, 2025, Tucson, Arizona, USA [[PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Cavalcanti_CabNIR_A_Benchmark_for_In-Vehicle_Infrared_Monocular_Depth_Estimation_WACV_2025_paper.pdf)] [[Dataset](https://cabnir.github.io/)]
+3. Andrea Pellicanò (I), “Sviluppo applicazione”, in corso presso S.E.P.R.I. s.r.l.
 
-**[C122]** L. Bartolomei, M. Poggi, A. Conti, S. Mattoccia, “LiDAR-Event Stereo Fusion with Hallucinations”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00932.pdf)] [[Project](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)]  
+4. Riccardo Corradini (I), “Sensor fusion”, in corso presso Spark Srl Reggio Emilia
 
-**[C121]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor”, European Conference on Computer Vision (ECCV 2024), September 29-October 4, 2024, Milano, Italy [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07836.pdf)] [[Project](https://andreaconti.github.io/projects/depth_on_demand/)] [[Code](https://github.com/andreaconti/depth-on-demand)]  
+5. Luca Pasquarè (I), “Sviluppo di firmware per microcontrollori”, in corso presso Vega Srl. Ponzano di Fermo
 
-**[C120]** R. Fan, M. Poggi, S. Mattoccia, “Exploring Few-Beam LiDAR Assistance in Self-Supervised Multi-Frame Depth Estimation”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), October 14–18, 2024, Abu Dhabi, UAE [[PDF](/publications/IROS_2024_Exploring_Few_Beam_LiDAR.pdf)]
+1. Luca Bartolomei (IM), “Algoritmi di visione stereo”, AA 2021/22
 
-**[C119]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, Y. Zhang, C. Wu, Z. He, S. Yin, J. Dong, Y. Liu, H. Jiang, J. Shi, Y. A, Y. Jin, D. Li, B. Ke, A. Obukhov, T. Wang, N. Metzger, S. Huang, K. Schindler, Y. Huang, J. Li, J. Zhang, Y. Wang, Z. Huang, T. Liu, Z. Cao, P. Li, J. Wang, W. Zhu, H. Geng, Y. Zhang, L. Lan, K. Xu, T. Sun, Q. Xu, S. Saini, A. Gupta, S. K. Mistry, A. Shukla, V. Jakhetiya, S. Jaiswal, Y. Sun, Z. Zheng, Y. Ning, J. Cheng, H. Liu, H. Huang, C. Yang, Z. Jiang, Y. Peng, A. Huang, J. Hwang, “NTIRE 2024 Challenge on HR Depth from Images of Specular and Transparent Surfaces”, New Trends in Image Restoration and Enhancement (NTIRE 2024), CVPR Workshop, June 17, 2024, Seattle, Washington, USA [[PDF](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ramirez_NTIRE_2024_Challenge_on_HR_Depth_from_Images_of_Specular_CVPRW_2024_paper.pdf)]
+2. Leonardo Bambini (I), “Studio strategie per tracking monoculare”, AA 2021/22
 
-**[C118]** L. Bartolomei, M. Poggi, A. Conti, F. Tosi, S. Mattoccia, “Revisiting depth completion from a stereo matching perspective for cross-domain generalization”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland [[PDF](https://vppdc.github.io/assets/paper.pdf)] [[Project](https://vppdc.github.io/)] [[Code](https://github.com/bartn8/vppdc/)]
+3. Matteo Rafaraci (IM), “Sviluppo applicazione gestione dati realtime per Edge computing” svolto presso Next-Stel Solutions s.r.l., AA 2020/21
 
-**[C117]** A. Conti, M. Poggi, V. Cambareri, S. Mattoccia, “Range-agnostic multi-view depth estimation with keyframe selection”, International Conference on 3D Vision 2024 (3DV 2024), March 18–21, 2024, Davos, Switzerland [[PDF](https://arxiv.org/pdf/2401.14401)] [[Project](https://andreaconti.github.io/projects/range_agnostic_multi_view_depth/)] [[Code](https://github.com/andreaconti/ramdepth)]
+4. Vladyslav Tymofieiev (I), “Studio sistemi di tracking monocular”, AA 2020/21
 
-**[C116]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “On-Site Adaptation for Monocular Depth Estimation with a Static Camera”, oral presentation at The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK [[PDF](https://papers.bmvc2023.org/0901.pdf)]
+5. Francesco Mazzucchelli (I), “Tirocinio inerente progetto distanziamento sociale”, AA 2020/21
 
-**[C115]** R. Fan, F. Tosi, M. Poggi, S. Mattoccia, “Lightweight Self-Supervised Depth Estimation with few-beams LiDAR Data”, The 34th British Machine Vision Conference (BMVC2023), November 20-24, 2023, Aberdeen, UK [[PDF](https://papers.bmvc2023.org/0356.pdf)]
+6. Valentino Cannas (I), “Studio propedeudico all’applicazione di strategie per la riduzione del flickering nel calcolo della depth da singola telecamera”, AA 2020/21
 
-**[C114]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo Without Pattern Projector”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Bartolomei_Active_Stereo_Without_Pattern_Projector_ICCV_2023_paper.pdf)] [[Project](https://vppstereo.github.io/)] [[Code](https://github.com/bartn8/vppstereo/)]  
+7. Gabriel Hoogerwerf (I), “Sperimentazione con framework di visual odometry monoculari”, AA 2020/21
 
-**[C113]** Y. Zhang, F. Tosi, S. Mattoccia, M. Poggi, “GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France  [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_GO-SLAM_Global_Optimization_for_Consistent_3D_Instant_Reconstruction_ICCV_2023_paper.pdf)] [[Code](https://github.com/youmi-zym/GO-SLAM)]
+8. Giuseppe Donadio (I), “Ottimizzazione di reti neurali con dispositivi Android”, AA 2020/21
 
-**[C112]** C. Zhao, M. Poggi, F. Tosi, l. Zhou, Q. Sun, Y. Tang,  S. Mattoccia, “GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_GasMono_Geometry-Aided_Self-Supervised_Monocular_Depth_Estimation_for_Indoor_Scenes_ICCV_2023_paper.pdf)] [[Code](https://github.com/zxcqlf/GasMono)] 
+9. Adele Bonacorsi (I), “Ottimizzazione di codice sfruttando multithreading”, AA 2020/21
 
-**[C111]** A. Costanzino, P. Zama Ramirez, M. Poggi, F. Tosi, S. Mattoccia, L. Di Stefano, “Learning Depth Estimation for Transparent and Mirror Surfaces”, IEEE/CVF International Conference on Computer Vision (ICCV 2023), October 4-6, 2023, Paris, France [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Costanzino_Learning_Depth_Estimation_for_Transparent_and_Mirror_Surfaces_ICCV_2023_paper.pdf)] [[Project](https://cvlab-unibo.github.io/Depth4ToM/)] [[Code](https://github.com/CVLAB-Unibo/Depth4ToM-code#-learning-depth-estimation-for-transparent-and-mirror-surfaces-iccv-2023-)]
+10. Luca Serafino (I), “Sviluppo di una applicazione di realtà aumentata per smartphone”, AA 2019/20
 
-**[C110]** Y. Zhang, M. Poggi, S. Mattoccia, “TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), October 1-5, 2023, Detroit, Michigan USA [[PDF](https://arxiv.org/pdf/2211.13755)] [[Project](https://youmi-zym.github.io/projects/TemporalStereo/)] [[Code](https://github.com/youmi-zym/TemporalStereo)]  
+11. Davide Greco (I), “Unity per immagini satellitari”, AA 2019/20
 
-**[C109]** Y. Zhang, X. Guo, M. Poggi, Z. Zhu, G. Huang, S. Mattoccia, “CompletionFormer: Depth Completion with Convolutions and Vision Transformers”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023), June 18-22, 2023, Vancouver, Canada [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_CompletionFormer_Depth_Completion_With_Convolutions_and_Vision_Transformers_CVPR_2023_paper.pdf)] [[Project](https://youmi-zym.github.io/projects/CompletionFormer/)] [[Code](https://github.com/youmi-zym/CompletionFormer?tab=readme-ov-file)] 
+12. Filippo Bignami (I), “Unity per flow estimation”, AA 2019/20
 
-**[C108]** R. Fan, M. Poggi, S. Mattoccia, “Contrastive Learning for Depth Prediction”, End-to-End Autonomous Driving: Perception, Prediction, Planning and Simulation (E2EAD) — CVPR 2023 Workshop, June 18, 2023, Vancouver, Canada [[PDF](https://openaccess.thecvf.com/content/CVPR2023W/E2EAD/papers/Fan_Contrastive_Learning_for_Depth_Prediction_CVPRW_2023_paper.pdf)] 
+13. Andrea D’Silva (I), “Generazione di scene sintetiche con Unity per valuazione algoritmi”, AA 2019/20
 
-**[C107]** J. Spencer, C. Stella Qian, M. Trescakova, C. Russell, S. Hadfield, E. W. Graf, W. J. Adams, A. J. Schofield, J. Elder, R. Bowden, A. Anwar, H. Chen, X. Chen, K. Cheng, Y. Dai, H. T. Hoa, S. Hossain, J. Huang, M. Jing, B. Li, C. Li, B. Li, Z. Liu, S. Mattoccia, S. Mercelis, M. Nam, M. Poggi, X. Qi, J. Ren, Y. Tang, F. Tosi, L. Trinh, S. M. N. Uddin, K. M. Umair, K. Wang, Y. Wang, Y. Wang, M. Xiang, G. Xu, W. Yin, J. Yu, Q. Zhang, C. Zhao, “The Second Monocular Depth Estimation Challenge”, 2nd Monocular Depth Estimation Challenge (MDEC) — CVPR 2023 Workshop, June 18, 2023, Vancouver, Canada [[PDF](https://openaccess.thecvf.com/content/CVPR2023W/MDEC/papers/Spencer_The_Second_Monocular_Depth_Estimation_Challenge_CVPRW_2023_paper.pdf)] 
+14. Luca Bartolomei (I), “Ottimizzazione di deep network per Android”, AA 2019/20
 
-**[C106]** P. Zama Ramirez, F. Tosi, L. Di Stefano, R. Timofte, A. Costanzino, M. Poggi, S. Salti, S. Mattoccia, J. Shi, D. Zhang, Y. A, Y. Jin, D. Li, C. Li, Z. Liu, Q. Zhang, Y. Wang, S. Yin, “NTIRE 2023 Challenge on HR Depth From Images of Specular and Transparent Surfaces”, 8th New Trends in Image Restoration and Enhancement Workshop and Challenges — CVPR 2023 Workshop, June 18, 2023, Vancouver, Canada [[PDF](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Ramirez_NTIRE_2023_Challenge_on_HR_Depth_From_Images_of_Specular_CVPRW_2023_paper.pdf)]
+15. Cristian Di Fiore (I), “Sperimentazione con OpenVINO”, AA 2019/20
 
-**[C105]** A. Conti, M. Poggi, S. Mattoccia, “Sparsity Agnostic Depth Completion”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023), Waikoloa, January 3-7, 2023, Hawaii, USA [[PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Conti_Sparsity_Agnostic_Depth_Completion_WACV_2023_paper.pdf)]
+16. Kevin Michael Frick (I), “Machine Learning for Semantic Visual SLAM”, AA 2019/20 svolto presso RAM, University of Twente
 
-**[C104]** J. Spencer, C. Stella Qian, C. Russell, S. Hadfield, E. Graf, W. Adams, A. J. Schofield, J. Elder, R. Bowden, H. Cong, S. Mattoccia, M. Poggi, Z. Khan Suri, Y. Tang, F. Tosi, H. Wang, Y. Zhang, Y. Zhang, C. Zhao, “The Monocular Depth Estimation Challenge”, Monocular Depth Estimation Challenge Workshop held in conjunction with IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023), January 7, 2023, Waikoloa, Hawaii, USA [[PDF](https://openaccess.thecvf.com/content/WACV2023W/MDEC/papers/Spencer_The_Monocular_Depth_Estimation_Challenge_WACVW_2023_paper.pdf)]
+17. Marco Morozzi (I), “Studio di framework di deep learning per LPR”, AA 2018/19
 
-**[C103]** R. Fan; Z. Li, M. Poggi, S. Mattoccia, “A Cascade Dense Connection Fusion Network for Depth Completion”, 33rd British Machine Vision Conference (BMVC 2022), 21-24 November 2022, London, UK [[PDF](https://bmvc2022.mpi-inf.mpg.de/0843.pdf)]
+18. Matteo Rocca (I), “Algoriitmi di computer vision per Raspberry PI”, AA 2018/19
 
-**[C102]** A. Conti, M. Poggi, F. Aleotti, S. Mattoccia, “Unsupervised confidence for LiDAR depth maps and applications”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), October 23-27, 2022, Kyoto, Japan [[PDF](https://arxiv.org/pdf/2210.03118)] 
+19. Zambella Marco (I), “Studio di metodi per estrazione di feature”, AA 2018/19
 
-**[C101]** M. Poggi, A. Conti, S. Mattoccia, “Multi-view Guided Multi-view Stereo”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), October 23-27, 2022, Kyoto, Japan [[PDF](https://arxiv.org/pdf/2210.11467)]
+20. Gabriele Ragusa, (I), “Studio di metodologie per realtà aumentata con dati depth”, AA 2018/19
 
-**[C100]** C. Zhao, Y. Zhang, M. Poggi, F. Tosi, X. Guo, Z. Zhu, G. Huang, Y. Tang, S. Mattoccia, “MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer”, International Conference on 3D Vision (3DV2022), September 12-15, 2022, Prague, Czechia [[PDF](https://arxiv.org/pdf/2208.03543)]
+21. Zaccaroni Giulio (I), “Deep-learning per smartphone”, AA 2018/19
 
-**[C99]** M. Poggi, P. Zama Ramirez, F. Tosi, S. Salti, S. Mattoccia, L. Di Stefano, “Cross-Spectral Neural Radiance Fields”, International Conference on 3D Vision (3DV2022), September 12-15, 2022, Prague, Czechia [[PDF](https://arxiv.org/pdf/2209.00648)] 
+22. Filippini Michele (I), “Studio preparatorio per applicazione di realtà aumentata”, AA 2018/19
 
-**[C98]** P. Zama Ramirez*, F. Tosi*, M. Poggi*, S. Salti, S. Mattoccia, L. Di Stefano, “Open challenges in deep stereo: the Booster dataset”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), June 19-24, 2022, New Orleans, Louisiana, USA [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ramirez_Open_Challenges_in_Deep_Stereo_The_Booster_Dataset_CVPR_2022_paper.pdf)]
+23. Matteo Sacco (I), “Studio di algoritmi per estrazione di feature da immagini  tempo costante”, AA 2018/19
 
-**[C97]** F. Tosi*, P. Zama Ramirez*, M. Poggi*, S. Salti, S. Mattoccia, L. Di Stefano, “RGB-Multispectral matching: dataset, learning methodology, evaluation”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), June 19-24, 2022, New Orleans, Louisiana, USA [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Tosi_RGB-Multispectral_Matching_Dataset_Learning_Methodology_Evaluation_CVPR_2022_paper.pdf)]
+24. Roberto Trentini (I), “Applicazione deep-learning”, AA 2018/19
 
-**[C96]** S. Kim*, M. Poggi*, S. Kim, K. Sohn, S. Mattoccia, “Meta-confidence estimation for stereo matching”, International Conference on Robotics and Automation (ICRA 2022), May 23-27, 2021, Philadelphia, Pennsylvania, USA [[PDF](/publications/ICRA_2022_META_CONF.pdf)]
+25. Dahesh Parsa (I), “Analisi di dati depth generati da sistema monoculare”, AA 2018/19
 
-**[C95]** F. Aleotti, F. Tosi, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural disparity refinement for arbitrary resolution stereo”, oral presentation at International Conference on 3D Vision (3DV 2021), virtual, December 1-3, 2021 - BEST PAPER AWARD HONORABLE MENTION [[PDF](https://arxiv.org/pdf/2110.15367)]
+26. Isodoro Misuraca (I), “Sperimentazione con Movidius Neural Stick”, AA 2018/19
 
-**[C94]** M. Poggi, F. Aleotti, S. Mattoccia, “Sensor-guided optical flow”, International Conference on Computer Vision (ICCV 2021), virtual, October 11-17, 2021 [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Poggi_Sensor-Guided_Optical_Flow_ICCV_2021_paper.pdf)]
+27. Aldo Topciu (I), “Identificazione di strisce pedonali da immagini”, AA 2018/19
 
-**[C93]** F. Aleotti, M. Poggi, S. Mattoccia, “Learning optical flow from still images”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), virtual, June 19-25, 2021 [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Aleotti_Learning_Optical_Flow_From_Still_Images_CVPR_2021_paper.pdf)]
+28. Francesco Pace (I), “Deep-learning applicato al riconoscimento automatico di targhe”, svolto presso Brav Srl, AA 2018/19
 
-**[C92]** C. Cai, M. Poggi, S. Mattoccia, P. Mordohai, “Matching-space stereo networks for cross-domain generalization”, 8th International Virtual Conference on 3D Vision (3DV 2020), November 25-28, 2020, virtually in Fukuoka, Japan [[PDF](https://arxiv.org/pdf/2010.07347)]
+29. Sara Montanari (I),” Deep-learning con Tensorflow”, AA 2018/19
 
-**[C91]** F. Aleotti, F. Tosi, L. Zhang, M. Poggi, S. Mattoccia, “Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560596.pdf)]
+30. Simone Dosi (I), “Studio di metodologie per generazione di dataset sintetici”, AA 2018/19
 
-**[C90]** M. Poggi, F. Aleotti, F. Tosi, G. Zaccaroni, S. Mattoccia, “Self-adapting confidence estimation for stereo”, 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020, virtually in Glasgow, UK [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690698.pdf)]
+31. Federico Zanotti (I), “Creazione di una piattaforma di machine learning/intelligenza artificiale”, svolto presso O3 Solutions, AA 2018/19
 
-**[C89]** M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, "Leveraging a weakly adversarial paradigm for joint learning of disparity and confidence estimation", 25th International Conference on Pattern Recognition (ICPR 2020), January 10-15, 2021, virtually in Milan, Italy [[PDF](/publications/ICPR_2020_WAN.pdf)]
+32. Giuseppe Staglianò (I), “Sperimentazione con software basato su random forest”, AA 2017/18
 
-**[C88]** M. Poggi, F. Aleotti, F. Tosi, S. Mattoccia, "On the uncertainty of self-supervised monocular depth estimation", IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), June 16-18, 2020, virtually in Seattle, Washington, USA [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Poggi_On_the_Uncertainty_of_Self-Supervised_Monocular_Depth_Estimation_CVPR_2020_paper.pdf)]
+33. Giovanni Bomaccio (I), “Sistema embedded per computer vision”, AA 2017/18
 
-**[C87]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, L. Di Stefano, S. Mattoccia, "Distilled semantics for comprehensive scene understanding from videos", IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), June 16-18, 2020, virtually in Seattle, Washington, USA [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tosi_Distilled_Semantics_for_Comprehensive_Scene_Understanding_from_Videos_CVPR_2020_paper.pdf)]
+34. Michela Minerva (I), “Studio di metodologie per il training unsupervised di algoritmi di machine learning”, AA 2017/18
 
-**[C86]** V. Peluso, A. Cipolletta, A. Calimera, M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, "Enabling monocular depth perception at the very edge", 2020 Low-Power Computer Vision Challenge (LPCVC) held in conjunction with CVPR 2020, June 15, 2020, virtually in Seattle, Washington, USA [[PDF](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w28/Peluso_Enabling_Monocular_Depth_Perception_at_the_Very_Edge_CVPRW_2020_paper.pdf)]
+35. Leonardo Perugini (I), “Deep-learning per identificazione di oggetti”, AA 2017/18
 
-**[C85]** P. L. Dovesi, M. Poggi, L. Andraghetti, M. Martí, H. Kjellström, A. Pieropan, S. Mattoccia, “Real-time semantic stereo Matching”, International Conference on Robotics and Automation (ICRA 2020), May 31-June 4, 2020, virtually in Paris, France [[PDF](https://arxiv.org/pdf/1910.00541)]
+36. Mihail Bida (I), “Line follower”, AA 2017/18
 
-**[C84]** F. Aleotti, M. Poggi, F. Tosi, S. Mattoccia, “Learning end-to-end scene flow by distilling single tasks knowledge”, Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 7-12, 2020, New York, USA [[PDF](https://cdn.aaai.org/ojs/6613/6613-13-9841-1-10-20200520.pdf)]
+37. Fady Samy Shafik Asaad (I), “Image streaming”, AA 2017/18
 
-**[C83]** L. Andraghetti , P. Myriokefalitakis, P. L. Dovesi, B. Luque, M. Poggi, A. Pieropan, S. Mattoccia, “Enhancing self-supervised monocular depth estimation with traditional visual odometry”, International Conference on 3D Vision (3DV 2019), September 16-19, 2019, Quebec City, Canada [[PDF](https://arxiv.org/pdf/1908.03127)]
+38. Xhevit Tabaku (I), “Streaming di immagini su piattaforma embedded”, AA 2017/18
 
-**[C82]** M. Poggi, D. Pallotti, F. Tosi, S. Mattoccia, “Guided stereo matching”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), June 16-20, 2019, Long Beach, California, USA [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Poggi_Guided_Stereo_Matching_CVPR_2019_paper.pdf)]
+39. Mattia Spazzoli (I), “Progetto in ambito industriale”, svolto presso Datalogic, AA 2017/18
 
-**[C81]** F. Tosi, F. Aleotti, M. Poggi, S. Mattoccia, "Learning monocular depth estimation infusing traditional stereo knowledge", IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), June 16-20, 2019, Long Beach, California, USA [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tosi_Learning_Monocular_Depth_Estimation_Infusing_Traditional_Stereo_Knowledge_CVPR_2019_paper.pdf)]
+40. Pietro Paolo Gentilucci (I), “Studio di un rover per applicazioni di navigazione autonoma”, AA 2017/18
 
-**[C80]** A. Tonioni, F. Tosi, M. Poggi, S. Mattoccia, L. Di Stefano, "Real-time self-adaptive deep stereo", oral presentation at IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019), June 16-20, 2019, Long Beach, California, USA [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tonioni_Real-Time_Self-Adaptive_Deep_Stereo_CVPR_2019_paper.pdf)]
+41. Fabio Scita (I), “Sviluppo di in videogame” svolta presso IV Productions, AA 2017/18
 
-**[C79]** F. Tosi , M. Poggi, S. Mattoccia, “Leveraging confident points for accurate depth refinement on embedded systems”, 15th IEEE Embedded Vision Workshop (EVW 2019) held in conjunction with CVPR 2019, June 16, 2019, Long Beach, California, USA [[PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/EVW/Tosi_Leveraging_Confident_Points_for_Accurate_Depth_Refinement_on_Embedded_Systems_CVPRW_2019_paper.pdf)]
+42. Matteo Verucchi (I), “Studio di un sistema di visual odometry”, AA 2017/18
 
-**[C78]** V. Peluso, A. Cipolletta, A. Calimera, M. Poggi, F. Tosi and S. Mattoccia, “Enabling energy-efficient unsupervised monocular depth estimation on ARMv7-based platforms”, Design Automation and Test in Europe (DATE 2019), March 25-29, 2019, Florence, Italy [[PDF](/publications/DATE_2019.pdf)]
+43. Alessandro Franca (I), “Obstacle detection per rover autonomo”, AA 2017/18
 
-**[C77]** C. Arcidiacono, M. Barbari, S. Benni, E. Carfagna, G. Cascone, L. Conti, L. Di Stefano, M. Guarino, L. Leso, D. Lovarelli, M. Mancino, S. Mattoccia, G. Minozzi, S. M. C. Porto, G. Provolo, G. Rossi, A. Sandrucci, A. Tamburini, P. Tassinari, N. Tomasello, D. Torreggiani and F. Valenti, “Smart Dairy Farming: Innovative Solutions to Improve Herd Productivity”, International Mid-Term Conference of the Italian Association of Agricultural Engineering, September 12-13, 2019, Matera, Italy
+44. Arsal-Hanif Muhammad (I), “Path planning”, AA 2017/18
 
-**[C76]** P. Zama Ramirez, M. Poggi, F. Tosi, S. Mattoccia, L. Di Stefano, "Geometry meets semantic for semi-supervised monocular depth estimation", 14th Asian Conference on Computer Vision (ACCV 2018), December 2-6, 2018, Perth, Australia [[PDF](https://arxiv.org/pdf/1810.04093)]
+45. Daniele Bianchi (I), “Acquisizione dati depth da sensori 3D”, AA 2016/17
 
-**[C75]** M. Poggi, F. Aleotti, F. Tosi, S. Mattoccia, “Towards real-time unsupervised monocular depth estimation on CPU”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1-5, 2018, Madrid, Spain [[PDF](https://arxiv.org/pdf/1806.11430)]
+46. Massimo Toscanelli (I), “Applicazioni di realtà aumentata”, AA 2016/17
 
-**[C74]** F. Tosi, M. Poggi, A. Benincasa, S. Mattoccia, “Beyond local reasoning for stereo confidence estimation with deep learning”, 15th European Conference on Computer Vision (ECCV 2018), September 8-14, 2018, Munich, Germany [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)]
+47. Simone Barbieri (I), “Sperimentazione con piattaforma SoC ARM+FPGA”, AA 2016/17
 
-**[C73]** F. Aleotti, F. Tosi, M. Poggi, S. Mattoccia, “Generative adversarial networks for unsupervised monocular depth prediction”, 3D Reconstruction in the Wild 2018 (3DRW2018), in conjunction with (ECCV 2018), September 14, 2018, Munich, Germany [[PDF](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Aleotti_Generative_Adversarial_Networks_for_unsupervised_monocular_depth_prediction_ECCVW_2018_paper.pdf)]
+48. Federico Bertoli (I), “Deep-learning applicato alla individuzione di espressioni del volto”, AA 2016/17
 
-**[C72]** M. Poggi, F. Tosi, S. Mattoccia, "Learning monocular depth estimation with unsupervised trinocular assumptions", 6th international conference on 3D Vision (3DV 2018), September 5-8, 2018, Verona, Italy [[PDF](https://arxiv.org/pdf/1808.01606)]
+49. Alessio Mingozzi (I), “Sistema embedded per l’automazione”, AA 2016/17
 
-**[C71]** P. Di Febbo, C. Dal Mutto, K. Tieu, S. Mattoccia, “KCNN: extremely-efficient hardware keypoint detection with a compact convolutional neural network”, 14th IEEE Embedded Vision Workshop (EVW 2018), held in conjunction with CVPR 2018, July 18, 2018, Salt Lake City, Utah, USA - BEST PAPER AWARD [[PDF](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Di_Febbo_KCNN_Extremely-Efficient_Hardware_CVPR_2018_paper.pdf)]
+50. Mattia Sinigaglia (I), “UVC e telecamera USB”, AA 2016/17
 
-**[C70]** M. Poggi, F. Tosi, S. Mattoccia, “Quantitative evaluation of confidence measures in a machine learning world”, spotlight presentation at International Conference on Computer Vision (ICCV 2017), October 22-29, 2017, Venice, Italy [[PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Poggi_Quantitative_Evaluation_of_ICCV_2017_paper.pdf)]
+51. Davide Capponcelli (I), “Metodologie di interazione tra Linux e FPGA”, AA 2015/16
 
-**[C69]** A. Tonioni, M. Poggi, S. Mattoccia, L. Di Stefano, “Unsupervised adaptation for deep stereo”, International Conference on Computer Vision (ICCV 2017), October 22-29, 2017, Venice, Italy [[PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf)]
+52. Alessio Mora (I), “Stima delle prestazioni di un sistema 3D”, AA 2015/16
 
-**[C68]** F. Tosi, M. Poggi, A. Tonioni, L. Di Stefano, S. Mattoccia, “Learning confidence measures in the wild”, 28th British Machine Vision Conference (BMVC 2017), September 4-7, 2017, Imperial College London, UK [[PDF](/publications/BMVC_2017.pdf)]
+53. Leonardo Campagna (I), “Studio di metodologie per l'interazione tra Linux e periferiche dedicate”, AA 2015/16
 
-**[C67]** M. Poggi, F. Tosi, S. Mattoccia, “Efficient confidence measures for embedded stereo”, 19th International Conference on Image Analysis and Processing (ICIAP 2017), September 11-15, 2017, Catania, Italy [[PDF](/publications/ICIAP_2017.pdf)]
+54. Matteo Pumo (I), “Approfondimento su CNN”, AA 2015/16
 
-**[C66]** M. Poggi, S. Mattoccia, “Learning to predict stereo reliability enforcing local consistency of confidence maps”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), July 21-26, 2017, Honolulu, Hawaii, USA [[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Poggi_Learning_to_Predict_CVPR_2017_paper.pdf)]
+55. Mattia Gianessi (I), ”Applicazione Android di ausilio per non vedenti”, AA 2015/16
 
-**[C65]** M. Poggi, F. Tosi, S. Mattoccia, “Even more confident predictions with deep machine-learning”, 13th IEEE Embedded Vision Workshop (EVW2017) held in conjunction with IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), July 21, 2017, Honolulu, Hawaii, USA [[PDF](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Poggi_Even_More_Confident_CVPR_2017_paper.pdf)]
+56. Andrea Bombino (I), “Caratterizzazione di un sistema di visione 3D”, AA 2015/16
 
-**[C64]** M. Poggi, S. Mattoccia, “Evaluation of variants of the SGM algorithm aimed at implementation on embedded or reconfigurable devices”, International Conference on 3D Imaging (IC3D), 13-14 December 2016, Liège, Belgium
+57. Luca Buratti (I), “Sviluppo di un software per acquisizione immagini”, AA 2015/16
 
-**[C63]** M. Boschini, M. Poggi, S. Mattoccia, “Improving the reliability of a 3D people tracking leveraging on deep-learning”, International Conference on 3D Imaging (IC3D), 13-14 December, 2016, Liège, Belgium
+58. Ricardo Albertazzi (I), “Sperimentazione con un sistema di computer vision su Zynq”, AA 2015/16
 
-**[C62]** P. Di Febbo, S. Mattoccia, C. Dal Mutto, “Real-time image distortion correction: analysis and evaluation of FPGA-compatible algorithms”, 2016 International Conference on Reconfigurable Computing and FPGAs (Reconfig 2016), November 30-December 2, 2016, Cancun, Mexico [[PDF](/publications/ReConFig_2016.pdf)]
+59. Matteo Boschini (I), “Tracking 3D con sistema embedded”, AA 2015/16
 
-**[C61]** M. Poggi, S. Mattoccia, “Learning a general-purpose confidence measure based on O(1) features and a smarter aggregation strategy for semi global matching”, oral presentation at the 2016 International Conference on 3D Vision (3DV 2016), October 25-28, 2016, Stanford University, California, USA [[PDF](/publications/3DV_2016_SMARTER_SGM.pdf)]
+60. Luca Chiossi (I), “Deep-learning su GPU”, AA 2015/16
 
-**[C60]** M. Poggi, S. Mattoccia, “Deep stereo fusion: combining multiple disparity hypotheses with deep-learning”, 2016 International Conference on 3D Vision (3DV 2016), October 25-28, 2016, Stanford University, California, USA [[PDF](/publications/3DV_2016_DSF.pdf)]
+61. Luca Ranalli (I), “Applicazioni iOS”, AA 2014/15
 
-**[C59]** G. Marin, P. Zanuttigh, S. Mattoccia, “Reliable fusion of ToF and stereo depth driven by confidence measures”, 14th European Conference on Computer Vision (ECCV 2016), October 8-16, 2016, Amsterdam, Netherland [[PDF](/publications/ECCV_2016_FUSION.pdf)]
+62. Pierpaolo Perrozzi (I), “Comunicazione sistema embedded Linux e smartphone iOS”, AA 2014/15
 
-**[C58]** M. Poggi, S. Mattoccia, “Learning from scratch a conﬁdence measure”, 27th British Machine Vision Conference (BMVC 2016), September 19-22, 2016, York, UK [[PDF](/publications/BMVC_2016.pdf)]
+63. Enrico Golfieri (I), “Studio di un algortimo per l’individuzione di piani basato su nuvola di punti e trasformata di Hough”, AA 2014/15
 
-**[C57]** M. Poggi, S. Mattoccia, “A wearable mobility aid for the visually Impaired based on embedded 3D vision and deep learning”, First IEEE Workshop on ICT Solutions for eHealth (IEEE ICTS4eHealth 2016) in conjunction with the Twenty-First IEEE Symposium on Computers and Communications, June 27-30, 2016, Messina, Italy [[PDF](/publications/ICTS_2016.pdf)]
+64. Filippo Aleotti (I), “Porting di un sistema di SLAM 3D su piattaform NVidia TK1”, AA 2014/15
 
-**[C56]** S. Mattoccia, M. Poggi, “A passive RGBD sensor for  accurate and real-time depth sensing self-contained into an FPGA”, 9th ACM/SIGBED International Conference on Distributed Smart Cameras (ICDSC 2015), September 8-11, 2015, Seville, Spain [[PDF](/publications/ICDSC_2015.pdf)]
+65. Antonio Benincasa (I), “Studio di algoritmi di matching stereo”, i AA 2014/1
 
-**[C55]** M. Poggi, L. Nanni, S. Mattoccia, “Crosswalk recognition through pointcloud processing and deep-learning suited to a wearable mobility aid for the visually impaired”, Image-based Smart City Application (ISCA2015), September 8, 2015, Genova, Italy [[PDF](/publications/ISCA_2015.pdf)]
+66. Andrea Garbugli (I), “Studio di un SDK per droni DJI”, AA 2014/15
 
-**[C54]** A. Muscoloni, S. Mattoccia, “Real-time tracking with an embedded 3D camera with FPGA processing”, International Conference on 3D (IC3D), 9-10 Dec, 2014, Liège, Belgium
+67. Luca Nanni (I), “Studio e sperimentazione con algoritmi di Deep Learning”, AA 2014/15
 
-**[C53]** S. Mattoccia, P. Macrì, “3D glasses as mobility aid for visually impaired people”, Second Workshop on Assistive Computer Vision and Robotics (ACVR2014), ECCV Worskhop, September 12, 2014, Zürich, Switzerland [[PDF](/publications/ACVR_2014.pdf)]
+68. Pasquale Presutti (I), “Studio di algorimi per interpolazione subpixel”, AA 2014/15
 
-**[C52]** S. Mattoccia, P. Macrì, “A real time 3D sensor for smart cameras”, Eighth ACM/IEEE International Conference on Distributed Smart Cameras (ICDSC 2014), November 4-7, 2014, Venice, Italy [[PDF](/publications/ICDSC_2014.pdf)]
+69. Vincenzo Villani (I), “Studio di algoritmi per la rettificazione di immagini”, AA 2014/15
 
-**[C51]** S. Mattoccia, P. Macrì, G. Parmigiani, G. Rizza, “A compact, lightweight and energy efficient system for autonomous navigation based on 3D vision”, 10th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA 2014), September 10-12, 2014, Senigallia, Italy
+70. Armando Mangiocco (I), “Studio di misure di confidenza per sistemi stereo”, AA 2014/15
 
-**[C50]** S. Mattoccia, I. Marchio, M. Casadio, “A compact 3D camera suited for mobile and embedded vision applications”, 4th IEEE Mobile Vision Workshop, CVPR 2014, June 23, 2014, Columbus, Ohio, USA - BEST DEMO PAPER AWARD
+71. Federica Albertini (I), “Studio di algoritmi di optical flow”, AA 2013/14
 
-**[C49]** S. Mattoccia, “Stereo vision algorithms on FPGAs”, 9th IEEE Embedded Vision Workshop, CVPR 2013, June 24, 2013, Portland, Oregon, USA - INVITED PAPER [[PDF](/publications/EVW_2013.pdf)]
+72. Fabio Tosi (I), “Studio di metodologie di filtering per mappe di disparità”, AA 2013/14
 
-**[C48]** C. Dal Mutto, P. Zanuttigh, S. Mattoccia, G. Cortelazzo, "Locally consistent ToF and stereo data fusion", 2nd Workshop on Consumer Depth Cameras for Computer Vision (CDC4CV2012), ECCV2012 Workshop, October 12, Firenze, Italy [[PDF](/publications/CDC4CV_2012.pdf)]
+73. Alessandro Muscoloni (I), “Filtro di Kalman per applicazioni di computer vision”, AA 2013/14
 
-**[C47]** S. Mattoccia, L. De-Maeztu, "A fast segmentation-driven algorithm for stereo correspondence", International Conference on 3D (IC3D 2011), December 7-8, 2011, Liege, Belgium
+74.Demitrios Boeri Gramatikou (E), “Sperimentazione con sistema di ausilio per ipovedenti”, AA 2013/14
 
-**[C46]** L. De-Maeztu, S. Mattoccia, A. Villanueva, R. Cabeza, "Efficient aggregation via iterative block-based adapting support weight",International Conference on 3D (IC3D 2011), December 7-8, 2011, Liege, Belgium
+75. Krzysztof Waldemar Smolik (I), “Ottimizzazione di algoritmi di computer vision”, tirocnio svolto presso Retinae, Bologna, AA 2013/14
 
-**[C45]** L. De-Maeztu, S. Mattoccia, A. Villanueva, R. Cabeza, "Linear stereo matching", International Conference on Computer Vision (ICCV 2011), November 6-13, 2011, Barcelona, Spain [[PDF](/publications/ICCV_2011.pdf)]
+76. Daniele Drei (A), "Studio e sperimentazione di algoritmi localmente consistenti per la corrispondenza stereo", AA 2009/10
 
-**[C44]** S. Mattoccia, M. Viti, F. Ries, "Near real-time Fast Bilateral Stereo on the GPU", 7th IEEE Workshop on Embedded Computer Vision (ECVW 2011), CVPR Workshop, June 20, 2011, Colorado Springs, Colorado, USA - BEST PAPER AWARD [[PDF](/publications/EVW_2011.pdf)]
+**[I10]** Stefano Mengoni (E), "Algoritmi di visione stereo basati su supporto variabile e ordinamento", AA 2008/09
+**[I9]** Sara Bambi (A), "Metodologie di rettificazione per un sistema stereo basato su telecamere mobili", svolto presso Control Engineering Group, University of Twente, AA 2008/09
+**[I8]** Giampaolo Falato (A), "Algoritmi di matching stereo per applicazioni di robotica", svolto presso Control Engineering Group, University of Twente, AA 2008/09
+**[I7]** Guido Munari (E), "Implementazione in linguaggio VHDL e testing di un processore DLX su scheda FPGA Xilinx", AA 2008/09 
+**[I6]** Andrea Zanetti (E), "Sistema per il rilevamento di graffiti basato su sensore time-of-flight (TOF)", AA 2007/08
+**[I5]** Mattia Tampellini (E), "Progetto logico di una telecamera stereo dotata di interfaccia USB 2.0", AA 2007/08
+**[I4]** Fabio Regoli (E), "Algoritmi di matching efficienti mediante partizionamento ottimale del template", AA 2007/08
+**[I3]** Alessio Caroselli (E), "Caratterizzazione di un sistema di visione stereo", AA 2007/08
+**[I2]** Simone Giardino (E), "Sviluppo di algoritmi di pattern matching invarianti rispetto a rotazione, scala e contrasto", AA 2007/08
+**[I1]** Riccardo Viti (E), "Ottimizzazione di un algoiritmo di template matching mediante scelta ottima dei parametri di partizionamento", AA 2006/07
 
-**[C43]** L. De-Maeztu, S. Mattoccia, A. Villanueva, R. Cabeza, "A novel heterogeneous framework for stereo matching", International Conference on Image Processing, Computer Vision and Pattern Recognition (IPCV 2011), July 18-21, 2011, Las Vegas, Nevada, USA
-
-**[C42]** C. Dal Mutto, P. Zanuttigh, G. M. Cortelazzo, S. Mattoccia, "Scene segmentation assisted by stereo vision", First joint 3DIM/3DPVT Conference on 3D Imaging, Modeling, Processing, Visualization and Transmission (3DIMPVT 2011), May 16-19, 2011, Hangzhou, China
-
-**[C41]** F. Tombari, S. Mattoccia, L. Di Stefano, "Stereo for robots: quantitative evaluation of efficient and low-memory dense stereo algorithms", 11th International Conference on Control, Automation, Robotics and Vision (ICARCV2010), December 7-10, 2010, Singapore, Singapore 
-
-**[C40]** F. Tombari, L. Di Stefano, S. Mattoccia, A. Mainetti, "A 3D reconstruction system based on improved spacetime stereo", 11th International Conference on Control, Automation, Robotics and Vision (ICARCV2010), December 7-10, 2010, Singapore, Singapore
-
-**[C39]** S. Mattoccia, "Accurate dense stereo by constraining local consistency on superpixels", 20th International Conference on Pattern Recognition (ICPR2010), August 23-26, 2010, Istanbul, Turkey
-
-**[C38]** S. Mattoccia, "Fast locally consistent dense stereo on multicore", Sixth IEEE Embedded Computer Vision Workshop (ECVW2010), CVPR workshop, June 13, 2010, San Francisco, California, USA
-
-**[C37]** S. Mattoccia, "Improving the accuracy of fast dense stereo correspondence algorithms by enforcing local consistency of disparity fields", 3D Data Processing, Visualization and Transmission (3DPVT2010), May 17-20, 2010 Paris, France
-
-**[C36]** F. Tombari, A. Lanza, L. Di Stefano, S. Mattoccia, "Non-linear parametric Bayesian regression for robust background subtraction", Workshop on Motion and Video Computing (WMCV/MOTION) as part of IEEE Winter Vision Meetings 09, December 7-10, 2009, Snowbird, Utah, USA
-
-**[C35]** S. Mattoccia, "A locally global approach to stereo correspondence", IEEE Workshop on 3D Digital Imaging and Modeling (3DIM2009), ICCV workshop, October 3-4, 2009, Kyoto, Japan
-
-**[C34]** S. Mattoccia, S. Giardino, A. Gambini, "Accurate and efficient cost aggregation strategy for stereo correspondence based on approximated joint bilateral filtering", Asian Conference on Computer Vision (ACCV2009), September 23-27, 2009,  Xi'an, China
-
-**[C33]** S. Mattoccia, F. Tombari, L. Di Stefano, "Enhanced low-resolution pruning for fast full-search template matching", Advanced Concepts for Intelligent Vision Systems (ACIVS 2009), September 28-October 2, 2009,  Bordeaux, France
-
-**[C32]** F. Tombari, S. Mattoccia, L. Di Stefano, F. Regoli, R. Viti, "A template analysis methodology to improve the efficiency of fast matching algorithms", Advanced Concepts for Intelligent Vision Systems (ACIVS 2009), September 28-October 2, 2009,  Bordeaux, France
-
-**[C31]** F. Tombari, S. Mattoccia, L. Di Stefano, E. Addimanda,“Near real-time stereo based on effective cost aggregation", International Conference on Pattern Recognition (ICPR 2008), December 8-11, 2008, Tampa, Florida, USA
-
-**[C30]** P. Azzari, L. Di Stefano, S. Mattoccia, “An evaluation methodology for image mosaicing algorithms" , Advanced Concepts for Intelligent Vision Systems (ACIVS 2008), Lecture Notes in Computer Science 5259, pages 89-100, Springer 2008, October 20-24, 2008, Juan-les-Pins, France
-
-**[C29]** F. Tombari, L. Di Stefano, S. Mattoccia, A. Zanetti, “Graffiti detection using a Time-Of-Flight camera" , Advanced Concepts for Intelligent Vision Systems (ACIVS 2008), Lecture Notes in Computer Science 5259, pages 645-654, Springer 2008, October 20-24, 2008, Juan-les-Pins, France
-
-**[C28]** L. Di Stefano, F. Tombari, A. Lanza, S. Mattoccia, S. Monti, “Graffiti detection using two views", 8th International Workshop on Visual Surveillance (VS 2008), ECCV workshop, October 17, 2008, Marseille, France
-
-**[C27]** S. Mattoccia, F. Tombari, L. Di Stefano, “Reliable rejection of mismatching candidates for efficient ZNCC template matching", IEEE International Conference on Image Processing (ICIP 2008), October 12-15, 2008, San Diego, California, USA
-
-**[C26]** L. Di Stefano, F. Tombari,  S. Mattoccia, M. Balasso, “Multi-view access monitoring and singularization in interlocks", IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS 2008), September 1-3, 2008, Santa Fe, New Mexico, USA
-
-**[C25]** P. Azzari, L. Di Stefano, F. Tombari, S. Mattoccia, “Markerless augmented reality using image mosaics", International Conference on Image and Signal Processing (ICISP 2008), Lecture Notes in Computer Science 5099, pages 413-420, Springer 2008, July 1-3, 2008, Cherbourg-Octeville, Normandy, France
-
-**[C24]** F. Tombari, S. Mattoccia, L. Di Stefano, E. Addimanda, “Classification and evaluation of cost aggregation methods for stereo correspondence",IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2008), June 24-26, 2008, Anchorage, Alaska
-
-**[C23]** F. Tombari, L. Di Stefano, S. Mattoccia, A. Galanti, “Performance evaluation of robust matching measures", 3rd International Conference on Computer Vision Theory and Applications (VISAPP 2008), January 22-25, 2008, Funchal - Madeira, Portugal
-
-**[C22]** F. Tombari, S. Mattoccia, L. Di Stefano, “Segmentation-based adaptive support for accurate stereo correspondence", IEEE Pacific-Rim Symposium on Image and Video Technology (PSIVT 2007), Lecture Notes in Computer Science 4872, pages 427-438, Springer 2007, December 17-19, 2007, Santiago, Chile
-
-**[C21]** F. Tombari, S. Mattoccia, L. Di Stefano, F. Tonelli, “Detecting motion by means of 2D and 3D information", Workshop on Multi-dimensional and Multi-view Image Processing (ACCV 2007 WS), ACCV workshop, November 19, 2007, Tokyo, Japan
-
-**[C20]** L. Di Stefano, F. Tombari, S. Mattoccia, E.  De Lisi, “Robust and accurate change detection under sudden illumination variations", Workshop on Multi-dimensional and Multi-view Image Processing (ACCV 2007 WS), ACCV workshop, November 19, 2007, Tokyo, Japan
-
-**[C19]** S. Mattoccia, F. Tombari, L. Di Stefano,“Stereo vision enabling precise border localization within a scanline optimization framework", 8th Asian Conference on Computer Vision (ACCV 2007), Lecture Notes in Computer Science 4844, Part II, pages 517-527, Springer 2007, November 18-22, 2007, Tokyo, Japan
-
-**[C18]** F. Tombari, L. Di Stefano, S. Mattoccia, “A robust measure for visual correspondence", 14th IAPR International Conference on Image Analysis and Processing  (ICIAP 2007), pp. 376-381, September 10-13, 2007, Modena, Italy
-
-**[C17]** S. Mattoccia, F. Tombari, L. Di Stefano, M. Pignoloni, “Efficient and optimal block matching for motion estimation", 14th IAPR International Conference on Image Analysis and Processing (ICIAP 2007), pp. 705-710, September 10-13, 2007, Modena, Italy
-
-**[C16]** F. Tombari, S. Mattoccia, L. Di Stefano, “Template Matching based on the Lp norm using sufficient conditions with incremental  approximations", IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS 2006), November  22-24, 2006, Sydney, Australia
-
-**[C15]** L. Di Stefano, S. Mattoccia, F. Tombari, “Speeding-up NCC-based template matching using parallel multimedia instructions", IEEE International Workshop on Computer Architecture for Machine Perception (CAMP 2005), pages 193-197, July 4-6, 2005, Palermo, Italy
-
-**[C14]** L. Di Stefano, S. Mattoccia, M. Mola, “A change-detection algorithm enabling intelligent background maintenance", International Conference on Image Analysis and Recognition (ICIAR 2004), Lecture Notes in Computer Science 3212, Springer  2004, pages 437-445, September 29-October 1, 2004, Porto, Portugal
-
-**[C13]** L. Di Stefano, S. Mattoccia, F. Tombari, “An algorithm for efficient and exhaustive template matching", International Conference on Image Analysis and Recognition (ICIAR 2004), Lecture Notes in Computer Science 3212, Springer 2004, pages 408-415, September 29-October 1, 2004, Porto, Portugal
-
-**[C12]** L. Di Stefano, S. Mattoccia, M. Mola, “An efficient algorithm for exhaustive template matching based on Normalized Cross Correlation", 12th IAPR International Conference on Image Analysis and Processing  (ICIAP 2003), September 17-19, 2003, Mantova, Italy
-
-**[C11]** L. Di Stefano, S. Mattoccia, “A sufficient condition based on the Cauchy-Schwarz inequality for efficient template matching", IEEE International Conference on Image Processing (ICIP 2003), September 14-17, 2003, Barcelona, Spain
-
-**[C10]** L. Di Stefano, S. Mattoccia, M. Mola, "A change detection algorithm based on structure and colour", IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS 2003), July 21-22, 2003, Miami, Florida, USA
-
-**[C9]** L. Di Stefano, S. Mattoccia, G. Neri, D. Piccinini, “Exploiting temporal consistency to improve stereo results", IAPR International Conference on Image and Signal Processing (ICISP 2003), June 25-27, 2003, Agadir, Morocco
-
-**[C8]** L. Di Stefano, M. Marchionni, S. Mattoccia, “Real time dense stereo on a personal computer”, 6th IEEE International Workshop on Computer Architectures for Machine Perception (CAMP 2003), May 12-14, 2003, New Orleans, Louisiana, USA
-
-**[C7]** L. Di Stefano, M. Marchionni, S. Mattoccia, G. Neri, “Quantitative evaluation of area-based stereo matching”, 7th International Conference on Control, Automation, Robotics and Computer Vision (ICARCV 2002), December 2-5, 2002, Singapore, Singapore
-
-**[C6]** L. Di Stefano, M. Marchionni, S. Mattoccia, G. Neri, “Dense stereo based on the uniqueness constraint”, 16th IAPR/IEEE International Conference on Pattern Recognition  (ICPR 2002), August 11-15, 2002, Quebec City, Canada
-
-**[C5]** L. Di Stefano, M. Marchionni, S. Mattoccia, G. Neri, “A fast area-based stereo matching algorithm”, 15th IAPR/CIPRS International Conference on Vision Interface  (VI 2002), May 27-29, 2002, Calgary, Canada
-
-**[C4]** L. Di Stefano, S. Mattoccia, G. Neri, D. Piccinini , “Temporal filtering of disparity measurements”, 11th IAPR/IEEE International Conference on Image Analysis and Processing  (ICIAP 2001), September 26-28, 2001, Palermo, Italy
-
-**[C3]** L. Di Stefano, S. Mattoccia, “Real-time stereo for a mobility aid dedicated to the visually impaired”, 6th International Conference on Control, Automation, Robotics and Computer Vision  (ICARCV 2000), December 5-8, 2000, Singapore, Singapore
-
-**[C2]** L. Di Stefano, S. Mattoccia, “Fast stereo matching for the VIDET system using a general purpose processor with multimedia extensions”, 5th IEEE International Workshop on Computer Architectures for Machine Perception  (CAMP 2000), September 11-13, 2000, Padova, Italy
-
-**[C1]** P. Arcara, L. Di Stefano, S. Mattoccia, C. Melchiorri, G. Vassura, “Perception of depth information by means of a wire-actuated haptic interface”, IEEE International Conference on Robotics and Automation  (ICRA 2000), April 24-28, 2000, San Francisco, California, USA
-
-Book chapters
--------
-**[B3]**  S. Mattoccia, Book title: “Advances in Embedded Computer Vision”, Chapter "Stereo vision algorithms suited to constrained FPGA cameras", Edited by Branislav Kisacanin and Margrit Gelautz, 2014, Springer
-
-**[B2]**  C. Dal Mutto, F. Dominio, P. Zanuttigh, S. Mattoccia, Book title: "Current advancements in stereo vision", Chapter "Stereo vision and scene segmentation", Edited by Asim Bhatti, July 2012, ISBN  978-953-51-0660-9, Publisher: I-Tech Education and Publishing Kirchengasse 43/3, A-1070, Vienna, Austria
-
-**[B1]**  F. Tombari, L. Di Stefano, S. Mattoccia, Book title: "Stereo vision", Chapter "Robust visual correspondence: theory and applications", Edited by Asim Bhatti, November 2008, ISBN  978-953-7619-22-0, Publisher: I-Tech Education and Publishing Kirchengasse 43/3, A-1070, Vienna, Austria
-
-Patents/Brevetti
--------
-**[P7]** S. Mattoccia, L. Bartolomei, M.Poggi, F. Tosi, “Method for depth estimation”, 2023
-
-**[P6]** M.Poggi, F. Aleotti, F. Tosi, S. Mattoccia, V. Peluso, A. Cipolletta, A. Calimera, “Method for determining the depth from a single image and system thereof”, pending (102021000007175, March 24, 2021)
-
-**[P5]** M. Poggi, F. Aleotti, F. Tosi, S. Mattoccia, “Method for determining the confidence of a disparity map through a self-adaptive learning of a neural network, and sensor system thereof”, pending (102020000016054, July 2, 2020 INTELLECTUAL PROPERTY AWARD
-
-**[P4]** A. Tonioni, M. Poggi, F. Tosi, S. Mattoccia, L. Di Stefano, “Depth determination method based on images, self-adaptive neural networks, and relative system”, pending (2019)
-
-**[P3]** M. Poggi, D. Palllotti, F. Tosi, S. Mattoccia,”Depth determination method based on images, and relative system“, pending (102019000006964, March 23, 2021)
-
-**[P2]** S. Mattoccia, L. Di Stefano, A. Annovi, “Metodo per l'individuazione e la correzione di disallineamenti di una pluralità di immagini componenti concorrenti a formare un'immagine risultante da controllare", MO2007A000032, January 30, 2007
-
-**[P1]** S. Mattoccia, L. Di Stefano, “Apparecchio e metodo per il confronto di immagini digitali”, IT0001341200, September 25, 2007
-
-PhD Thesis
--------
-S. Mattoccia, "Real-time analysis of video sequences", Ph.D. Thesis in Electronic Engineering and Computer Science, University of Bologna, February 2002
