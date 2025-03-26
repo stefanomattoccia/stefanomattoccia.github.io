@@ -84,6 +84,13 @@ Journal papers
 
 **[J1]** L. Di Stefano, S. Mattoccia, “Real-time stereo within the VIDET project”, Real-Time Imaging (RTI), 8(5), pages 439 – 453, October 2002
 
+Arxiv papers
+------
+
+**[A2]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping slam: a survey”, [[PDF](https://arxiv.org/pdf/2402.13255)]
+
+**[A1]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo in the Wild through Virtual Pattern Projection”, [[PDF](https://arxiv.org/pdf/2406.04345)]
+
 International Conference and Workshop papers
 ------
 
