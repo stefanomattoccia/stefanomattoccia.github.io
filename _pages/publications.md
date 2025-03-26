@@ -366,3 +366,7 @@ Patents/Brevetti
 PhD Thesis
 -------
 S. Mattoccia, "Real-time analysis of video sequences", Ph.D. Thesis in Electronic Engineering and Computer Science, University of Bologna, February 2002
+
+Other documents
+-------
+S. Mattoccia, "Stereo vision: algorithms and applications", 2011 [[PDF](/files/StereoVision.pdf)]
