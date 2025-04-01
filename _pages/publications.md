@@ -94,6 +94,8 @@ Arxiv papers
 International Conference and Workshop papers
 ------
 
+**[C127]** A. Mingozzi, S. Mattoccia, M. Poggi, F. Güney, “Zero-Shot Neural Architecture Search for Efficient Deep Stereo Matching”, 23rd International Conference on Image Analysis and Processing (ICIAP 2025), Rome, Italy, 15-19 September 2025
+
 **[C126]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), June 11–15, 2025, Nashville, Tennessee, USA [[PDF](https://arxiv.org/pdf/2412.04472)] [[Project](https://stereoanywhere.github.io/)] [[Code](https://github.com/bartn8/stereoanywhere/)]
 
 **[C125]** Z. Gong, F. Tosi, Y. Zhang, S. Mattoccia, M. Poggi, “HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM”, IEEE International Conference on Robotics & Automation (ICRA 2025), May 19–23, 2025, Atlanta, Georgia, USA [[PDF](https://arxiv.org/pdf/2503.21778)] [[Project](https://zorangong.github.io/HS-SLAM/)] [Code]
