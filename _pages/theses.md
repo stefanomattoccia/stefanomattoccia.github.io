@@ -17,7 +17,7 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 
 **[T288]** Valentino Cannas (I), “Supporto alle animazioni in applicazione di realtà aumentata”, in corso
 
-**[T287]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensore depth”, in corso
+**[T287]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensore depth”, AA 2023/24
 
 **[T286]** Roberto Iervese (I), “CORDIC: Un Algoritmo Iterativo per il Calcolo di Funzioni Matematiche in Sistemi Embedded”, AA 2023/24
 
