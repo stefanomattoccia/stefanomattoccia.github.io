@@ -15,6 +15,8 @@ AI=Artificial Intelligence, I=Informatica, A=Automazione, E=Elettronica, M=Laure
 Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 ------
 
+**[T289]** Mirko Tonelli (I), “Estensione di un dataset”, in corso
+
 **[T288]** Valentino Cannas (I), “Supporto alle animazioni in applicazione di realtà aumentata”, in corso
 
 **[T287]** Nicole Ferrari (I), “Sincronizzazione di telecamera e sensore depth”, AA 2023/24
@@ -237,7 +239,7 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 
 **[T178]** Alessandro Fossa (I), “Applicazione di realtà aumentata 3D con telecamera monoculare”, AA 2017/18
 
-**[T177]** Andrea Valli (E), “Applicazione di computer vision”, in corso presso Teptrapak (sede di Modena)
+**[T177]** Andrea Valli (E), “Applicazione di computer vision”, in corso presso Tetrapak (sede di Modena)
 
 **[T176]** Davide Pallotti (IM), “Integrazione di dati di disparità sparsi in algoritmi per la visione stereo basati su deep-learning”,  AA 2017/18
 
