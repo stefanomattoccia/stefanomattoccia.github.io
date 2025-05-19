@@ -453,7 +453,7 @@ Theses (Bachelor and Master)/Tesi (Triennali e Magistrali)
 
 **[T71]** Alessandro Mattei (IM), “Interfacciamento di sensori d'immagine stereo mediante connessione differenziale su piattaforma FPGA”, AA 2014/15
 
-**[T70]** Pierluigi Zama Ramirez (I), “Controllo di perriferiche mappate su piattaforma Zyn con Linux”, AA 2013/14
+**[T70]** Pierluigi Zama Ramirez (I), “Controllo di perriferiche mappate su piattaforma Zynq con Linux”, AA 2013/14
 
 **[T69]** Giulio Belletti (I), “Estensione di un sistema di ausilio per ipovedenti basato su visione 3D”, AA 2013/14
 
