@@ -97,7 +97,7 @@ and Multi-Frame Integration” [[PDF](https://arxiv.org/pdf/2504.16545)]
 International Conference and Workshop papers
 ------
 
-**[C129]** H. Li, . Poggi, F. Tosi, S. Mattoccia, “Self-supervised Monocular Depth Estimation for Dynamic Objects with Ground Propagation”, oral presentation at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), October 19–25, 2025, Hangzhou, China
+**[C129]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “Self-supervised Monocular Depth Estimation for Dynamic Objects with Ground Propagation”, oral presentation at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), October 19–25, 2025, Hangzhou, China
 
 **[C128]** A. Mingozzi, S. Mattoccia, M. Poggi, F. Güney, “Zero-Shot Neural Architecture Search for Efficient Deep Stereo Matching”, 23rd International Conference on Image Analysis and Processing (ICIAP 2025), Rome, Italy, 15-19 September 2025
 
