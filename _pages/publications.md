@@ -97,6 +97,8 @@ and Multi-Frame Integration” [[PDF](https://arxiv.org/pdf/2504.16545)]
 International Conference and Workshop papers
 ------
 
+**[C129]** H. Li, . Poggi, F. Tosi, S. Mattoccia, “Self-supervised Monocular Depth Estimation for Dynamic Objects with Ground Propagation”, oral presentation at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), October 19–25, 2025, Hangzhou, China
+
 **[C128]** A. Mingozzi, S. Mattoccia, M. Poggi, F. Güney, “Zero-Shot Neural Architecture Search for Efficient Deep Stereo Matching”, 23rd International Conference on Image Analysis and Processing (ICIAP 2025), Rome, Italy, 15-19 September 2025
 
 **[C127]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, “Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), June 11–15, 2025, Nashville, Tennessee, USA [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Bartolomei_Stereo_Anywhere_Robust_Zero-Shot_Deep_Stereo_Matching_Even_Where_Either_CVPR_2025_paper.pdf)] [[Supp.](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Bartolomei_Stereo_Anywhere_Robust_CVPR_2025_supplemental.pdf)] [[Project](https://stereoanywhere.github.io/)] [[Code](https://github.com/bartn8/stereoanywhere/)]
