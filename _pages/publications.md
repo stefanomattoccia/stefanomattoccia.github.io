@@ -12,6 +12,8 @@ List of publications and patents.
 Journal papers
 ------
 
+**[J37]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo in the Wild through Virtual Pattern Projection”,  International Journal of Computer Vision (IJCV), accepted 2025, [[PDF](https://arxiv.org/pdf/2406.04345)]
+
 **[J36]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), pages 8900 – 8917, Volume 46, Issue 12, December 2024 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10552115)]
 
 **[J35]** X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), Volume 132, pages 4954 – 4991, 2024 [[Arxiv](https://arxiv.org/pdf/2405.10357)] [[PDF](https://link.springer.com/article/10.1007/s11263-024-02089-5)]
@@ -87,12 +89,10 @@ Journal papers
 Arxiv papers
 ------
 
-**[A3]** A. Conti, M. Poggi, V. Cambareri, M. R. Oswald, S. Mattoccia “ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth
+**[A2]** A. Conti, M. Poggi, V. Cambareri, M. R. Oswald, S. Mattoccia “ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth
 and Multi-Frame Integration” [[PDF](https://arxiv.org/pdf/2504.16545)]
 
-**[A2]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey” [[PDF](https://arxiv.org/pdf/2402.13255)]
-
-**[A1]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo in the Wild through Virtual Pattern Projection” [[PDF](https://arxiv.org/pdf/2406.04345)]
+**[A1]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey” [[PDF](https://arxiv.org/pdf/2402.13255)]
 
 International Conference and Workshop papers
 ------
