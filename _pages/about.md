@@ -11,6 +11,9 @@ Associate Professor of Computer Science at the Department of Computer Science an
 [[CV](/files/CV_ENG.pdf)]
 
 
+
 Contact information
+
 Address: Viale Risorgimento 2, 40136 Bologna, Italy
+
 Phone: +39 051 2093860 
