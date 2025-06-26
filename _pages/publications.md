@@ -89,13 +89,17 @@ Journal papers
 Arxiv papers
 ------
 
-**[A2]** A. Conti, M. Poggi, V. Cambareri, M. R. Oswald, S. Mattoccia “ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth
-and Multi-Frame Integration” [[PDF](https://arxiv.org/pdf/2504.16545)]
-
 **[A1]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey” [[PDF](https://arxiv.org/pdf/2402.13255)]
 
 International Conference and Workshop papers
 ------
+
+**[C132]** L. Bartolomei, E. Mannocci, F. Tosi, M. Poggi, S. Mattoccia, "Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation", International Conference on Computer Vision (ICCV 2025), October 19 – 23, 2025, Honolulu, Hawaii
+
+**[C131]** A. Conti, M. Poggi, V. Cambareri, M. R. Oswald, S. Mattoccia “ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth
+and Multi-Frame Integration”, International Conference on Computer Vision (ICCV 2025), October 19 – 23, 2025, Honolulu, Hawaii [[PDF](https://arxiv.org/pdf/2504.16545)]
+
+**[C130]** X. Qiao, M. Poggi, X. Wei, P. Deng, Y. Zhou, S. Mattoccia, "Learnable Fractional Reaction-Diffusion Dynamics for Under-Display ToF Imaging and Beyond", International Conference on Computer Vision (ICCV 2025), October 19 – 23, 2025, Honolulu, Hawaii
 
 **[C129]** H. Li, M. Poggi, F. Tosi, S. Mattoccia, “Self-supervised Monocular Depth Estimation for Dynamic Objects with Ground Propagation”, oral presentation at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), October 19–25, 2025, Hangzhou, China
 
