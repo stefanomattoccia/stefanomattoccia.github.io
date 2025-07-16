@@ -12,7 +12,7 @@ List of publications and patents.
 Journal papers
 ------
 
-**[J37]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo in the Wild through Virtual Pattern Projection”,  International Journal of Computer Vision (IJCV), accepted 2025 [[Arxiv](https://arxiv.org/pdf/2406.04345)]
+**[J37]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo in the Wild through Virtual Pattern Projection”,  International Journal of Computer Vision (IJCV), accepted 2025 [[Arxiv](https://arxiv.org/pdf/2406.04345)] [[PDF](https://link.springer.com/article/10.1007/s11263-025-02511-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250716&utm_content=10.1007/s11263-025-02511-6)]
 
 **[J36]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), pages 8900 – 8917, Volume 46, Issue 12, December 2024 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10552115)]
 
