@@ -89,6 +89,8 @@ Journal papers
 Arxiv papers
 ------
 
+**[A3]** Z. Gong, X. Li, F. Tosi, J. Han, S. Mattoccia, J. Cai, M. Poggi, "Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos" [[PDF](https://arxiv.org/pdf/2507.22052)]
+
 **[A2]** Z. Gong, X. Li, F. Tosi, Y. Zhang, S. Mattoccia, J. Wu, M. Poggi, "DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations" [[PDF](https://arxiv.org/pdf/2507.19474)]
 
 **[A1]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey” [[PDF](https://arxiv.org/pdf/2402.13255)]
