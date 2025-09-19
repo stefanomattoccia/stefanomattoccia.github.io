@@ -100,7 +100,7 @@ Arxiv papers
 International Conference and Workshop papers
 ------
 
-**[C132]** L. Bartolomei, E. Mannocci, F. Tosi, M. Poggi, S. Mattoccia, "Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation", International Conference on Computer Vision (ICCV 2025), October 19–23, 2025, Honolulu, Hawaii [Arxiv(https://arxiv.org/pdf/2509.15224)] [[Project](https://bartn8.github.io/depthanyevent/)] [[Code](https://github.com/bartn8/depthanyevent/)] 
+**[C132]** L. Bartolomei, E. Mannocci, F. Tosi, M. Poggi, S. Mattoccia, "Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation", International Conference on Computer Vision (ICCV 2025), October 19–23, 2025, Honolulu, Hawaii [[Arxiv](https://arxiv.org/pdf/2509.15224)] [[Project](https://bartn8.github.io/depthanyevent/)] [[Code](https://github.com/bartn8/depthanyevent/)] 
 
 **[C131]** A. Conti, M. Poggi, V. Cambareri, M. R. Oswald, S. Mattoccia, “ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth
 and Multi-Frame Integration”, International Conference on Computer Vision (ICCV 2025), October 19–23, 2025, Honolulu, Hawaii [[Arxiv](https://arxiv.org/pdf/2504.16545)]
