@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Stefano Mattoccia"
-description              : &description "Full Professor of Computer Science"
+description              : &description "Professor of Computer Science"
 url                      : https://stefanomattoccia.github.io
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
