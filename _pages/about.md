@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Full Professor at the Department of Computer Science and Engineering of the University of Bologna. The research concerns computer vision, mainly focusing on scene perception with cameras and depth sensors. IEEE Senior member and Distinguished Contributor of the IEEE Computer Society. 
+Full Professor at the Department of Computer Science and Engineering of the University of Bologna. The research concerns computer vision, mainly focusing on scene perception with cameras and depth sensors. IEEE Senior member. 
 [[CV](/files/CV_ENG.pdf)]
 
