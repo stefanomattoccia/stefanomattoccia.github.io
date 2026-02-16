@@ -7,11 +7,11 @@ redirect_from:
   - /teaching.html
 ---
 
-Academic Year 2024/2025
+Academic Year 2025/2026
 
-72943 - Digital Systems M (Sistemi Digitali M) 
+B8563 - Accelerated Computing M (Sistemi di Elaborazione Accelerata M) 
 ------
-Details: [here](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/468006)
+Details: [here](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2025/543027)
 
 28012 - Computer Architectures T (Calcolatori Elettronici T) 
 ------
