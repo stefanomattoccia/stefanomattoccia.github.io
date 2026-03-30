@@ -12,6 +12,10 @@ List of publications and patents.
 Journal papers
 ------
 
+**[J39]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey”, IEEE Transactions on Robotics (T-RO) [[Arxiv](https://arxiv.org/pdf/2402.13255)]
+
+**[J38]** C. Han; C. Lv; H. Jiang; Q. Kou; D. Cheng; S. Mattoccia, “FGDepth: Fine-Grained Boundary Perception Enhancement in Self-Supervised Indoor Depth Estimation”, IEEE Transactions on Multimedia 
+
 **[J37]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo in the Wild through Virtual Pattern Projection”,  International Journal of Computer Vision (IJCV), Volume 133, pages 7242–7269, 2025 [[Arxiv](https://arxiv.org/pdf/2406.04345)] [[PDF](https://link.springer.com/article/10.1007/s11263-025-02511-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250716&utm_content=10.1007/s11263-025-02511-6)]
 
 **[J36]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), pages 8900 – 8917, Volume 46, Issue 12, December 2024 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10552115)]
@@ -89,16 +93,19 @@ Journal papers
 Arxiv papers
 ------
 
-**[A4]** X. Li, Z. Gong, F. Tosi, M. Poggi, S. Mattoccia, D. Liu, J. Wu, "Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes" [[PDF](https://arxiv.org/pdf/2507.23677)]
+**[A2]** X. Li, Z. Gong, F. Tosi, M. Poggi, S. Mattoccia, D. Liu, J. Wu, "Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes" [[PDF](https://arxiv.org/pdf/2507.23677)]
 
-**[A3]** Z. Gong, X. Li, F. Tosi, J. Han, S. Mattoccia, J. Cai, M. Poggi, "Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos" [[PDF](https://arxiv.org/pdf/2507.22052)]
-
-**[A2]** Z. Gong, X. Li, F. Tosi, Y. Zhang, S. Mattoccia, J. Wu, M. Poggi, "DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations" [[PDF](https://arxiv.org/pdf/2507.19474)]
-
-**[A1]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey” [[PDF](https://arxiv.org/pdf/2402.13255)]
+**[A1]** Z. Gong, X. Li, F. Tosi, Y. Zhang, S. Mattoccia, J. Wu, M. Poggi, "DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations" [[PDF](https://arxiv.org/pdf/2507.19474)]
 
 International Conference and Workshop papers
 ------
+
+**[C135]** N. Xu, F. Tosi, L. Wang, J. Han, L. Bartolomei, Z. Yao, M. Poggi, S. Mattoccia, “Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026
+
+**[C134]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, G. Gallego, “EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026
+
+**[C133]** Z. Gong, X. Li, F. Tosi, J. Han, S. Mattoccia, J. Cai, M. Poggi, “Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026 [[Arxiv](https://arxiv.org/pdf/2507.22052)]
+ 
 
 **[C132]** L. Bartolomei, E. Mannocci, F. Tosi, M. Poggi, S. Mattoccia, "Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation", International Conference on Computer Vision (ICCV 2025), October 19–23, 2025, Honolulu, Hawaii [[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Bartolomei_Depth_AnyEvent_A_Cross-Modal_Distillation_Paradigm_for_Event-Based_Monocular_Depth_ICCV_2025_paper.pdf)] [[Arxiv](https://arxiv.org/pdf/2509.15224)] [[Project](https://bartn8.github.io/depthanyevent/)] [[Code](https://github.com/bartn8/depthanyevent/)] 
 
