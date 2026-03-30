@@ -12,9 +12,9 @@ List of publications and patents.
 Journal papers
 ------
 
-**[J39]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey”, IEEE Transactions on Robotics (T-RO) [[Arxiv](https://arxiv.org/pdf/2402.13255)]
+**[J39]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey”, IEEE Transactions on Robotics (T-RO), accepted 2026 [[Arxiv](https://arxiv.org/pdf/2402.13255)]
 
-**[J38]** C. Han; C. Lv; H. Jiang; Q. Kou; D. Cheng; S. Mattoccia, “FGDepth: Fine-Grained Boundary Perception Enhancement in Self-Supervised Indoor Depth Estimation”, IEEE Transactions on Multimedia 
+**[J38]** C. Han; C. Lv; H. Jiang; Q. Kou; D. Cheng; S. Mattoccia, “FGDepth: Fine-Grained Boundary Perception Enhancement in Self-Supervised Indoor Depth Estimation”, IEEE Transactions on Multimedia, accepted 2026 
 
 **[J37]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo in the Wild through Virtual Pattern Projection”,  International Journal of Computer Vision (IJCV), Volume 133, pages 7242–7269, 2025 [[Arxiv](https://arxiv.org/pdf/2406.04345)] [[PDF](https://link.springer.com/article/10.1007/s11263-025-02511-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250716&utm_content=10.1007/s11263-025-02511-6)]
 
