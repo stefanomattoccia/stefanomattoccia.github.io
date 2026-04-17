@@ -100,7 +100,7 @@ Arxiv papers
 International Conference and Workshop papers
 ------
 
-**[C135]** N. Xu, F. Tosi, L. Wang, J. Han, L. Bartolomei, Z. Yao, M. Poggi, S. Mattoccia, “Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026
+**[C135]** N. Xu, F. Tosi, L. Wang, J. Han, L. Bartolomei, Z. Yao, M. Poggi, S. Mattoccia, “Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026 [[Arxiv](https://arxiv.org/pdf/2604.15312)] [[Code](https://github.com/xnh97/Bi-CMPStereo)]
 
 **[C134]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, G. Gallego, “EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026 [[Arxiv](https://arxiv.org/pdf/2604.02331)] [[Project](https://bartn8.github.io/eventhub/)] [[Code](https://github.com/bartn8/eventhub)] 
  
