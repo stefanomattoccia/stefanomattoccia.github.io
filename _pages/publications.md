@@ -105,7 +105,7 @@ International Conference and Workshop papers
 **[C134]** L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, G. Gallego, “EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026 [[Arxiv](https://arxiv.org/pdf/2604.02331)] [[Project](https://bartn8.github.io/eventhub/)] [[Code](https://github.com/bartn8/eventhub)] 
  
 
-**[C133]** Z. Gong, X. Li, F. Tosi, J. Han, S. Mattoccia, J. Cai, M. Poggi, “Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026 [[Arxiv](https://arxiv.org/pdf/2507.22052)] 
+**[C133]** Z. Gong, X. Li, F. Tosi, J. Han, S. Mattoccia, J. Cai, M. Poggi, “Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Denver, USA, June 3 – 7, 2026 [[Arxiv](https://arxiv.org/pdf/2507.22052)] [[Project](https://zorangong.github.io/Ov3R_page/)]
 
 **[C132]** L. Bartolomei, E. Mannocci, F. Tosi, M. Poggi, S. Mattoccia, "Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation", International Conference on Computer Vision (ICCV 2025), October 19–23, 2025, Honolulu, Hawaii [[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Bartolomei_Depth_AnyEvent_A_Cross-Modal_Distillation_Paradigm_for_Event-Based_Monocular_Depth_ICCV_2025_paper.pdf)] [[Arxiv](https://arxiv.org/pdf/2509.15224)] [[Project](https://bartn8.github.io/depthanyevent/)] [[Code](https://github.com/bartn8/depthanyevent/)] 
 
