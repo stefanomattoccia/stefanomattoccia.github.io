@@ -12,15 +12,15 @@ List of publications and patents.
 Journal papers
 ------
 
-**[J39]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey”, IEEE Transactions on Robotics (T-RO), accepted 2026 [[Arxiv](https://arxiv.org/pdf/2402.13255)]
+**[J39]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey”, IEEE Transactions on Robotics (T-RO), Volume 42, pages 1405 - 1427, February 2026 [[Arxiv](https://arxiv.org/pdf/2402.13255)] [[PDF](https://ieeexplore.ieee.org/document/11399632)]
 
-**[J38]** C. Han; C. Lv; H. Jiang; Q. Kou; D. Cheng; S. Mattoccia, “FGDepth: Fine-Grained Boundary Perception Enhancement in Self-Supervised Indoor Depth Estimation”, IEEE Transactions on Multimedia, accepted 2026 
+**[J38]** C. Han; C. Lv; H. Jiang; Q. Kou; D. Cheng; S. Mattoccia, “FGDepth: Fine-Grained Boundary Perception Enhancement in Self-Supervised Indoor Depth Estimation”, IEEE Transactions on Multimedia (TMM), Volume 28, pages 4851 - 4863, February 2026 [[PDF](https://ieeexplore.ieee.org/document/11370223)] 
 
 **[J37]** L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia, “Active Stereo in the Wild through Virtual Pattern Projection”,  International Journal of Computer Vision (IJCV), Volume 133, pages 7242–7269, 2025 [[Arxiv](https://arxiv.org/pdf/2406.04345)] [[PDF](https://link.springer.com/article/10.1007/s11263-025-02511-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250716&utm_content=10.1007/s11263-025-02511-6)]
 
 **[J36]** F. Tosi, F. Aleotti, P. Zama Ramirez, M. Poggi, S. Salti, S. Mattoccia, L. Di Stefano, “Neural Disparity Refinement”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), pages 8900 – 8917, Volume 46, Issue 12, December 2024 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10552115)]
 
-**[J35]** X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), Volume 132, pages 4954 – 4991, 2024 [[Arxiv](https://arxiv.org/pdf/2405.10357)] [[PDF](https://link.springer.com/article/10.1007/s11263-024-02089-5)]
+**[J35]** X. Qiao, M. Poggi, P. Deng, H. Wei, C. Ge, S. Mattoccia, “RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods”, International Journal of Computer Vision (IJCV), Volume 132, pages 4954 – 4991, May 2024 [[Arxiv](https://arxiv.org/pdf/2405.10357)] [[PDF](https://link.springer.com/article/10.1007/s11263-024-02089-5)]
 
 **[J34]** M. Poggi, F. Arrigoni, A. Fusiello, S. Mattoccia, A. Bartoli, T. Sattler, T. Pajdla, “Guest Editorial: Special Issue on Traditional Computer Vision in the Age of Deep Learning”, International Journal of Computer Vision (IJCV), Volume 132, pages 4128 – 4130, 2024
 
