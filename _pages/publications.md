@@ -100,9 +100,9 @@ International Conference and Workshop papers
 
 **[C140]** F. Tosi, L. Bartolomei, M. Poggi, S. Mattoccia, “ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device”, 19th European Conference on Computer Vision (ECCV 2026), Sept. 8 – 12, 2026, Malmö, Sweden [[Arxiv](https://arxiv.org/pdf/2607.08771)] [[Project](https://zipdepth.github.io/)] [[Code](https://github.com/fabiotosi92/ZipDepth)]   
 
-**[C139]** Z. Gong, X. Li, F. Tosi, N. Xu, S. Mattoccia, J. Cai, M. Poggi, “MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos”, 19th European Conference on Computer Vision (ECCV 2026), Sept. 8 – 12, 2026, Malmö, Sweden
+**[C139]** Z. Gong, X. Li, F. Tosi, N. Xu, S. Mattoccia, J. Cai, M. Poggi, “MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos”, 19th European Conference on Computer Vision (ECCV 2026), Sept. 8 – 12, 2026, Malmö, Sweden [[Arxiv](https://arxiv.org/pdf/2607.15211)] [[Project](https://zorangong.github.io/magist3r_page/)] [[Code]]
 
-**[C138]** Z. Gong, X. Li, F. Tosi, Y. Zhang, S. Mattoccia, J. Wu, M. Poggi, “DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations”, 19th European Conference on Computer Vision (ECCV 2026), Sept. 8 – 12, 2026, Malmö, Sweden [[Arxiv](https://arxiv.org/pdf/2507.19474)]
+**[C138]** Z. Gong, X. Li, F. Tosi, Y. Zhang, S. Mattoccia, J. Wu, M. Poggi, “DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations”, 19th European Conference on Computer Vision (ECCV 2026), Sept. 8 – 12, 2026, Malmö, Sweden [[Arxiv](https://arxiv.org/pdf/2507.19474)] [[Project](https://zorangong.github.io/DINO-SLAM/)] [[Code]] 
 
 **[C137]** U. L. Cavalcanti, F. Tosi, M. Poggi, A. Conti, V. Zlokolica, V. Cambareri, S. Mattoccia, “ProDyGS: Dynamic Gaussian Splatting from a Single Static Monocular Camera”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026), Pittsburgh, USA, September 27 – October 1, 2026
 
