@@ -12,6 +12,10 @@ List of publications and patents.
 Journal papers
 ------
 
+**[J41]** X. Qiao, X. Wei, M. Poggi, D. Liu, H. Kong, C. Ge, S. Mattoccia, N. Zheng, “Efficient Time-Fractional Diffusion Network for Under-Display ToF Imaging and Beyond”, International Journal of Computer Vision (IJCV), accepted 2026
+
+**[J40]** E. Mannocci, L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, "Towards Event‐based Stereo Depth Estimation at Millisecond Resolution". IET Image Processing journal, Volume 20, Issue 1, 2026 [[PDF](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.70472)]
+
 **[J39]** F. Tosi, Y. Zhang, Z. Gong, E. Sandström, S. Mattoccia, M.R. Oswald, M. Poggi, “How nerfs and 3d gaussian splatting are reshaping SLAM: a survey”, IEEE Transactions on Robotics (T-RO), Volume 42, pages 1405 - 1427, February 2026 [[Arxiv](https://arxiv.org/pdf/2402.13255)] [[PDF](https://ieeexplore.ieee.org/document/11399632)]
 
 **[J38]** C. Han; C. Lv; H. Jiang; Q. Kou; D. Cheng; S. Mattoccia, “FGDepth: Fine-Grained Boundary Perception Enhancement in Self-Supervised Indoor Depth Estimation”, IEEE Transactions on Multimedia (TMM), Volume 28, pages 4851 - 4863, February 2026 [[PDF](https://ieeexplore.ieee.org/document/11370223)] 
