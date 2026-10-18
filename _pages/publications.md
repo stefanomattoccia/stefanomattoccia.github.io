@@ -12,7 +12,7 @@ List of publications and patents.
 Journal papers
 ------
 
-**[J41]** X. Qiao, X. Wei, M. Poggi, D. Liu, H. Kong, C. Ge, S. Mattoccia, N. Zheng, “Efficient Time-Fractional Diffusion Network for Under-Display ToF Imaging and Beyond”, International Journal of Computer Vision (IJCV), 2026 [[PDF](https://link.springer.com/article/10.1007/s11263-026-03074-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20261017&utm_content=10.1007/s11263-026-03074-w)]
+**[J41]** X. Qiao, X. Wei, M. Poggi, D. Liu, H. Kong, C. Ge, S. Mattoccia, N. Zheng, “Efficient Time-Fractional Diffusion Network for Under-Display ToF Imaging and Beyond”, International Journal of Computer Vision (IJCV), 134, 479 (2026) [[PDF](https://link.springer.com/article/10.1007/s11263-026-03074-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20261017&utm_content=10.1007/s11263-026-03074-w)]
  
 **[J40]** E. Mannocci, L. Bartolomei, F. Tosi, M. Poggi, S. Mattoccia, "Towards Event‐based Stereo Depth Estimation at Millisecond Resolution". IET Image Processing journal, Volume 20, Issue 1, 2026 [[PDF](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.70472)]
 
